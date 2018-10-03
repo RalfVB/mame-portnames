@@ -1,17 +1,1 @@
-{
-  "romname":"aeroboto",
-  "ports":{
-    ":P1":{
-      "labels":{
-        "10":{"player":0,"name":"P1 Jump Button / Hold to Transform"},
-        "20":{"player":0,"name":"P1 Laser / Hold for Energy"}
-      }
-    },
-    ":P2":{
-      "labels":{
-        "10":{"player":1,"name":"P2 Jump Button / Hold to Transform"},
-        "20":{"player":1,"name":"P2 Laser / Hold for Energy"}
-      }
-    }
-  }
-}
+formatz.json

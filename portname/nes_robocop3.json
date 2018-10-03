@@ -2,10 +2,10 @@
   "ports":{
     ":ctrl1:joypad:JOYPAD":{
       "labels":{
-        "1":{"player":0,"name":"A"},
-        "2":{"player":0,"name":"B"},
-        "4":{"player":0,"name":"Select"},
-        "8":{"player":0,"name":"Start"},
+        "1":{"player":0,"name":"A (Jump)"},
+        "2":{"player":0,"name":"B (Shot)"},
+        "4":{"player":0,"name":"Select (Change Weapon)"},
+        "8":{"player":0,"name":"Start (Pause)"},
         "10":{"player":0,"name":"Up"},
         "20":{"player":0,"name":"Down"},
         "40":{"player":0,"name":"Left"},
@@ -14,14 +14,14 @@
     },
     ":ctrl2:joypad:JOYPAD":{
       "labels":{
-        "1":{"player":1,"name":"A"},
-        "2":{"player":1,"name":"B"},
-        "4":{"player":1,"name":"Select"},
-        "8":{"player":1,"name":"Start"},
-        "10":{"player":1,"name":"Up"},
-        "20":{"player":1,"name":"Down"},
-        "40":{"player":1,"name":"Left"},
-        "80":{"player":1,"name":"Right"}
+        "1":{"player":1,"name":"A (n/a)"},
+        "2":{"player":1,"name":"B (n/a)"},
+        "4":{"player":1,"name":"Select (n/a)"},
+        "8":{"player":1,"name":"Start (n/a)"},
+        "10":{"player":1,"name":"Up (n/a)"},
+        "20":{"player":1,"name":"Down (n/a)"},
+        "40":{"player":1,"name":"Left (n/a)"},
+        "80":{"player":1,"name":"Right (n/a)"}
       }
     }
   }

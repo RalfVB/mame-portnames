@@ -1,15 +1,1 @@
-{
-  "romname":"baraduke",
-  "ports":{
-    ":IN1":{
-      "labels":{
-        "10":{"player":0,"name":"P1 Fire"}
-      }
-    },
-    ":IN2":{
-      "labels":{
-        "10":{"player":1,"name":"P2 Fire"}
-      }
-    }
-  }
-}
+aliensec.json

@@ -1,13 +1,1 @@
-{
-  "romname":"raiga",
-  "ports":{
-    ":P1_P2":{
-      "labels":{
-        "10":{"player":0,"name":"P1 Fire"},
-        "20":{"player":0,"name":"P1 Turn"},
-        "1000":{"player":1,"name":"P2 Fire"},
-        "2000":{"player":1,"name":"P2 Turn"}
-      }
-    }
-  }
-}
+stratof.json
