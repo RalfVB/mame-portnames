@@ -1,6 +1,4 @@
 {
-  "romname":"sms",
-  "softname":"sonic",
   "ports":{
     ":ctrl1:joypad:JOYPAD":{
       "labels":{
