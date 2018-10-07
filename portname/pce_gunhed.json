@@ -2,10 +2,10 @@
   "ports":{
     ":JOY_P.0":{
       "labels":{
-        "1":{"player":0,"name":"P1 Button I"},
-        "2":{"player":0,"name":"P1 Button II"},
-        "4":{"player":0,"name":"P1 Select"},
-        "8":{"player":0,"name":"P1 Run"},
+        "1":{"player":0,"name":"P1 I (Bomb)"},
+        "2":{"player":0,"name":"P1 II (Shot)"},
+        "4":{"player":0,"name":"P1 Select (n/a)"},
+        "8":{"player":0,"name":"P1 Run (Pause)"},
         "10":{"player":0,"name":"P1 Up"},
         "20":{"player":0,"name":"P1 Right"},
         "40":{"player":0,"name":"P1 Down"},
@@ -62,8 +62,8 @@
     },
     ":JOY6B_P.0":{
       "labels":{
-        "1":{"player":0,"name":"P1 Button I"},
-        "2":{"player":0,"name":"P1 Button II"},
+        "1":{"player":0,"name":"P1 I (Bomb)"},
+        "2":{"player":0,"name":"P1 II (Shot)"},
         "4":{"player":0,"name":"P1 Select"},
         "8":{"player":0,"name":"P1 Run"},
         "10":{"player":0,"name":"P1 Up"},
