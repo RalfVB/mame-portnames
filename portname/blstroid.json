@@ -1,5 +1,4 @@
 {
-  "romname":"blstroid",
   "ports":{
     ":DIAL0":{
       "labels":{

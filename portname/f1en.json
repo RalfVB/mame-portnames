@@ -1,5 +1,4 @@
 {
-  "romname":"f1en",
   "ports":{
     ":mainpcb:ANALOG1":{
       "labels":{
@@ -24,17 +23,7 @@
     },
     ":mainpcb:SERVICE12_A":{
       "labels":{
-        "1":{"player":0,"name":"Service 1"},
-        "2":{"player":0,"name":"Service Mode"},
-        "4":{"player":0,"name":"Coin 1"},
         "10":{"player":0,"name":"1 Player Start"}
-      }
-    },
-    ":mainpcb:SERVICE34_A":{
-      "labels":{
-        "8":{"player":0,"name":"Unknown"},
-        "10":{"player":0,"name":"Push SW1 (Service)"},
-        "20":{"player":0,"name":"Push SW2 (Test)"}
       }
     },
     ":slavepcb:ANALOG1":{

@@ -1,13 +1,12 @@
 {
-  "romname":"fantjour",
   "ports":{
     ":INPUTS":{
       "labels":{
         "100000":{"player":1,"name":"P2 Power Up"},
-        "200000":{"player":1,"name":"P2 Fire"},
+        "200000":{"player":1,"name":"P2 Shot"},
         "400000":{"player":1,"name":"P2 Missile"},
         "10000000":{"player":0,"name":"P1 Power Up"},
-        "20000000":{"player":0,"name":"P1 Fire"},
+        "20000000":{"player":0,"name":"P1 Shot"},
         "40000000":{"player":0,"name":"P1 Missile"}
       }
     }

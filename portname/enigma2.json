@@ -1,5 +1,4 @@
 {
-  "romname":"enigma2",
   "ports":{
     ":P1CONTROLS":{
       "labels":{

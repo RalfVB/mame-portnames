@@ -1,27 +1,26 @@
 {
-  "romname":"bigrun",
   "ports":{
-    ":IN2":{
+    ":IN1":{
       "labels":{
-        "1":{"name":"Brake"},
-        "2":{"name":"Gear Shift"},
-        "80":{"name":"Horn"}
+        "10":{"player":0,"name":"P1 Start"},
+        "20":{"player":0,"name":"P2 Start"}
       }
     },
-    ":IN3":{
+    ":IN2":{
       "labels":{
-        "1":{"name":"Up Limit SW"},
-        "2":{"name":"Down Limit SW"}
+        "1":{"player":0,"name":"Brake"},
+        "2":{"player":0,"name":"Gear Shift"},
+        "80":{"player":0,"name":"Horn"}
       }
     },
     ":IN6":{
       "labels":{
-        "ff":{"name":"Steering Wheel"}
+        "ff":{"player":0,"name":"Paddle"}
       }
     },
     ":PEDAL":{
       "labels":{
-        "ff":{"name":"Gas Pedal"}
+        "ff":{"player":0,"name":"Gas"}
       }
     }
   }

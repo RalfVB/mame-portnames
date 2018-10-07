@@ -1,5 +1,4 @@
 {
-  "romname":"atetris",
   "ports":{
     ":IN1":{
       "labels":{

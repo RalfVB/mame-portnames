@@ -1,5 +1,4 @@
 {
-  "romname":"cadash",
   "ports":{
     ":IN0":{
       "labels":{

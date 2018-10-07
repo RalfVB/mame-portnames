@@ -1,41 +1,12 @@
 {
-  "romname":"f1gp",
   "ports":{
-    ":DSW1":{
-      "labels":{
-        "3":{"player":0,"name":"Difficulty"},
-        "4":{"player":0,"name":"Game Mode"},
-        "8":{"player":0,"name":"Multi Player Mode"},
-        "100":{"player":0,"name":"Unused"},
-        "e00":{"player":0,"name":"Coin A"},
-        "7000":{"player":0,"name":"Coin B"},
-        "7e00":{"player":0,"name":"Coinage"},
-        "8000":{"player":0,"name":"Continue Coin"}
-      }
-    },
-    ":DSW2":{
-      "labels":{
-        "100":{"player":0,"name":"Service Mode"},
-        "200":{"player":0,"name":"Flip Screen"},
-        "400":{"player":0,"name":"Demo Sounds"},
-        "8000":{"player":0,"name":"Unused"}
-      }
-    },
-    ":DSW3":{
-      "labels":{
-        "1f":{"player":0,"name":"Region"}
-      }
-    },
     ":INPUTS":{
       "labels":{
-        "4":{"player":0,"name":"P1 Left"},
-        "8":{"player":0,"name":"P1 Right"},
-        "10":{"player":0,"name":"P1 Button 1"},
-        "20":{"player":0,"name":"P1 Button 2"},
-        "100":{"player":0,"name":"Coin 1"},
-        "200":{"player":0,"name":"Coin 2"},
-        "400":{"player":0,"name":"1 Player Start"},
-        "4000":{"player":0,"name":"Service 1"}
+        "4":{"player":0,"name":"Left"},
+        "8":{"player":0,"name":"Right"},
+        "10":{"player":0,"name":"Button 1"},
+        "20":{"player":0,"name":"Button 2"},
+        "400":{"player":0,"name":"Start"}
       }
     }
   }

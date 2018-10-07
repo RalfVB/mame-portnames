@@ -1,5 +1,4 @@
 {
-  "romname":"apb",
   "ports":{
     ":1800":{
       "labels":{

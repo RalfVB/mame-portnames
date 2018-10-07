@@ -1,38 +1,37 @@
 {
-  "romname":"tinstar",
   "ports":{
     ":IN0":{
       "labels":{
-        "1":{"name":"P1 Move Left"},
-        "2":{"name":"P1 Move Right"},
-        "4":{"name":"P1 Move Down"},
-        "8":{"name":"P1 Move Up"},
-        "10":{"name":"P1 Fire"}
+        "1":{"player":0,"name":"P1 Move Left"},
+        "2":{"player":0,"name":"P1 Move Right"},
+        "4":{"player":0,"name":"P1 Move Down"},
+        "8":{"player":0,"name":"P1 Move Up"},
+        "10":{"player":0,"name":"P1 Fire"}
       }
     },
     ":IN1":{
       "labels":{
-        "1":{"name":"P2 Move Left"},
-        "2":{"name":"P2 Move Right"},
-        "4":{"name":"P2 Move Down"},
-        "8":{"name":"P2 Move Up"},
-        "10":{"name":"P2 Fire"}
+        "1":{"player":1,"name":"P2 Move Left"},
+        "2":{"player":1,"name":"P2 Move Right"},
+        "4":{"player":1,"name":"P2 Move Down"},
+        "8":{"player":1,"name":"P2 Move Up"},
+        "10":{"player":1,"name":"P2 Fire"}
       }
     },
     ":IN3":{
       "labels":{
-        "1":{"name":"P1 Aim Left"},
-        "2":{"name":"P1 Aim Right"},
-        "4":{"name":"P1 Aim Down"},
-        "8":{"name":"P1 Aim Up"}
+        "1":{"player":0,"name":"P1 Aim Left"},
+        "2":{"player":0,"name":"P1 Aim Right"},
+        "4":{"player":0,"name":"P1 Aim Down"},
+        "8":{"player":0,"name":"P1 Aim Up"}
       }
     },
     ":IN4":{
       "labels":{
-        "1":{"name":"P2 Aim Left"},
-        "2":{"name":"P2 Aim Right"},
-        "4":{"name":"P2 Aim Down"},
-        "8":{"name":"P2 Aim Up"}
+        "1":{"player":1,"name":"P2 Aim Left"},
+        "2":{"player":1,"name":"P2 Aim Right"},
+        "4":{"player":1,"name":"P2 Aim Down"},
+        "8":{"player":1,"name":"P2 Aim Up"}
       }
     }
   }

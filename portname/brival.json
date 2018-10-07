@@ -1,5 +1,4 @@
 {
-  "romname":"brival",
   "ports":{
     ":mainpcb:EXTRA2":{
       "labels":{

@@ -1,5 +1,4 @@
 {
-  "romname":"blastoff",
   "ports":{
     ":CONTROL0":{
       "labels":{

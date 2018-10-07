@@ -1,5 +1,4 @@
 {
-  "romname":"cshift",
   "ports":{
     ":IN0":{
       "labels":{

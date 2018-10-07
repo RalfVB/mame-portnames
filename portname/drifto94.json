@@ -1,57 +1,19 @@
 {
-  "romname":"drifto94",
   "ports":{
-    ":DSW1":{
-      "labels":{
-        "1":{"player":0,"name":"Flip Screen"},
-        "2":{"player":0,"name":"Service Mode"},
-        "4":{"player":0,"name":"Sound Test"},
-        "8":{"player":0,"name":"Demo Sounds"},
-        "30":{"player":0,"name":"Coin A"},
-        "c0":{"player":0,"name":"Coin B"}
-      }
-    },
-    ":DSW2":{
-      "labels":{
-        "3":{"player":0,"name":"Difficulty"},
-        "8":{"player":0,"name":"Unknown"},
-        "10":{"player":0,"name":"Music Volume"},
-        "20":{"player":0,"name":"Sound Volume"},
-        "40":{"player":0,"name":"Save Best Time"},
-        "80":{"player":0,"name":"Unused"}
-      }
-    },
     ":P1":{
       "labels":{
-        "1":{"player":0,"name":"1 Player Start"},
+        "1":{"player":0,"name":"P1 Start"},
         "2":{"player":0,"name":"P1 Button 3"},
         "4":{"player":0,"name":"P1 Button 2"},
-        "8":{"player":0,"name":"P1 Button 1"},
-        "10":{"player":0,"name":"P1 Right"},
-        "20":{"player":0,"name":"P1 Left"},
-        "40":{"player":0,"name":"P1 Down"},
-        "80":{"player":0,"name":"P1 Up"}
+        "8":{"player":0,"name":"P1 Button 1"}
       }
     },
     ":P2":{
       "labels":{
-        "1":{"player":0,"name":"2 Players Start"},
+        "1":{"player":0,"name":"P2 Start"},
         "2":{"player":1,"name":"P2 Button 3"},
         "4":{"player":1,"name":"P2 Button 2"},
-        "8":{"player":1,"name":"P2 Button 1"},
-        "10":{"player":1,"name":"P2 Right"},
-        "20":{"player":1,"name":"P2 Left"},
-        "40":{"player":1,"name":"P2 Down"},
-        "80":{"player":1,"name":"P2 Up"}
-      }
-    },
-    ":SYSTEM":{
-      "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "2":{"player":0,"name":"Coin 2"},
-        "4":{"player":0,"name":"Service 1"},
-        "8":{"player":0,"name":"Tilt"},
-        "10":{"player":0,"name":"Test"}
+        "8":{"player":1,"name":"P2 Button 1"}
       }
     }
   }

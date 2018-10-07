@@ -1,24 +1,10 @@
 {
-  "romname":"combh",
   "ports":{
-    ":DSW1":{
-      "labels":{
-        "1":{"player":0,"name":"Flip Screen"},
-        "6":{"player":0,"name":"Coinage"},
-        "8":{"player":0,"name":"Lives"},
-        "10":{"player":0,"name":"Cabinet"},
-        "20":{"player":0,"name":"Unused"},
-        "40":{"player":0,"name":"Difficulty"},
-        "80":{"player":0,"name":"Fuel"}
-      }
-    },
     ":IN0":{
       "labels":{
         "1":{"player":0,"name":"P1 Up"},
         "4":{"player":0,"name":"P1 Down"},
         "10":{"player":0,"name":"P1 Button 1"},
-        "20":{"player":0,"name":"Coin 1"},
-        "40":{"player":0,"name":"Service 1"},
         "80":{"player":0,"name":"P1 Button 2"}
       }
     },
@@ -35,8 +21,7 @@
     ":IN2":{
       "labels":{
         "1":{"player":0,"name":"P1 Button 3"},
-        "2":{"player":1,"name":"P2 Button 3"},
-        "4":{"player":0,"name":"Coin 2"}
+        "2":{"player":1,"name":"P2 Button 3"}
       }
     }
   }

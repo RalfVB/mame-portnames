@@ -1,20 +1,10 @@
 {
-  "romname":"cybrcomm",
   "ports":{
-    ":DSW0":{
-      "labels":{
-        "8000":{"player":0,"name":"Unknown"}
-      }
-    },
     ":INPUTS":{
       "labels":{
         "1":{"player":0,"name":"Gun Trigger"},
         "2":{"player":0,"name":"Missile Button"},
-        "40":{"player":0,"name":"View Change"},
-        "200":{"player":0,"name":"Coin 2"},
-        "400":{"player":0,"name":"Service Mode"},
-        "800":{"player":0,"name":"Service 1"},
-        "1000":{"player":0,"name":"Coin 1"}
+        "40":{"player":0,"name":"View Change"}
       }
     },
     ":STICKX1":{

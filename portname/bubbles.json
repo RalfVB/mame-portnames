@@ -1,5 +1,4 @@
 {
-  "romname":"bubbles",
   "ports":{
     ":IN0":{
       "labels":{

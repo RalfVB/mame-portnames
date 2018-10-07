@@ -1,20 +1,15 @@
 {
-  "romname":"defender",
   "ports":{
     ":IN0":{
       "labels":{
-        "1":{"player":0,"name":"P1 FIRE"},
-        "2":{"player":0,"name":"P1 THRUST"},
-        "4":{"player":0,"name":"P1 SMART BOMB"},
-        "8":{"player":0,"name":"P1 HYPERSPACE"},
-        "40":{"player":0,"name":"P1 REVERSE"},
-        "80":{"player":0,"name":"P1 Down"}
+        "1":{"player":0,"name":"Fire"},
+        "2":{"player":0,"name":"Thrust"},
+        "4":{"player":0,"name":"Smart Bomb"},
+        "8":{"player":0,"name":"Hyperspace"},
+        "40":{"player":0,"name":"Reverse"},
+        "80":{"player":0,"name":"Down"}
       }
     },
-    ":IN1":{
-      "labels":{
-        "1":{"player":0,"name":"P1 Up"}
-      }
-    }
+    ":IN1":{"labels":{"1":{"player":0,"name":"Up"}}}
   }
 }

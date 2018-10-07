@@ -1,5 +1,4 @@
 {
-  "romname":"checkmat",
   "ports":{
     ":IN0":{
       "labels":{

@@ -1,33 +1,5 @@
 {
-  "romname":"futspy",
   "ports":{
-    ":COIN":{
-      "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "2":{"player":0,"name":"Coin 2"},
-        "4":{"player":0,"name":"Service 1"}
-      }
-    },
-    ":DSW02":{
-      "labels":{
-        "f":{"player":0,"name":"Coin A"},
-        "f0":{"player":0,"name":"Coin B"}
-      }
-    },
-    ":DSW03":{
-      "labels":{
-        "1":{"player":0,"name":"Cabinet"},
-        "2":{"player":0,"name":"Demo Sounds"},
-        "c":{"player":0,"name":"Lives"},
-        "30":{"player":0,"name":"Bonus Life"},
-        "c0":{"player":0,"name":"Difficulty"}
-      }
-    },
-    ":SERVICESW":{
-      "labels":{
-        "1":{"player":0,"name":"Service Mode"}
-      }
-    },
     ":SW00":{
       "labels":{
         "1":{"player":0,"name":"P1 Right"},
@@ -50,8 +22,8 @@
     },
     ":SW100":{
       "labels":{
-        "4":{"player":0,"name":"1 Player Start"},
-        "8":{"player":0,"name":"2 Players Start"}
+        "4":{"player":0,"name":"P1 Start"},
+        "8":{"player":0,"name":"P2 Start"}
       }
     }
   }

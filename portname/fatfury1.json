@@ -1,12 +1,11 @@
 {
-  "romname":"fatfury1",
   "ports":{
     ":edge:joy:JOY1":{
       "labels":{
         "10":{"player":0,"name":"P1 Punch"},
         "20":{"player":0,"name":"P1 Kick"},
         "40":{"player":0,"name":"P1 Throw"},
-        "80":{"player":0,"name":"P1 D"}
+        "80":{"player":0,"name":"n/a"}
       }
     },
     ":edge:joy:JOY2":{
@@ -14,7 +13,7 @@
         "10":{"player":1,"name":"P2 Punch"},
         "20":{"player":1,"name":"P2 Kick"},
         "40":{"player":1,"name":"P2 Throw"},
-        "80":{"player":1,"name":"P2 D"}
+        "80":{"player":1,"name":"n/a"}
       }
     }
   }

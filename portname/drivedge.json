@@ -1,32 +1,13 @@
 {
-  "romname":"drivedge",
   "ports":{
-    ":200000":{
-      "labels":{
-        "2000000":{"player":0,"name":"Coin 3"},
-        "70000000":{"player":0,"name":"Network Number"},
-        "80000000":{"player":0,"name":"Service Mode"}
-      }
-    },
     ":80000":{
       "labels":{
-        "ff0000":{"player":0,"name":"P1 Pedal 3"}
+        "ff0000":{"player":0,"name":"Pedal 3"}
       }
     },
     ":82000":{
       "labels":{
-        "ff0000":{"player":0,"name":"P1 Pedal 2"}
-      }
-    },
-    ":8c000":{
-      "labels":{
-        "10000":{"player":0,"name":"Coin 1"},
-        "20000":{"player":0,"name":"Coin 2"},
-        "40000":{"player":0,"name":"Gear 1"},
-        "80000":{"player":0,"name":"Gear 2"},
-        "100000":{"player":0,"name":"Gear 3"},
-        "200000":{"player":0,"name":"Gear 4"},
-        "400000":{"player":0,"name":"Service Mode"}
+        "ff0000":{"player":0,"name":"Pedal 2"}
       }
     },
     ":8e000":{
@@ -42,12 +23,12 @@
     },
     ":GAS":{
       "labels":{
-        "ff":{"player":0,"name":"P1 Pedal 1"}
+        "ff":{"player":0,"name":"Gas"}
       }
     },
     ":STEER":{
       "labels":{
-        "ff":{"player":0,"name":"Paddle"}
+        "ff":{"player":0,"name":"Steering Wheel"}
       }
     }
   }

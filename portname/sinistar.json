@@ -3,29 +3,31 @@
   "ports":{
     ":49WAYX":{
       "labels":{
-        "ff":{"name":"AD Stick X"}
-      }
-    },
-    ":49WAYY":{
-      "labels":{
-        "ff":{"name":"AD Stick Y"}
-      }
-    },
-    ":IN1":{
-      "labels":{
-        "1":{"name":"P1 Button 1"},
-        "2":{"name":"P1 Button 2"}
+        "ff":{"player":0,"name":"AD Stick X"}
       }
     },
     ":IN2":{
       "labels":{
-        "1":{"name":"Auto Up / Manual Down"},
-        "2":{"name":"Advance"},
-        "4":{"name":"Coin 3"},
-        "8":{"name":"High Score Reset"},
-        "10":{"name":"Coin 1"},
-        "20":{"name":"Coin 2"},
-        "40":{"name":"Tilt"}
+        "1":{"player":0,"name":"Auto Up / Manual Down"},
+        "2":{"player":0,"name":"Advance"},
+        "4":{"player":0,"name":"Coin 3"},
+        "8":{"player":0,"name":"High Score Reset"},
+        "10":{"player":0,"name":"Coin 1"},
+        "20":{"player":0,"name":"Coin 2"},
+        "40":{"player":0,"name":"Tilt"}
+      }
+    },
+    ":49WAYY":{
+      "labels":{
+        "ff":{"player":0,"name":"AD Stick Y"}
+      }
+    },
+    ":IN1":{
+      "labels":{
+        "1":{"player":0,"name":"P1 Button 1"},
+        "2":{"player":0,"name":"P1 Button 2"},
+        "10":{"player":0,"name":"1 Player Start"},
+        "20":{"player":0,"name":"2 Players Start"}
       }
     }
   }

@@ -1,23 +1,22 @@
 {
-  "romname":"desertbr",
   "ports":{
     ":P1":{
       "labels":{
-        "1":{"player":0,"name":"P1 Fire"},
+        "1":{"player":0,"name":"P1 Shot"},
         "2":{"player":0,"name":"P1 Dash"},
         "4":{"player":0,"name":"P1 Bomb"}
       }
     },
     ":P2":{
       "labels":{
-        "1":{"player":1,"name":"P2 Fire"},
+        "1":{"player":1,"name":"P2 Shot"},
         "2":{"player":1,"name":"P2 Dash"},
         "4":{"player":1,"name":"P2 Bomb"}
       }
     },
     ":P3":{
       "labels":{
-        "1":{"player":2,"name":"P3 Fire"},
+        "1":{"player":2,"name":"P3 Shot"},
         "2":{"player":2,"name":"P3 Dash"},
         "4":{"player":2,"name":"P3 Bomb"}
       }

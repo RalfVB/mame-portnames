@@ -1,58 +1,7 @@
 {
-  "romname":"finalap2",
   "ports":{
-    ":AN5":{
-      "labels":{
-        "ff":{"player":0,"name":"Paddle"}
-      }
-    },
-    ":AN6":{
-      "labels":{
-        "ff":{"player":0,"name":"P1 Pedal 2"}
-      }
-    },
-    ":AN7":{
-      "labels":{
-        "ff":{"player":0,"name":"P1 Pedal 1"}
-      }
-    },
-    ":DSW":{
-      "labels":{
-        "1":{"player":0,"name":"Video Display"},
-        "2":{"player":0,"name":"$2000-1"},
-        "4":{"player":0,"name":"$2000-2"},
-        "8":{"player":0,"name":"$2000-3"},
-        "10":{"player":0,"name":"$2000-4"},
-        "20":{"player":0,"name":"$2000-5"},
-        "40":{"player":0,"name":"$2000-6"},
-        "80":{"player":0,"name":"Service Mode"}
-      }
-    },
-    ":MCUB":{
-      "labels":{
-        "1":{"player":0,"name":"PortB 0x01"},
-        "2":{"player":0,"name":"Car Type(A)"}
-      }
-    },
-    ":MCUC":{
-      "labels":{
-        "10":{"player":0,"name":"Coin 2"},
-        "20":{"player":0,"name":"Coin 1"},
-        "40":{"player":0,"name":"Service Mode"},
-        "80":{"player":0,"name":"Service 1"}
-      }
-    },
-    ":MCUH":{
-      "labels":{
-        "1":{"player":0,"name":"PortH 0x01"},
-        "2":{"player":0,"name":"Automatic Car Select"},
-        "4":{"player":0,"name":"PortH 0x04"},
-        "8":{"player":0,"name":"Enable Onscreen Diagnostics"},
-        "10":{"player":0,"name":"PortH 0x10"},
-        "20":{"player":0,"name":"Shift Gear"},
-        "40":{"player":0,"name":"PortH 0x40"},
-        "80":{"player":0,"name":"Car Type(B)"}
-      }
-    }
+    ":AN5":{"labels":{"ff":{"player":0,"name":"Steering Wheel"}}},
+    ":AN6":{"labels":{"ff":{"player":0,"name":"Brake Pedal"}}},
+    ":AN7":{"labels":{"ff":{"player":0,"name":"Gas Pedal"}}}
   }
 }

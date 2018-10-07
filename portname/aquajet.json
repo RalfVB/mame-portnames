@@ -1,5 +1,4 @@
 {
-  "romname":"aquajet",
   "ports":{
     ":ADC.0":{
       "labels":{

@@ -1,5 +1,4 @@
 {
-  "romname":"chopper",
   "ports":{
     ":IN1":{
       "labels":{
@@ -15,9 +14,9 @@
     },
     ":IN2":{
       "labels":{
-        "1":{"player":0,"name":"P1 Shoot"},
+        "1":{"player":0,"name":"P1 Shot"},
         "2":{"player":0,"name":"P1 Special Weapon"},
-        "8":{"player":1,"name":"P2 Shoot"},
+        "8":{"player":1,"name":"P2 Shot"},
         "10":{"player":1,"name":"P2 Special Weapon"}
       }
     }

@@ -1,5 +1,4 @@
 {
-  "romname":"amidar",
   "ports":{
     ":IN0":{
       "labels":{

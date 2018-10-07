@@ -1,5 +1,4 @@
 {
-  "romname":"crossbow",
   "ports":{
     ":AN0":{
       "labels":{

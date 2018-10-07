@@ -1,5 +1,4 @@
 {
-  "romname":"arescue",
   "ports":{
     ":mainpcb:ANALOG1":{
       "labels":{

@@ -1,5 +1,4 @@
 {
-  "romname":"ctribe",
   "ports":{
     ":IN0":{
       "labels":{

@@ -1,42 +1,19 @@
 {
-  "romname":"galpani3",
   "ports":{
     ":COIN":{
       "labels":{
-        "100":{"player":0,"name":"1 Player Start"},
-        "200":{"player":0,"name":"2 Players Start"},
-        "400":{"player":0,"name":"Coin 1"},
-        "800":{"player":0,"name":"Coin 2"},
-        "1000":{"player":0,"name":"Service Mode"},
-        "2000":{"player":0,"name":"Tilt"},
-        "4000":{"player":0,"name":"Service 1"}
-      }
-    },
-    ":DSW1":{
-      "labels":{
-        "100":{"player":0,"name":"Test Mode"},
-        "200":{"player":0,"name":"Flip Screen"},
-        "400":{"player":0,"name":"Demo Sounds"},
-        "4000":{"player":0,"name":"Unused"},
-        "8000":{"player":0,"name":"Unknown"}
+        "100":{"player":0,"name":"P1 Start"},
+        "200":{"player":0,"name":"P2 Start"}
       }
     },
     ":P1":{
       "labels":{
-        "100":{"player":0,"name":"P1 Up"},
-        "200":{"player":0,"name":"P1 Down"},
-        "400":{"player":0,"name":"P1 Left"},
-        "800":{"player":0,"name":"P1 Right"},
-        "1000":{"player":0,"name":"P1 Button 1"}
+        "1000":{"player":0,"name":"P1 Draw"}
       }
     },
     ":P2":{
       "labels":{
-        "100":{"player":1,"name":"P2 Up"},
-        "200":{"player":1,"name":"P2 Down"},
-        "400":{"player":1,"name":"P2 Left"},
-        "800":{"player":1,"name":"P2 Right"},
-        "1000":{"player":1,"name":"P2 Button 1"}
+        "1000":{"player":1,"name":"P2 Draw"}
       }
     }
   }

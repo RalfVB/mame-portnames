@@ -1,5 +1,4 @@
 {
-  "romname":"cheyenne",
   "ports":{
     ":AN0":{
       "labels":{

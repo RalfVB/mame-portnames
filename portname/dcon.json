@@ -1,5 +1,4 @@
 {
-  "romname":"dcon",
   "ports":{
     ":P1_P2":{
       "labels":{

@@ -1,16 +1,7 @@
 {
-  "romname":"exterm",
   "ports":{
-    ":DIAL0":{
-      "labels":{
-        "ff":{"player":0,"name":"P1 Rotate Left / Rotate Right"}
-      }
-    },
-    ":DIAL1":{
-      "labels":{
-        "ff":{"player":1,"name":"P2 Rotate Right /  Rotate Left"}
-      }
-    },
+    ":DIAL0":{"labels":{"ff":{"player":0,"name":"P1 Rotate Left/Rotate Right"}}},
+    ":DIAL1":{"labels":{"ff":{"player":1,"name":"P2 Rotate Right/Rotate Left"}}},
     ":P1":{
       "labels":{
         "4":{"player":0,"name":"P1 Move Up"},

@@ -1,5 +1,4 @@
 {
-  "romname":"ataxx",
   "ports":{
     ":AN0":{
       "labels":{

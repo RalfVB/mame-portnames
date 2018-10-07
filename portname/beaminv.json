@@ -1,5 +1,4 @@
 {
-  "romname":"beaminv",
   "ports":{
     ":CONTP1":{
       "labels":{

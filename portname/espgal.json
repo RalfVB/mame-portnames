@@ -1,20 +1,19 @@
 {
-  "romname":"espgal",
   "ports":{
     ":P1P2":{
       "labels":{
-        "20":{"player":0,"name":"P1 Fire"},
+        "20":{"player":0,"name":"P1 Shot"},
         "40":{"player":0,"name":"P1 Time"},
         "80":{"player":0,"name":"P1 Special Attack"},
-        "2000":{"player":1,"name":"P2 Fire"},
+        "2000":{"player":1,"name":"P2 Shot"},
         "4000":{"player":1,"name":"P2 Time"},
         "8000":{"player":1,"name":"P2 Special Attack"}
       }
     },
     ":Service":{
       "labels":{
-        "100":{"player":0,"name":"P1 Rapid Fire"},
-        "200":{"player":1,"name":"P2 Rapid Fire"}
+        "100":{"player":0,"name":"P1 Rapid Shot"},
+        "200":{"player":1,"name":"P2 Rapid Shot"}
       }
     }
   }

@@ -1,46 +1,12 @@
 {
-  "romname":"frenzy",
   "ports":{
-    ":F2":{
-      "labels":{
-        "3":{"player":0,"name":"Hardware Tests"},
-        "4":{"player":0,"name":"Input Test Mode"},
-        "8":{"player":0,"name":"Crosshair Pattern"}
-      }
-    },
-    ":F3":{
-      "labels":{
-        "f":{"player":0,"name":"Bonus Life"},
-        "c0":{"player":0,"name":"Language"}
-      }
-    },
-    ":F4":{
-      "labels":{
-        "ff":{"player":0,"name":"Coin Multiplier"}
-      }
-    },
-    ":F5":{
-      "labels":{
-        "ff":{"player":0,"name":"Coins/Credit A"}
-      }
-    },
-    ":F6":{
-      "labels":{
-        "ff":{"player":0,"name":"Coins/Credit B"}
-      }
-    },
-    ":MONITOR_TYPE":{
-      "labels":{
-        "1":{"player":0,"name":"Monitor Type"}
-      }
-    },
     ":P1":{
       "labels":{
         "1":{"player":0,"name":"P1 Left"},
         "2":{"player":0,"name":"P1 Right"},
         "4":{"player":0,"name":"P1 Up"},
         "8":{"player":0,"name":"P1 Down"},
-        "10":{"player":0,"name":"P1 Button 1"}
+        "10":{"player":0,"name":"P1 Shot"}
       }
     },
     ":P2":{
@@ -49,22 +15,13 @@
         "2":{"player":1,"name":"P2 Right"},
         "4":{"player":1,"name":"P2 Up"},
         "8":{"player":1,"name":"P2 Down"},
-        "10":{"player":1,"name":"P2 Button 1"},
-        "80":{"player":0,"name":"Cabinet"}
-      }
-    },
-    ":SW2":{
-      "labels":{
-        "1":{"player":0,"name":"Free Game (not logged in bookkeeping)"},
-        "80":{"player":0,"name":"Bookkeeping"}
+        "10":{"player":1,"name":"P2 Shot"}
       }
     },
     ":SYSTEM":{
       "labels":{
-        "1":{"player":0,"name":"1 Player Start"},
-        "2":{"player":0,"name":"2 Players Start"},
-        "40":{"player":0,"name":"Coin 2"},
-        "80":{"player":0,"name":"Coin 1"}
+        "1":{"player":0,"name":"P1 Start"},
+        "2":{"player":0,"name":"P2 Start"}
       }
     }
   }

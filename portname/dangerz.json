@@ -1,5 +1,4 @@
 {
-  "romname":"dangerz",
   "ports":{
     ":AN0":{
       "labels":{
@@ -14,7 +13,7 @@
     ":IN0":{
       "labels":{
         "20":{"player":0,"name":"Machine Gun"},
-        "40":{"player":0,"name":"Heat - Seaking Missile"}
+        "40":{"player":0,"name":"Heat-seeking Missile"}
       }
     }
   }

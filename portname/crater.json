@@ -1,5 +1,4 @@
 {
-  "romname":"crater",
   "ports":{
     ":ssio:IP0":{
       "labels":{

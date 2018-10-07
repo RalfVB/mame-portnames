@@ -1,5 +1,4 @@
 {
-  "romname":"circusc",
   "ports":{
     ":P1":{
       "labels":{

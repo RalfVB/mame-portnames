@@ -1,5 +1,4 @@
 {
-  "romname":"frogs",
   "ports":{
     ":IN0":{
       "labels":{

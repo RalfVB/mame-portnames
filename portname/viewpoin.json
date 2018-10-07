@@ -1,20 +1,25 @@
 {
-  "romname":"viewpoin",
   "ports":{
+    ":edge:joy:START":{
+      "labels":{
+        "1":{"player":0,"name":"P1 Start"},
+        "4":{"player":0,"name":"P2 Start"}
+      }
+    },
     ":edge:joy:JOY1":{
       "labels":{
-        "10":{"name":"P1 Fire"},
-        "20":{"name":"P1 Bomb"},
-        "40":{"name":"P1 ..."},
-        "80":{"name":"P1 ..."}
+        "10":{"player":0,"name":"P1 Shot"},
+        "20":{"player":0,"name":"P1 Bomb"},
+        "40":{"player":0,"name":"n/a"},
+        "80":{"player":0,"name":"n/a"}
       }
     },
     ":edge:joy:JOY2":{
       "labels":{
-        "10":{"name":"P2 Fire"},
-        "20":{"name":"P2 Bomb"},
-        "40":{"name":"P2 ..."},
-        "80":{"name":"P2 ..."}
+        "10":{"player":1,"name":"P2 Shot"},
+        "20":{"player":1,"name":"P2 Bomb"},
+        "40":{"player":1,"name":"n/a"},
+        "80":{"player":1,"name":"n/a"}
       }
     }
   }

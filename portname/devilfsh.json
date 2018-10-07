@@ -1,5 +1,4 @@
 {
-  "romname":"devilfsh",
   "ports":{
     ":IN0":{
       "labels":{

@@ -1,98 +1,15 @@
 {
-  "romname":"driveyes",
   "ports":{
-    ":AN0":{
-      "labels":{
-      }
-    },
-    ":AN1":{
-      "labels":{
-        "ff":{"player":0,"name":"Gas Pedal"}
-      }
-    },
-    ":AN2":{
-      "labels":{
-        "ff":{"player":0,"name":"Steering Wheel"}
-      }
-    },
-    ":AN3":{
-      "labels":{
-        "ff":{"player":0,"name":"Brake Pedal"}
-      }
-    },
-    ":AN4":{
-      "labels":{
-      }
-    },
-    ":AN5":{
-      "labels":{
-      }
-    },
-    ":AN6":{
-      "labels":{
-      }
-    },
-    ":AN7":{
-      "labels":{
-      }
-    },
-    ":DIAL0":{
-      "labels":{
-      }
-    },
-    ":DIAL1":{
-      "labels":{
-      }
-    },
-    ":DIAL2":{
-      "labels":{
-      }
-    },
-    ":DIAL3":{
-      "labels":{
-      }
-    },
-    ":DSW":{
-      "labels":{
-        "1":{"player":0,"name":"Service Mode"},
-        "2":{"player":0,"name":"DSW2"},
-        "4":{"player":0,"name":"DSW3"},
-        "8":{"player":0,"name":"DSW4"},
-        "10":{"player":0,"name":"DSW5"},
-        "20":{"player":0,"name":"PCM ROM"},
-        "40":{"player":0,"name":"DSW7"},
-        "80":{"player":0,"name":"Screen Stop"}
-      }
-    },
-    ":PORTB":{
-      "labels":{
-      }
-    },
-    ":PORTC":{
-      "labels":{
-        "10":{"player":0,"name":"Coin 2"},
-        "20":{"player":0,"name":"Coin 1"},
-        "40":{"player":0,"name":"Service Button"},
-        "80":{"player":0,"name":"Service 1"}
-      }
-    },
+    ":AN1":{"labels":{"ff":{"player":0,"name":"Gas Pedal"}}},
+    ":AN2":{"labels":{"ff":{"player":0,"name":"Steering Wheel"}}},
+    ":AN3":{"labels":{"ff":{"player":0,"name":"Brake Pedal"}}},
     ":PORTH":{
       "labels":{
         "8":{"player":0,"name":"Red Button"},
         "20":{"player":0,"name":"Green Button"}
       }
     },
-    ":gearbox:CLUTCH":{
-      "labels":{
-        "1":{"player":1,"name":"Clutch Pedal"}
-      }
-    },
-    ":gearbox:CONFIG":{
-      "labels":{
-        "1":{"player":0,"name":"Clutch Mode"},
-        "2":{"player":0,"name":"Gearbox Debug"}
-      }
-    },
+    ":gearbox:CLUTCH":{"labels":{"1":{"player":1,"name":"Clutch Pedal"}}},
     ":gearbox:GEARBOX":{
       "labels":{
         "1":{"player":1,"name":"Gearbox Up"},

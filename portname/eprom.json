@@ -1,5 +1,4 @@
 {
-  "romname":"eprom",
   "ports":{
     ":260000":{
       "labels":{
@@ -17,22 +16,22 @@
     },
     ":ADC0":{
       "labels":{
-        "ff":{"player":0,"name":"P1 Up / Down"}
+        "ff":{"player":0,"name":"P1 Up/Down"}
       }
     },
     ":ADC1":{
       "labels":{
-        "ff":{"player":0,"name":"P1 Left / Right"}
+        "ff":{"player":0,"name":"P1 Left/Right"}
       }
     },
     ":ADC2":{
       "labels":{
-        "ff":{"player":1,"name":"P2 Down /  Up"}
+        "ff":{"player":1,"name":"P2 Down/ Up"}
       }
     },
     ":ADC3":{
       "labels":{
-        "ff":{"player":1,"name":"P2 Right /  Left"}
+        "ff":{"player":1,"name":"P2 Right/Left"}
       }
     }
   }

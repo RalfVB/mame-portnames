@@ -1,5 +1,4 @@
 {
-  "romname":"csprint",
   "ports":{
     ":ADC0":{
       "labels":{

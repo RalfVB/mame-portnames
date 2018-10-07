@@ -1,16 +1,5 @@
 {
-  "romname":"chanbara",
   "ports":{
-    ":DSW1":{
-      "labels":{
-        "3":{"player":0,"name":"Coin B"},
-        "c":{"player":0,"name":"Coin A"},
-        "10":{"player":0,"name":"Difficulty"},
-        "20":{"player":0,"name":"Lives"},
-        "40":{"player":0,"name":"Bonus Life"},
-        "80":{"player":0,"name":"Cabinet"}
-      }
-    },
     ":P1":{
       "labels":{
         "1":{"player":0,"name":"P1 Left Stick/Down"},
@@ -37,11 +26,8 @@
     },
     ":SYSTEM":{
       "labels":{
-        "1":{"player":0,"name":"1 Player Start"},
-        "2":{"player":0,"name":"2 Players Start"},
-        "10":{"player":0,"name":"Coin 1"},
-        "20":{"player":0,"name":"Coin 2"},
-        "40":{"player":0,"name":"Service 1"}
+        "1":{"player":0,"name":"P1 Start"},
+        "2":{"player":0,"name":"P2 Start"}
       }
     }
   }

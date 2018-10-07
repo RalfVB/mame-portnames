@@ -1,33 +1,19 @@
 {
-  "romname":"galaxian",
   "ports":{
     ":IN0":{
       "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "2":{"player":0,"name":"Coin 2"},
         "4":{"player":0,"name":"P1 Left"},
         "8":{"player":0,"name":"P1 Right"},
-        "10":{"player":0,"name":"P1 Button 1"},
-        "20":{"player":0,"name":"Cabinet"},
-        "40":{"player":0,"name":"Service Mode"},
-        "80":{"player":0,"name":"Service 1"}
+        "10":{"player":0,"name":"P1 Shot"}
       }
     },
     ":IN1":{
       "labels":{
-        "1":{"player":0,"name":"1 Player Start"},
-        "2":{"player":0,"name":"2 Players Start"},
+        "1":{"player":0,"name":"P1 Start"},
+        "2":{"player":0,"name":"P2 Start"},
         "4":{"player":1,"name":"P2 Left"},
         "8":{"player":1,"name":"P2 Right"},
-        "10":{"player":1,"name":"P2 Button 1"},
-        "c0":{"player":0,"name":"Coinage"}
-      }
-    },
-    ":IN2":{
-      "labels":{
-        "3":{"player":0,"name":"Bonus Life"},
-        "4":{"player":0,"name":"Lives"},
-        "8":{"player":0,"name":"Unused"}
+        "10":{"player":1,"name":"P2 Shot"}
       }
     }
   }

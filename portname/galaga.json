@@ -1,37 +1,11 @@
 {
-  "romname":"galaga",
   "ports":{
-    ":DSWA":{
-      "labels":{
-        "3":{"player":0,"name":"Difficulty"},
-        "8":{"player":0,"name":"Demo Sounds"},
-        "10":{"player":0,"name":"Freeze"},
-        "20":{"player":0,"name":"Rack Test"},
-        "40":{"player":0,"name":"Unused"},
-        "80":{"player":0,"name":"Cabinet"}
-      }
-    },
-    ":DSWB":{
-      "labels":{
-        "7":{"player":0,"name":"Coinage"},
-        "38":{"player":0,"name":"Bonus Life"},
-        "c0":{"player":0,"name":"Lives"}
-      }
-    },
-    ":IN0H":{
-      "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "2":{"player":0,"name":"Coin 2"},
-        "4":{"player":0,"name":"Service 1"},
-        "8":{"player":0,"name":"Service Mode"}
-      }
-    },
     ":IN0L":{
       "labels":{
-        "1":{"player":0,"name":"P1 Button 1"},
-        "2":{"player":1,"name":"P2 Button 1"},
-        "4":{"player":0,"name":"1 Player Start"},
-        "8":{"player":0,"name":"2 Players Start"}
+        "1":{"player":0,"name":"P1 Shot"},
+        "2":{"player":1,"name":"P2 Shot"},
+        "4":{"player":0,"name":"P1 Start"},
+        "8":{"player":0,"name":"P2 Start"}
       }
     },
     ":IN1H":{

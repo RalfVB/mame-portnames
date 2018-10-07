@@ -1,32 +1,15 @@
 {
-  "romname":"galastrm",
   "ports":{
-    ":IN0":{
-      "labels":{
-        "1":{"player":0,"name":"1 Player Start"}
-      }
-    },
+    ":IN0":{"labels":{"1":{"player":0,"name":"Start"}}},
     ":IN2":{
       "labels":{
-        "1":{"player":0,"name":"Service Mode"},
-        "2":{"player":0,"name":"Service 1"},
-        "4":{"player":0,"name":"Coin 1"},
-        "8":{"player":0,"name":"Coin 2"},
-        "10":{"player":0,"name":"P1 Button 1"},
-        "20":{"player":0,"name":"P1 Button 2"},
-        "40":{"player":0,"name":"P1 Button 3"},
-        "80":{"player":0,"name":"P1 Button 4"}
+        "10":{"player":0,"name":"Shot"},
+        "20":{"player":0,"name":"Button 2"},
+        "40":{"player":0,"name":"Button 3"},
+        "80":{"player":0,"name":"Button 4"}
       }
     },
-    ":STICKX":{
-      "labels":{
-        "ff":{"player":0,"name":"AD Stick X"}
-      }
-    },
-    ":STICKY":{
-      "labels":{
-        "ff":{"player":0,"name":"AD Stick Y"}
-      }
-    }
+    ":STICKX":{"labels":{"ff":{"player":0,"name":"Move Horizontal"}}},
+    ":STICKY":{"labels":{"ff":{"player":0,"name":"Move Vertical"}}}
   }
 }

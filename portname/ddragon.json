@@ -1,12 +1,5 @@
 {
-  "romname":"ddragon",
   "ports":{
-    ":EXTRA":{
-      "labels":{
-        "2":{"player":0,"name":"P1 Punch"},
-        "4":{"player":1,"name":"P2 Punch"}
-      }
-    },
     ":P1":{
       "labels":{
         "10":{"player":0,"name":"P1 Kick"},
@@ -17,6 +10,12 @@
       "labels":{
         "10":{"player":1,"name":"P2 Kick"},
         "20":{"player":1,"name":"P2 Jump"}
+      }
+    },
+    ":EXTRA":{
+      "labels":{
+        "2":{"player":0,"name":"P1 Punch"},
+        "4":{"player":1,"name":"P2 Punch"}
       }
     }
   }

@@ -1,9 +1,8 @@
 {
-  "romname":"blueshrk",
   "ports":{
     ":IN0":{
       "labels":{
-        "ff":{"name":"Aim Left / Aim Right"}
+        "ff":{"player":0,"name":"Aim Left / Aim Right"}
       }
     }
   }

@@ -1,5 +1,4 @@
 {
-  "romname":"digdug",
   "ports":{
     ":IN0L":{
       "labels":{

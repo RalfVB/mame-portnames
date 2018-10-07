@@ -1,10 +1,5 @@
 {
-  "romname":"daiskiss",
   "ports":{
-    ":EEPROMOUT":{
-      "labels":{
-      }
-    },
     ":INPUTS":{
       "labels":{
         "1":{"player":3,"name":"P4 Left"},
@@ -39,22 +34,6 @@
         "20000000":{"player":0,"name":"P1 Button 2"},
         "40000000":{"player":0,"name":"P1 Button 3"},
         "80000000":{"player":0,"name":"1 Player Start"}
-      }
-    },
-    ":SERVICE":{
-      "labels":{
-        "8000000":{"player":0,"name":"Service Mode"}
-      }
-    },
-    ":SYSTEM_DSW":{
-      "labels":{
-        "100":{"player":0,"name":"Coin 1"},
-        "200":{"player":0,"name":"Coin 2"},
-        "1000":{"player":0,"name":"Service 1"},
-        "2000":{"player":0,"name":"Service 2"},
-        "1000000":{"player":0,"name":"Stereo"},
-        "2000000":{"player":0,"name":"Flip Screen"},
-        "80000000":{"player":0,"name":"Unknown"}
       }
     }
   }

@@ -1,24 +1,5 @@
 {
-  "romname":"flashgal",
   "ports":{
-    ":DSW1":{
-      "labels":{
-        "3":{"player":0,"name":"Lives"},
-        "4":{"player":0,"name":"Bonus Life"},
-        "8":{"player":0,"name":"Slow Motion"},
-        "10":{"player":0,"name":"Allow Continue"},
-        "20":{"player":0,"name":"Sound Test"},
-        "40":{"player":0,"name":"Cabinet"},
-        "80":{"player":0,"name":"Freeze"}
-      }
-    },
-    ":DSW2":{
-      "labels":{
-        "7":{"player":0,"name":"Coin A"},
-        "38":{"player":0,"name":"Coin B"},
-        "80":{"player":0,"name":"Unused"}
-      }
-    },
     ":P1":{
       "labels":{
         "1":{"player":0,"name":"P1 Left"},
@@ -41,11 +22,8 @@
     },
     ":SYSTEM":{
       "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "2":{"player":0,"name":"Coin 2"},
-        "4":{"player":0,"name":"Service 1"},
-        "8":{"player":0,"name":"1 Player Start"},
-        "10":{"player":0,"name":"2 Players Start"}
+        "8":{"player":0,"name":"P1 Start"},
+        "10":{"player":0,"name":"P2 Start"}
       }
     }
   }

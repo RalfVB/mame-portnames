@@ -1,44 +1,14 @@
 {
-  "romname":"driftout",
   "ports":{
-    ":DSWA":{
-      "labels":{
-        "1":{"player":0,"name":"Unused"},
-        "2":{"player":0,"name":"Flip Screen"},
-        "4":{"player":0,"name":"Service Mode"},
-        "8":{"player":0,"name":"Demo Sounds"},
-        "30":{"player":0,"name":"Coin A"},
-        "c0":{"player":0,"name":"Coin B"}
-      }
-    },
-    ":DSWB":{
-      "labels":{
-        "3":{"player":0,"name":"Difficulty"},
-        "c":{"player":0,"name":"Control"},
-        "80":{"player":0,"name":"Unused"}
-      }
-    },
     ":IN0":{
       "labels":{
-        "1":{"player":0,"name":"P1 Up"},
-        "2":{"player":0,"name":"P1 Down"},
-        "4":{"player":0,"name":"P1 Left"},
-        "8":{"player":0,"name":"P1 Right"},
-        "10":{"player":0,"name":"P1 Button 1"},
-        "20":{"player":0,"name":"P1 Button 2"},
-        "80":{"player":0,"name":"1 Player Start"}
-      }
-    },
-    ":IN1":{
-      "labels":{
-      }
-    },
-    ":IN2":{
-      "labels":{
-        "1":{"player":0,"name":"Tilt"},
-        "2":{"player":0,"name":"Service 1"},
-        "4":{"player":0,"name":"Coin 1"},
-        "8":{"player":0,"name":"Coin 2"}
+        "1":{"player":0,"name":"Up"},
+        "2":{"player":0,"name":"Down"},
+        "4":{"player":0,"name":"Left"},
+        "8":{"player":0,"name":"Right"},
+        "10":{"player":0,"name":"Button 1"},
+        "20":{"player":0,"name":"Button 2"},
+        "80":{"player":0,"name":"Start"}
       }
     },
     ":PADDLE1":{

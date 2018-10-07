@@ -1,5 +1,4 @@
 {
-  "romname":"bdrdown",
   "ports":{
     ":P1":{
       "labels":{

@@ -1,48 +1,19 @@
 {
-  "romname":"f1superb",
   "ports":{
-    ":AN0":{
-      "labels":{
-        "ff":{"player":0,"name":"P1 Pedal 1"}
-      }
-    },
-    ":AN1":{
-      "labels":{
-        "ff":{"player":0,"name":"AD Stick X"}
-      }
-    },
+    ":AN0":{"labels":{"ff":{"player":0,"name":"Gas Pedal"}}},
+    ":AN1":{"labels":{"ff":{"player":0,"name":"Steering Wheel"}}},
     ":AN2?":{
       "labels":{
         "40":{"player":0,"name":"Unknown"},
         "80":{"player":0,"name":"Shift Brake"}
       }
     },
-    ":DSW":{
-      "labels":{
-        "4":{"player":0,"name":"Demo Sounds"},
-        "30":{"player":0,"name":"Difficulty"},
-        "c0":{"player":0,"name":"Region"},
-        "200":{"player":0,"name":"Unused"},
-        "1c00":{"player":0,"name":"Coin B"},
-        "e000":{"player":0,"name":"Coin A"}
-      }
-    },
-    ":DSW2":{
-      "labels":{
-        "1":{"player":0,"name":"Communication Mode"},
-        "e":{"player":0,"name":"Car ID"}
-      }
-    },
     ":INPUTS":{
       "labels":{
-        "1":{"player":0,"name":"P1 Shift"},
-        "2":{"player":0,"name":"P1 Brake"},
-        "10000":{"player":0,"name":"Coin 1"},
-        "20000":{"player":0,"name":"Coin 2"},
-        "40000":{"player":0,"name":"Service 1"},
-        "80000":{"player":0,"name":"Test"},
-        "100000":{"player":0,"name":"1 Player Start"},
-        "200000":{"player":0,"name":"2 Players Start"},
+        "1":{"player":0,"name":"Shift"},
+        "2":{"player":0,"name":"Brake"},
+        "100000":{"player":0,"name":"P1 Start"},
+        "200000":{"player":0,"name":"P2 Start"},
         "800000":{"player":1,"name":"P2 Button 5"}
       }
     }

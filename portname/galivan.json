@@ -1,25 +1,5 @@
 {
-  "romname":"galivan",
   "ports":{
-    ":DSW1":{
-      "labels":{
-        "3":{"player":0,"name":"Lives"},
-        "c":{"player":0,"name":"Bonus Life"},
-        "10":{"player":0,"name":"Demo Sounds"},
-        "20":{"player":0,"name":"Cabinet"},
-        "40":{"player":0,"name":"Power Invulnerability (Cheat)"},
-        "80":{"player":0,"name":"Life Invulnerability (Cheat)"}
-      }
-    },
-    ":DSW2":{
-      "labels":{
-        "3":{"player":0,"name":"Coin A"},
-        "c":{"player":0,"name":"Coin B"},
-        "10":{"player":0,"name":"Difficulty"},
-        "20":{"player":0,"name":"Flip Screen"},
-        "80":{"player":0,"name":"Unused"}
-      }
-    },
     ":P1":{
       "labels":{
         "1":{"player":0,"name":"P1 Up"},
@@ -44,12 +24,8 @@
     },
     ":SYSTEM":{
       "labels":{
-        "1":{"player":0,"name":"1 Player Start"},
-        "2":{"player":0,"name":"2 Players Start"},
-        "4":{"player":0,"name":"Coin 1"},
-        "8":{"player":0,"name":"Coin 2"},
-        "10":{"player":0,"name":"Service 1"},
-        "20":{"player":0,"name":"Service Mode"}
+        "1":{"player":0,"name":"P1 Start"},
+        "2":{"player":0,"name":"P2 Start"}
       }
     }
   }

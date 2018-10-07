@@ -1,5 +1,4 @@
 {
-  "romname":"armwar",
   "ports":{
     ":IN0":{
       "labels":{

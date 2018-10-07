@@ -1,5 +1,4 @@
 {
-  "romname":"burnforc",
   "ports":{
     ":MCUH":{
       "labels":{

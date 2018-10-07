@@ -1,5 +1,4 @@
 {
-  "romname":"airco22b",
   "ports":{
     ":ADC.0":{
       "labels":{

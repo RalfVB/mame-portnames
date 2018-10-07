@@ -1,5 +1,4 @@
 {
-  "romname":"dragngun",
   "ports":{
     ":INPUTS":{
       "labels":{
@@ -9,25 +8,9 @@
         "2000":{"player":1,"name":"P2 Dragon Bomb"}
       }
     },
-    ":LIGHT0_X":{
-      "labels":{
-        "ff":{"player":0,"name":"P1 Left /  Right"}
-      }
-    },
-    ":LIGHT0_Y":{
-      "labels":{
-        "ff":{"player":0,"name":"P1 Up / Down"}
-      }
-    },
-    ":LIGHT1_X":{
-      "labels":{
-        "ff":{"player":1,"name":"P2 Left /  Right"}
-      }
-    },
-    ":LIGHT1_Y":{
-      "labels":{
-        "ff":{"player":1,"name":"P2 Down /  Up"}
-      }
-    }
+    ":LIGHT0_X":{"labels":{"ff":{"player":0,"name":"P1 Left/Right"}}},
+    ":LIGHT0_Y":{"labels":{"ff":{"player":0,"name":"P1 Up/Down"}}},
+    ":LIGHT1_X":{"labels":{"ff":{"player":1,"name":"P2 Left/Right"}}},
+    ":LIGHT1_Y":{"labels":{"ff":{"player":1,"name":"P2 Up/Down"}}}
   }
 }

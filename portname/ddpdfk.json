@@ -1,19 +1,18 @@
 {
-  "romname":"ddpdfk",
   "ports":{
     ":PORT_D":{
       "labels":{
-        "10":{"player":0,"name":"P1 Fire"},
+        "10":{"player":0,"name":"P1 Shot"},
         "20":{"player":0,"name":"P1 Bomb"},
-        "40":{"player":0,"name":"P1 Rapid Fire"},
+        "40":{"player":0,"name":"P1 Rapid Shot"},
         "80":{"player":0,"name":"P1 Hyper"}
       }
     },
     ":PORT_L":{
       "labels":{
-        "10":{"player":1,"name":"P2 Fire"},
+        "10":{"player":1,"name":"P2 Shot"},
         "20":{"player":1,"name":"P2 Bomb"},
-        "40":{"player":1,"name":"P2 Rapid Fire"},
+        "40":{"player":1,"name":"P2 Rapid Shot"},
         "80":{"player":1,"name":"P2 Hyper"}
       }
     }

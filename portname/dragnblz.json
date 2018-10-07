@@ -1,14 +1,13 @@
 {
-  "romname":"dragnblz",
   "ports":{
     ":INPUTS":{
       "labels":{
         "20000":{"player":1,"name":"P2 Button 3"},
         "40000":{"player":1,"name":"P2 Button 2"},
-        "80000":{"player":1,"name":"P2 Fire"},
+        "80000":{"player":1,"name":"P2 Shot"},
         "2000000":{"player":0,"name":"P1 Button 3"},
         "4000000":{"player":0,"name":"P1 Button 2"},
-        "8000000":{"player":0,"name":"P1 Fire"}
+        "8000000":{"player":0,"name":"P1 Shot"}
       }
     }
   }

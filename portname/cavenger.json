@@ -1,5 +1,4 @@
 {
-  "romname":"cavenger",
   "ports":{
     ":IN0":{
       "labels":{

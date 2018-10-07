@@ -1,5 +1,4 @@
 {
-  "romname":"atarifb",
   "ports":{
     ":IN0":{
       "labels":{

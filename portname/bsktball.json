@@ -1,5 +1,4 @@
 {
-  "romname":"bsktball",
   "ports":{
     ":IN0":{
       "labels":{

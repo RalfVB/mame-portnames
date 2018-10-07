@@ -1,5 +1,4 @@
 {
-  "romname":"bmdct",
   "ports":{
     ":BTN1":{
       "labels":{

@@ -1,24 +1,8 @@
 {
-  "romname":"gaialast",
   "ports":{
-    ":DSW":{
-      "labels":{
-        "3":{"player":0,"name":"Lives"},
-        "4":{"player":0,"name":"Bomb Stock"},
-        "8":{"player":0,"name":"Lock Vertical Scroll"},
-        "40":{"player":0,"name":"Unused"},
-        "80":{"player":0,"name":"Free Play"},
-        "100":{"player":0,"name":"Demo Sounds"},
-        "e00":{"player":0,"name":"Coinage"},
-        "7000":{"player":0,"name":"Difficulty"},
-        "8000":{"player":0,"name":"Service Mode"}
-      }
-    },
     ":INPUTS":{
       "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "2":{"player":0,"name":"Coin 2"},
-        "10000":{"player":0,"name":"2 Players Start"},
+        "10000":{"player":0,"name":"P2 Start"},
         "20000":{"player":1,"name":"P2 Button 3"},
         "40000":{"player":1,"name":"P2 Button 2"},
         "80000":{"player":1,"name":"P2 Button 1"},
@@ -26,7 +10,7 @@
         "200000":{"player":1,"name":"P2 Right"},
         "400000":{"player":1,"name":"P2 Down"},
         "800000":{"player":1,"name":"P2 Up"},
-        "1000000":{"player":0,"name":"1 Player Start"},
+        "1000000":{"player":0,"name":"P1 Start"},
         "2000000":{"player":0,"name":"P1 Button 3"},
         "4000000":{"player":0,"name":"P1 Button 2"},
         "8000000":{"player":0,"name":"P1 Button 1"},

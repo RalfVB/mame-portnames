@@ -1,40 +1,13 @@
 {
-  "romname":"djboy",
   "ports":{
-    ":DSW1":{
-      "labels":{
-        "2":{"player":0,"name":"Flip Screen"},
-        "4":{"player":0,"name":"Service Mode"},
-        "8":{"player":0,"name":"Unknown"},
-        "30":{"player":0,"name":"Coin A"},
-        "c0":{"player":0,"name":"Coin B"}
-      }
-    },
-    ":DSW2":{
-      "labels":{
-        "3":{"player":0,"name":"Difficulty"},
-        "c":{"player":0,"name":"Bonus Levels (in thousands)"},
-        "30":{"player":0,"name":"Lives"},
-        "40":{"player":0,"name":"Demo Sounds"},
-        "80":{"player":0,"name":"Stereo Sound"}
-      }
-    },
     ":IN0":{
       "labels":{
-        "1":{"player":0,"name":"1 Player Start"},
-        "2":{"player":0,"name":"2 Players Start"},
-        "4":{"player":0,"name":"Coin 1"},
-        "8":{"player":0,"name":"Coin 2"},
-        "20":{"player":0,"name":"Tilt"},
-        "40":{"player":0,"name":"Service"}
+        "1":{"player":0,"name":"P1 Start"},
+        "2":{"player":0,"name":"P2 Start"}
       }
     },
     ":IN1":{
       "labels":{
-        "1":{"player":0,"name":"P1 Up"},
-        "2":{"player":0,"name":"P1 Down"},
-        "4":{"player":0,"name":"P1 Left"},
-        "8":{"player":0,"name":"P1 Right"},
         "10":{"player":0,"name":"P1 Button 1"},
         "20":{"player":0,"name":"P1 Button 2"},
         "40":{"player":0,"name":"P1 Button 3"}
@@ -42,10 +15,6 @@
     },
     ":IN2":{
       "labels":{
-        "1":{"player":1,"name":"P2 Up"},
-        "2":{"player":1,"name":"P2 Down"},
-        "4":{"player":1,"name":"P2 Left"},
-        "8":{"player":1,"name":"P2 Right"},
         "10":{"player":1,"name":"P2 Button 1"},
         "20":{"player":1,"name":"P2 Button 2"},
         "40":{"player":1,"name":"P2 Button 3"}

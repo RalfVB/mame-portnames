@@ -1,5 +1,4 @@
 {
-  "romname":"duckhunt",
   "ports":{
     ":IN0":{
       "labels":{

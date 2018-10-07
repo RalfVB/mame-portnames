@@ -1,5 +1,4 @@
 {
-  "romname":"blitz",
   "ports":{
     ":IN1":{
       "labels":{

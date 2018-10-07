@@ -1,47 +1,14 @@
 {
-  "romname":"f1gpstr2",
   "ports":{
-    ":IN1":{
-      "labels":{
-        "7":{"player":0,"name":"Coin A (JP US)"},
-        "38":{"player":0,"name":"Coin B (EU FR)"},
-        "40":{"player":0,"name":"Free Play (EU & FR)"},
-        "300":{"player":0,"name":"Region"},
-        "c00":{"player":0,"name":"Difficulty"},
-        "1000":{"player":0,"name":"Infinite Time (Cheat)"},
-        "2000":{"player":0,"name":"Demo Sounds"},
-        "4000":{"player":0,"name":"Choose Race (US EU FR)"},
-        "8000":{"player":0,"name":"Vibrations"}
-      }
-    },
     ":IN2":{
       "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "2":{"player":0,"name":"Coin 2"},
-        "4":{"player":0,"name":"Service 1"},
-        "8":{"player":0,"name":"Service Mode"},
-        "10":{"player":0,"name":"1 Player Start"},
-        "20":{"player":0,"name":"P1 Gear Shift"},
-        "40":{"player":0,"name":"P1 Brake"},
-        "80":{"player":0,"name":"2 Players Start"}
+        "10":{"player":0,"name":"P1 Start"},
+        "20":{"player":0,"name":"Gear Shift"},
+        "40":{"player":0,"name":"Brake"},
+        "80":{"player":0,"name":"P2 Start"}
       }
     },
-    ":IN4":{
-      "labels":{
-        "1":{"player":0,"name":"This Unit Is"},
-        "e":{"player":0,"name":"Unit ID"},
-        "80":{"player":0,"name":"Unknown"}
-      }
-    },
-    ":IN5":{
-      "labels":{
-        "ff":{"player":0,"name":"Paddle"}
-      }
-    },
-    ":PEDAL":{
-      "labels":{
-        "ff":{"player":0,"name":"P1 Pedal 1"}
-      }
-    }
+    ":IN5":{"labels":{"ff":{"player":0,"name":"Steering Wheel"}}},
+    ":PEDAL":{"labels":{"ff":{"player":0,"name":"Gas Pedal"}}}
   }
 }

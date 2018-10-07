@@ -1,20 +1,25 @@
 {
-  "romname":"cybots",
   "ports":{
+    ":IN2":{
+      "labels":{
+        "100":{"player":0,"name":"P1 Start"},
+        "200":{"player":0,"name":"P2 Start"}
+      }
+    },
     ":IN0":{
       "labels":{
-        "10":{"name":"P1 Button 1"},
-        "20":{"name":"P1 Button 2"},
-        "40":{"name":"P1 Button 3"},
-        "1000":{"name":"P2 Button 1"},
-        "2000":{"name":"P2 Button 2"},
-        "4000":{"name":"P2 Button 3"}
+        "10":{"player":0,"name":"P1 Button 1"},
+        "20":{"player":0,"name":"P1 Button 2"},
+        "40":{"player":0,"name":"P1 Button 3"},
+        "1000":{"player":1,"name":"P2 Button 1"},
+        "2000":{"player":1,"name":"P2 Button 2"},
+        "4000":{"player":1,"name":"P2 Button 3"}
       }
     },
     ":IN1":{
       "labels":{
-        "1":{"name":"P1 Button 4"},
-        "10":{"name":"P2 Button 4"}
+        "1":{"player":0,"name":"P1 Button 4"},
+        "10":{"player":1,"name":"P2 Button 4"}
       }
     }
   }

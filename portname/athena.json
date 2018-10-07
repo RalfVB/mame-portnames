@@ -1,5 +1,4 @@
 {
-  "romname":"athena",
   "ports":{
     ":IN1":{
       "labels":{

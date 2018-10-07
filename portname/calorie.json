@@ -1,5 +1,4 @@
 {
-  "romname":"calorie",
   "ports":{
     ":DSW1":{
       "labels":{

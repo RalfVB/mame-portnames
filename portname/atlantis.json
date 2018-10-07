@@ -1,5 +1,4 @@
 {
-  "romname":"atlantis",
   "ports":{
     ":IN0":{
       "labels":{

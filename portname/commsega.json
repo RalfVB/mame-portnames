@@ -1,32 +1,11 @@
 {
-  "romname":"commsega",
   "ports":{
-    ":DSW1":{
-      "labels":{
-        "7":{"player":0,"name":"Coin B"},
-        "8":{"player":0,"name":"Unknown"},
-        "20":{"player":0,"name":"Unused"},
-        "40":{"player":0,"name":"P1 Button 1"},
-        "80":{"player":0,"name":"P1 Down"}
-      }
-    },
-    ":DSW2":{
-      "labels":{
-        "3":{"player":0,"name":"Lives"},
-        "1c":{"player":0,"name":"Coin A"},
-        "20":{"player":0,"name":"Unused"},
-        "40":{"player":0,"name":"Difficulty"},
-        "80":{"player":0,"name":"Cabinet"}
-      }
-    },
     ":P1":{
       "labels":{
         "1":{"player":1,"name":"P2 Up"},
         "8":{"player":0,"name":"P1 Button 2"},
         "10":{"player":0,"name":"P1 Left"},
-        "20":{"player":0,"name":"P1 Right"},
-        "40":{"player":0,"name":"Coin 2"},
-        "80":{"player":0,"name":"Coin 1"}
+        "20":{"player":0,"name":"P1 Right"}
       }
     },
     ":P2":{
@@ -37,8 +16,8 @@
         "8":{"player":1,"name":"P2 Button 2"},
         "10":{"player":1,"name":"P2 Right"},
         "20":{"player":1,"name":"P2 Left"},
-        "40":{"player":0,"name":"2 Players Start"},
-        "80":{"player":0,"name":"1 Player Start"}
+        "40":{"player":0,"name":"P2 Start"},
+        "80":{"player":0,"name":"P1 Start"}
       }
     }
   }

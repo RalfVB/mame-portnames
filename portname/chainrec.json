@@ -1,5 +1,4 @@
 {
-  "romname":"chainrec",
   "ports":{
     ":IN1":{
       "labels":{

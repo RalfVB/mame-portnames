@@ -1,39 +1,18 @@
 {
-  "romname":"enforce",
   "ports":{
-    ":DSWA":{
-      "labels":{
-        "2":{"player":0,"name":"Unused"},
-        "4":{"player":0,"name":"Service Mode"},
-        "8":{"player":0,"name":"Demo Sounds"},
-        "30":{"player":0,"name":"Coin A"},
-        "c0":{"player":0,"name":"Coin B"}
-      }
-    },
-    ":DSWB":{
-      "labels":{
-        "3":{"player":0,"name":"Difficulty"},
-        "10":{"player":0,"name":"Background scenery"},
-        "80":{"player":0,"name":"Unused"}
-      }
-    },
     ":IN0":{
       "labels":{
-        "4":{"player":0,"name":"Coin 2"},
-        "8":{"player":0,"name":"Coin 1"},
-        "10":{"player":0,"name":"Service 1"},
-        "20":{"player":0,"name":"P1 Up"},
-        "40":{"player":0,"name":"P1 Down"},
-        "80":{"player":0,"name":"P1 Left"}
+        "20":{"player":0,"name":"Up"},
+        "40":{"player":0,"name":"Down"},
+        "80":{"player":0,"name":"Left"}
       }
     },
     ":IN1":{
       "labels":{
-        "1":{"player":0,"name":"P1 Button 2"},
-        "2":{"player":0,"name":"P1 Button 1"},
-        "4":{"player":0,"name":"Tilt"},
-        "8":{"player":0,"name":"1 Player Start"},
-        "80":{"player":0,"name":"P1 Right"}
+        "1":{"player":0,"name":"Button 2"},
+        "2":{"player":0,"name":"Button 1"},
+        "8":{"player":0,"name":"Start"},
+        "80":{"player":0,"name":"Right"}
       }
     }
   }

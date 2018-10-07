@@ -1,9 +1,8 @@
 {
-  "romname":"fantzn2",
   "ports":{
     ":e1":{
       "labels":{
-        "10":{"player":0,"name":"P1 Fire"},
+        "10":{"player":0,"name":"P1 Shot"},
         "20":{"player":0,"name":"P1 Bomb"}
       }
     }

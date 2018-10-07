@@ -1,20 +1,19 @@
 {
-  "romname":"astrob",
   "ports":{
     ":D5D4":{
       "labels":{
-        "4":{"name":"P1 Left"},
-        "8":{"name":"P1 Fire"},
-        "40":{"name":"P1 Right"},
-        "80":{"name":"P1 Warp"}
+        "4":{"player":0,"name":"P1 Left"},
+        "8":{"player":0,"name":"P1 Fire"},
+        "40":{"player":0,"name":"P1 Right"},
+        "80":{"player":0,"name":"P1 Warp"}
       }
     },
     ":FC":{
       "labels":{
-        "10":{"name":"P2 Warp"},
-        "20":{"name":"P2 Fire"},
-        "40":{"name":"P2 Right"},
-        "80":{"name":"P2 Left"}
+        "10":{"player":1,"name":"P2 Warp"},
+        "20":{"player":1,"name":"P2 Fire"},
+        "40":{"player":1,"name":"P2 Right"},
+        "80":{"player":1,"name":"P2 Left"}
       }
     }
   }

@@ -1,12 +1,11 @@
 {
-  "romname":"alcon",
   "ports":{
     ":IN1":{
       "labels":{
         "1":{"player":0,"name":"P1 Power Up"},
-        "2":{"player":0,"name":"P1 Fire"},
+        "2":{"player":0,"name":"P1 Shot"},
         "4":{"player":1,"name":"P2 Power Up"},
-        "8":{"player":1,"name":"P2 Fire"}
+        "8":{"player":1,"name":"P2 Shot"}
       }
     }
   }

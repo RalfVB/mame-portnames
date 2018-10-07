@@ -1,5 +1,4 @@
 {
-  "romname":"aburner2",
   "ports":{
     ":mainpcb:ADC0":{
       "labels":{

@@ -1,14 +1,53 @@
 {
   "romname":"robocop2",
   "ports":{
+    ":SYSTEM":{
+      "labels":{
+        "1":{"player":0,"name":"Coin 1"},
+        "2":{"player":0,"name":"Coin 2"},
+        "4":{"player":0,"name":"Service 1"}
+      }
+    },
+    ":DSW":{
+      "labels":{
+        "7":{"player":0,"name":"Coin A"},
+        "38":{"player":0,"name":"Coin B"},
+        "40":{"player":0,"name":"Flip Screen"},
+        "80":{"player":0,"name":"Unused"},
+        "300":{"player":0,"name":"Lives"},
+        "c00":{"player":0,"name":"Time"},
+        "3000":{"player":0,"name":"Health"},
+        "4000":{"player":0,"name":"Continues"},
+        "8000":{"player":0,"name":"Demo Sounds"}
+      }
+    },
     ":INPUTS":{
       "labels":{
-        "10":{"name":"P1 Shoot Left"},
-        "20":{"name":"P1 Shoot Right"},
-        "40":{"name":"P1 Jump"},
-        "1000":{"name":"P2 Shoot Left"},
-        "2000":{"name":"P2 Shoot Right"},
-        "4000":{"name":"P2 Jump"}
+        "1":{"player":0,"name":"P1 Up"},
+        "2":{"player":0,"name":"P1 Down"},
+        "4":{"player":0,"name":"P1 Left"},
+        "8":{"player":0,"name":"P1 Right"},
+        "10":{"player":0,"name":"P1 Button 1"},
+        "20":{"player":0,"name":"P1 Button 2"},
+        "40":{"player":0,"name":"P1 Button 3"},
+        "80":{"player":0,"name":"1 Player Start"},
+        "100":{"player":1,"name":"P2 Up"},
+        "200":{"player":1,"name":"P2 Down"},
+        "400":{"player":1,"name":"P2 Left"},
+        "800":{"player":1,"name":"P2 Right"},
+        "1000":{"player":1,"name":"P2 Button 1"},
+        "2000":{"player":1,"name":"P2 Button 2"},
+        "4000":{"player":1,"name":"P2 Button 3"},
+        "8000":{"player":0,"name":"2 Players Start"}
+      }
+    },
+    ":DSW3":{
+      "labels":{
+        "3":{"player":0,"name":"Bullets"},
+        "c":{"player":0,"name":"Enemy Movement"},
+        "30":{"player":0,"name":"Enemy Strength"},
+        "40":{"player":0,"name":"Enemy Weapon Speed"},
+        "80":{"player":0,"name":"Game Over Message"}
       }
     }
   }

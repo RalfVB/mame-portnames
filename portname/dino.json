@@ -1,28 +1,15 @@
 {
-  "romname":"dino",
   "ports":{
     ":IN1":{
       "labels":{
-        "1":{"player":0,"name":"P1 Right"},
-        "2":{"player":0,"name":"P1 Left"},
-        "4":{"player":0,"name":"P1 Down"},
-        "8":{"player":0,"name":"P1 Up"},
         "10":{"player":0,"name":"P1 Attack"},
         "20":{"player":0,"name":"P1 Jump"},
-        "100":{"player":1,"name":"P2 Right"},
-        "200":{"player":1,"name":"P2 Left"},
-        "400":{"player":1,"name":"P2 Down"},
-        "800":{"player":1,"name":"P2 Up"},
         "1000":{"player":1,"name":"P2 Attack"},
         "2000":{"player":1,"name":"P2 Jump"}
       }
     },
     ":IN2":{
       "labels":{
-        "1":{"player":2,"name":"P3 Right"},
-        "2":{"player":2,"name":"P3 Left"},
-        "4":{"player":2,"name":"P3 Down"},
-        "8":{"player":2,"name":"P3 Up"},
         "10":{"player":2,"name":"P3 Attack"},
         "20":{"player":2,"name":"P3 Jump"}
       }

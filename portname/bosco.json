@@ -1,10 +1,9 @@
 {
-  "romname":"bosco",
   "ports":{
     ":IN0L":{
       "labels":{
-        "1":{"player":0,"name":"P1 Button 1"},
-        "2":{"player":1,"name":"P2 Button 1"}
+        "1":{"player":0,"name":"P1 Shot"},
+        "2":{"player":1,"name":"P2 Shot"}
       }
     }
   }

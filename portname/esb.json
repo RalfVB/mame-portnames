@@ -1,5 +1,4 @@
 {
-  "romname":"esb",
   "ports":{
     ":IN0":{
       "labels":{

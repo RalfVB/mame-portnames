@@ -1,5 +1,4 @@
 {
-  "romname":"devstors",
   "ports":{
     ":P1":{
       "labels":{
@@ -7,7 +6,7 @@
         "2":{"player":0,"name":"P1 Right"},
         "4":{"player":0,"name":"P1 Forward"},
         "8":{"player":0,"name":"P1 Backward"},
-        "10":{"player":0,"name":"P1 Shoot"},
+        "10":{"player":0,"name":"P1 Shot"},
         "20":{"player":0,"name":"P1 Weapon"}
       }
     },
@@ -17,7 +16,7 @@
         "2":{"player":1,"name":"P2 Right"},
         "4":{"player":1,"name":"P2 Forward"},
         "8":{"player":1,"name":"P2 Backward"},
-        "10":{"player":1,"name":"P2 Shoot"},
+        "10":{"player":1,"name":"P2 Shot"},
         "20":{"player":1,"name":"P2 Weapon"}
       }
     }

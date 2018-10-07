@@ -1,5 +1,4 @@
 {
-  "romname":"block",
   "ports":{
     ":IN0":{
       "labels":{

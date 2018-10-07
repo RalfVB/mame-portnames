@@ -1,42 +1,18 @@
 {
-  "romname":"f1lap",
   "ports":{
-    ":mainpcb:ANALOG1":{
-      "labels":{
-        "ff":{"player":0,"name":"mainpcb:Steering Wheel"}
-      }
-    },
-    ":mainpcb:ANALOG2":{
-      "labels":{
-        "ff":{"player":0,"name":"mainpcb:Gas Pedal"}
-      }
-    },
-    ":mainpcb:ANALOG3":{
-      "labels":{
-        "ff":{"player":0,"name":"mainpcb:Brake Pedal"}
-      }
-    },
+    ":mainpcb:ANALOG1":{"labels":{"ff":{"player":0,"name":"Steering Wheel"}}},
+    ":mainpcb:ANALOG2":{"labels":{"ff":{"player":0,"name":"Gas Pedal"}}},
+    ":mainpcb:ANALOG3":{"labels":{"ff":{"player":0,"name":"Brake Pedal"}}},
     ":mainpcb:P1_A":{
       "labels":{
-        "1":{"player":0,"name":"mainpcb:Gear Up"},
-        "2":{"player":0,"name":"mainpcb:Gear Down"},
-        "4":{"player":0,"name":"mainpcb:Overtake"}
+        "1":{"player":0,"name":"Gear Up"},
+        "2":{"player":0,"name":"Gear Down"},
+        "4":{"player":0,"name":"Overtake"}
       }
     },
     ":mainpcb:SERVICE12_A":{
       "labels":{
-        "1":{"player":0,"name":"Service 1"},
-        "2":{"player":0,"name":"Service Mode"},
-        "4":{"player":0,"name":"Coin 1"},
-        "8":{"player":0,"name":"Coin 2"},
-        "10":{"player":0,"name":"1 Player Start"}
-      }
-    },
-    ":mainpcb:SERVICE34_A":{
-      "labels":{
-        "8":{"player":0,"name":"Unknown"},
-        "10":{"player":0,"name":"Push SW1 (Service)"},
-        "20":{"player":0,"name":"Push SW2 (Test)"}
+        "10":{"player":0,"name":"Start"}
       }
     }
   }

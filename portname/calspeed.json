@@ -1,5 +1,4 @@
 {
-  "romname":"calspeed",
   "ports":{
     ":AN0":{
       "labels":{

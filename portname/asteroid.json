@@ -1,5 +1,4 @@
 {
-  "romname":"asteroid",
   "ports":{
     ":IN0":{
       "labels":{

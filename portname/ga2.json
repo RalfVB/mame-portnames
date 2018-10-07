@@ -1,5 +1,4 @@
 {
-  "romname":"ga2",
   "ports":{
     ":mainpcb:EXTRA1":{
       "labels":{
@@ -25,8 +24,8 @@
     },
     ":mainpcb:EXTRA3":{
       "labels":{
-        "1":{"player":0,"name":"3 Players Start"},
-        "2":{"player":0,"name":"4 Players Start"}
+        "1":{"player":0,"name":"P3 Start"},
+        "2":{"player":0,"name":"P4 Start"}
       }
     },
     ":mainpcb:P1_A":{
@@ -53,18 +52,8 @@
     },
     ":mainpcb:SERVICE12_A":{
       "labels":{
-        "1":{"player":0,"name":"Service 1"},
-        "2":{"player":0,"name":"Service Mode"},
-        "4":{"player":0,"name":"Coin 1"},
-        "8":{"player":0,"name":"Coin 2"},
-        "10":{"player":0,"name":"1 Player Start"},
-        "20":{"player":0,"name":"2 Players Start"}
-      }
-    },
-    ":mainpcb:SERVICE34_A":{
-      "labels":{
-        "10":{"player":0,"name":"Push SW1 (Service)"},
-        "20":{"player":0,"name":"Push SW2 (Test)"}
+        "10":{"player":0,"name":"P1 Start"},
+        "20":{"player":0,"name":"P2 Start"}
       }
     }
   }

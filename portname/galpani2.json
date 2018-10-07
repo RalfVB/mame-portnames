@@ -1,51 +1,20 @@
 {
-  "romname":"galpani2",
   "ports":{
     ":DSW1_P1":{
       "labels":{
-        "7":{"player":0,"name":"Difficulty"},
-        "8":{"player":0,"name":"Picture Mode"},
-        "30":{"player":0,"name":"Lives"},
-        "c0":{"player":0,"name":"Max Unit of Players"},
-        "100":{"player":0,"name":"P1 Up"},
-        "200":{"player":0,"name":"P1 Down"},
-        "400":{"player":0,"name":"P1 Left"},
-        "800":{"player":0,"name":"P1 Right"},
         "1000":{"player":0,"name":"P1 Button 1"},
         "2000":{"player":0,"name":"P1 Button 2"},
-        "4000":{"player":0,"name":"1 Player Start"},
-        "8000":{"player":0,"name":"Coin 1"}
+        "4000":{"player":0,"name":"P1 Start"}
       }
     },
     ":DSW2_P2":{
       "labels":{
-        "f":{"player":0,"name":"Coinage"},
-        "10":{"player":0,"name":"Card Dispenser"},
-        "20":{"player":0,"name":"Flip Screen"},
-        "40":{"player":0,"name":"Demo Sounds"},
-        "80":{"player":0,"name":"Service Mode"},
-        "100":{"player":1,"name":"P2 Up"},
-        "200":{"player":1,"name":"P2 Down"},
-        "400":{"player":1,"name":"P2 Left"},
-        "800":{"player":1,"name":"P2 Right"},
         "1000":{"player":1,"name":"P2 Button 1"},
         "2000":{"player":1,"name":"P2 Button 2"},
-        "4000":{"player":0,"name":"2 Players Start"},
-        "8000":{"player":0,"name":"Coin 2"}
+        "4000":{"player":0,"name":"P2 Start"}
       }
     },
-    ":SERVICE":{
-      "labels":{
-        "400":{"player":1,"name":"P2 Button 3"},
-        "2000":{"player":0,"name":"Service 2"},
-        "4000":{"player":0,"name":"Tilt"},
-        "8000":{"player":0,"name":"Service 1"}
-      }
-    },
-    ":SPECIAL":{
-      "labels":{
-        "400":{"player":0,"name":"P1 Button 3"}
-      }
-    }
+    ":SERVICE":{"labels":{"400":{"player":1,"name":"P2 Button 3"}}},
+    ":SPECIAL":{"labels":{"400":{"player":0,"name":"P1 Button 3"}}}
   }
 }

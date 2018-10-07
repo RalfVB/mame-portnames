@@ -1,35 +1,5 @@
 {
-  "romname":"chqflag",
   "ports":{
-    ":DSW1":{
-      "labels":{
-        "f":{"player":0,"name":"Coin A"},
-        "f0":{"player":0,"name":"Coin B"}
-      }
-    },
-    ":DSW2":{
-      "labels":{
-        "10":{"player":0,"name":"Unused"},
-        "60":{"player":0,"name":"Difficulty"},
-        "80":{"player":0,"name":"Demo Sounds"}
-      }
-    },
-    ":IN0":{
-      "labels":{
-        "80":{"player":0,"name":"Unused"}
-      }
-    },
-    ":IN1":{
-      "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "2":{"player":0,"name":"Coin 2"},
-        "4":{"player":0,"name":"Service 1"},
-        "8":{"player":0,"name":"1 Player Start"},
-        "20":{"player":0,"name":"Unused"},
-        "40":{"player":0,"name":"Title"},
-        "80":{"player":0,"name":"Service Mode"}
-      }
-    },
     ":IN2":{
       "labels":{
         "1":{"player":0,"name":"P1 Button 3"},

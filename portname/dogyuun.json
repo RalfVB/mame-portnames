@@ -1,18 +1,17 @@
 {
-  "romname":"dogyuun",
   "ports":{
     ":IN1":{
       "labels":{
-        "10":{"player":0,"name":"P1 Fire"},
+        "10":{"player":0,"name":"P1 Shot"},
         "20":{"player":0,"name":"P1 Special"},
-        "40":{"player":0,"name":"P1 Button 3"}
+        "40":{"player":0,"name":"n/a"}
       }
     },
     ":IN2":{
       "labels":{
-        "10":{"player":1,"name":"P2 Fire"},
+        "10":{"player":1,"name":"P2 Shot"},
         "20":{"player":1,"name":"P2 Special"},
-        "40":{"player":1,"name":"P2 Button 3"}
+        "40":{"player":1,"name":"n/a"}
       }
     }
   }

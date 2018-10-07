@@ -1,5 +1,4 @@
 {
-  "romname":"crsword",
   "ports":{
     ":edge:joy:JOY1":{
       "labels":{

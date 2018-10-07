@@ -1,12 +1,5 @@
 {
-  "romname":"crzytaxi",
   "ports":{
-    ":837_13551:COINS":{
-      "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "2":{"player":0,"name":"Coin 2"}
-      }
-    },
     ":A0":{
       "labels":{
         "ff00":{"player":0,"name":"Paddle"}
@@ -22,39 +15,11 @@
         "ff00":{"player":0,"name":"P1 Pedal 2"}
       }
     },
-    ":MAMEDEBUG":{
-      "labels":{
-        "1":{"player":0,"name":"Bilinear Filtering"},
-        "2":{"player":0,"name":"Disable Render Calls"},
-        "c":{"player":0,"name":"Master CPU Clock Rate (Cheat)"}
-      }
-    },
-    ":MIE.3":{
-      "labels":{
-      }
-    },
-    ":MIE.5":{
-      "labels":{
-        "1":{"player":0,"name":"Monitor"},
-        "8":{"player":0,"name":"Unknown"},
-        "10":{"player":0,"name":"Service Mode"},
-        "40":{"player":0,"name":"Service 1"}
-      }
-    },
     ":P1":{
       "labels":{
         "1000":{"player":0,"name":"Reverse Gear"},
         "2000":{"player":0,"name":"Drive Gear"},
         "8000":{"player":0,"name":"1 Player Start"}
-      }
-    },
-    ":P2":{
-      "labels":{
-      }
-    },
-    ":TILT":{
-      "labels":{
-        "80":{"player":0,"name":"Tilt"}
       }
     }
   }

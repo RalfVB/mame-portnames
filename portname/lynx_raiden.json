@@ -2,19 +2,14 @@
   "ports":{
     ":JOY":{
       "labels":{
-        "1":{"player":0,"name":"A"},
-        "2":{"player":0,"name":"B"},
+        "1":{"player":0,"name":"A (Shot)"},
+        "2":{"player":0,"name":"B (Bomb)"},
         "4":{"player":0,"name":"Opt 2"},
         "8":{"player":0,"name":"Opt 1"},
         "10":{"player":0,"name":"Right"},
         "20":{"player":0,"name":"Left"},
         "40":{"player":0,"name":"Down"},
         "80":{"player":0,"name":"Up"}
-      }
-    },
-    ":PAUSE":{
-      "labels":{
-        "1":{"player":0,"name":"Pause"}
       }
     }
   }

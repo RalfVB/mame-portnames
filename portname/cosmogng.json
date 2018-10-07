@@ -1,50 +1,5 @@
 {
-  "romname":"cosmogng",
   "ports":{
-    ":AN0":{
-      "labels":{
-      }
-    },
-    ":AN1":{
-      "labels":{
-      }
-    },
-    ":AN2":{
-      "labels":{
-      }
-    },
-    ":AN3":{
-      "labels":{
-      }
-    },
-    ":AN4":{
-      "labels":{
-      }
-    },
-    ":AN5":{
-      "labels":{
-      }
-    },
-    ":AN6":{
-      "labels":{
-      }
-    },
-    ":AN7":{
-      "labels":{
-      }
-    },
-    ":DSW":{
-      "labels":{
-        "1":{"player":0,"name":"Video Display"},
-        "2":{"player":0,"name":"$2000-1"},
-        "4":{"player":0,"name":"$2000-2"},
-        "8":{"player":0,"name":"$2000-3"},
-        "10":{"player":0,"name":"$2000-4"},
-        "20":{"player":0,"name":"$2000-5"},
-        "40":{"player":0,"name":"$2000-6"},
-        "80":{"player":0,"name":"Service Mode"}
-      }
-    },
     ":MCUB":{
       "labels":{
         "1":{"player":1,"name":"P2 Left"},
@@ -53,35 +8,11 @@
         "8":{"player":0,"name":"P1 Down"},
         "10":{"player":1,"name":"P2 Up"},
         "20":{"player":0,"name":"P1 Up"},
-        "40":{"player":0,"name":"2 Players Start"},
-        "80":{"player":0,"name":"1 Player Start"}
+        "40":{"player":0,"name":"P2 Start"},
+        "80":{"player":0,"name":"P1 Start"}
       }
     },
-    ":MCUC":{
-      "labels":{
-        "10":{"player":0,"name":"Coin 2"},
-        "20":{"player":0,"name":"Coin 1"},
-        "40":{"player":0,"name":"Service Button"},
-        "80":{"player":0,"name":"Service 1"}
-      }
-    },
-    ":MCUDI0":{
-      "labels":{
-      }
-    },
-    ":MCUDI1":{
-      "labels":{
-      }
-    },
-    ":MCUDI2":{
-      "labels":{
-      }
-    },
-    ":MCUDI3":{
-      "labels":{
-      }
-    },
-    ":MCUH":{
+   ":MCUH":{
       "labels":{
         "1":{"player":1,"name":"P2 Button 3"},
         "2":{"player":0,"name":"P1 Button 3"},

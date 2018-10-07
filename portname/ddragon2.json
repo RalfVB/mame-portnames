@@ -1,12 +1,5 @@
 {
-  "romname":"ddragon2",
   "ports":{
-    ":EXTRA":{
-      "labels":{
-        "2":{"player":0,"name":"P1 Attack Right"},
-        "4":{"player":1,"name":"P2 Attack Right"}
-      }
-    },
     ":P1":{
       "labels":{
         "10":{"player":0,"name":"P1 Attack Left"},
@@ -17,6 +10,12 @@
       "labels":{
         "10":{"player":1,"name":"P2 Attack Left"},
         "20":{"player":1,"name":"P2 Jump"}
+      }
+    },
+    ":EXTRA":{
+      "labels":{
+        "2":{"player":0,"name":"P1 Attack Right"},
+        "4":{"player":1,"name":"P2 Attack Right"}
       }
     }
   }

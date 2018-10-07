@@ -1,5 +1,4 @@
 {
-  "romname":"bankp",
   "ports":{
     ":IN0":{
       "labels":{

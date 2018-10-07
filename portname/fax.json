@@ -1,5 +1,4 @@
 {
-  "romname":"fax",
   "ports":{
     ":IN3":{
       "labels":{

@@ -1,25 +1,24 @@
 {
-  "romname":"dotron",
   "ports":{
     ":ssio:IP0":{
       "labels":{
-        "10":{"player":0,"name":"P1 Throw"}
+        "10":{"player":0,"name":"Throw"}
       }
     },
     ":ssio:IP1":{
       "labels":{
-        "7f":{"player":0,"name":"P1 Aim / Aim"}
+        "7f":{"player":0,"name":"Aim / Aim"}
       }
     },
     ":ssio:IP2":{
       "labels":{
-        "1":{"player":0,"name":"P1 Move Tron"},
-        "2":{"player":0,"name":"P1 Move Tron"},
-        "4":{"player":0,"name":"P1 Move Tron"},
-        "8":{"player":0,"name":"P1 Move Tron"},
-        "10":{"player":0,"name":"P1 Aim Up"},
-        "20":{"player":0,"name":"P1 Aim Down"},
-        "40":{"player":0,"name":"P1 Deflect"}
+        "1":{"player":0,"name":"Move Tron"},
+        "2":{"player":0,"name":"Move Tron"},
+        "4":{"player":0,"name":"Move Tron"},
+        "8":{"player":0,"name":"Move Tron"},
+        "10":{"player":0,"name":"Aim Up"},
+        "20":{"player":0,"name":"Aim Down"},
+        "40":{"player":0,"name":"Deflect"}
       }
     }
   }

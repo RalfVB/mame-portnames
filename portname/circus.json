@@ -1,5 +1,4 @@
 {
-  "romname":"circus",
   "ports":{
     ":PADDLE":{
       "labels":{

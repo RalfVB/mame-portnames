@@ -1,5 +1,4 @@
 {
-  "romname":"batcir",
   "ports":{
     ":IN0":{
       "labels":{

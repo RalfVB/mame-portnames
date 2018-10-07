@@ -1,58 +1,25 @@
 {
-  "romname":"drgnbstr",
   "ports":{
     ":BUTTON2":{
       "labels":{
-        "2":{"player":0,"name":"Cabinet"},
         "4":{"player":1,"name":"P2 Button 2"},
         "8":{"player":0,"name":"P1 Button 2"}
       }
     },
-    ":DSWA":{
-      "labels":{
-        "3":{"player":0,"name":"Coin B"},
-        "4":{"player":0,"name":"Freeze"},
-        "8":{"player":0,"name":"Round Skip"},
-        "10":{"player":0,"name":"Demo Sounds"},
-        "60":{"player":0,"name":"Coin A"},
-        "80":{"player":0,"name":"Service Mode"}
-      }
-    },
-    ":DSWB":{
-      "labels":{
-        "1":{"player":0,"name":"Allow Continue"},
-        "2":{"player":0,"name":"Bonus Level"},
-        "c":{"player":0,"name":"Bonus Vitality"},
-        "30":{"player":0,"name":"Starting Vitality"},
-        "40":{"player":0,"name":"Level of Monster"},
-        "80":{"player":0,"name":"Spurt Time"}
-      }
-    },
     ":P1":{
       "labels":{
-        "1":{"player":0,"name":"P1 Left"},
-        "2":{"player":0,"name":"P1 Right"},
-        "4":{"player":0,"name":"P1 Down"},
-        "8":{"player":0,"name":"P1 Up"},
         "10":{"player":0,"name":"P1 Button 1"}
       }
     },
     ":P2":{
       "labels":{
-        "1":{"player":1,"name":"P2 Left"},
-        "2":{"player":1,"name":"P2 Right"},
-        "4":{"player":1,"name":"P2 Down"},
-        "8":{"player":1,"name":"P2 Up"},
         "10":{"player":1,"name":"P2 Button 1"}
       }
     },
     ":SYSTEM":{
       "labels":{
-        "1":{"player":0,"name":"Service 1"},
-        "2":{"player":0,"name":"Coin 1"},
-        "4":{"player":0,"name":"Coin 2"},
-        "8":{"player":0,"name":"1 Player Start"},
-        "10":{"player":0,"name":"2 Players Start"}
+        "8":{"player":0,"name":"P1 Start"},
+        "10":{"player":0,"name":"P2 Start"}
       }
     }
   }

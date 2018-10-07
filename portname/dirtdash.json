@@ -1,5 +1,4 @@
 {
-  "romname":"dirtdash",
   "ports":{
     ":ADC.0":{
       "labels":{

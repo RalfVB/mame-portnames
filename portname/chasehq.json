@@ -1,28 +1,8 @@
 {
-  "romname":"chasehq",
   "ports":{
     ":BRAKE":{
       "labels":{
         "7":{"player":0,"name":"Brake Pedal"}
-      }
-    },
-    ":DSWA":{
-      "labels":{
-        "3":{"player":0,"name":"Cabinet"},
-        "4":{"player":0,"name":"Service Mode"},
-        "8":{"player":0,"name":"Demo Sounds"},
-        "30":{"player":0,"name":"Coin A"},
-        "c0":{"player":0,"name":"Coin B"}
-      }
-    },
-    ":DSWB":{
-      "labels":{
-        "3":{"player":0,"name":"Difficulty"},
-        "c":{"player":0,"name":"Timer Setting"},
-        "10":{"player":0,"name":"Turbos Stocked"},
-        "20":{"player":0,"name":"Continue Price"},
-        "40":{"player":0,"name":"Clear Damage on Continue"},
-        "80":{"player":0,"name":"Allow Continue"}
       }
     },
     ":GAS":{
@@ -48,29 +28,9 @@
         "20":{"player":0,"name":"Gas Switch"}
       }
     },
-    ":IN2":{
-      "labels":{
-      }
-    },
     ":STEER":{
       "labels":{
         "ff":{"player":0,"name":"Steering Wheel"}
-      }
-    },
-    ":UNK1":{
-      "labels":{
-      }
-    },
-    ":UNK2":{
-      "labels":{
-      }
-    },
-    ":UNK3":{
-      "labels":{
-      }
-    },
-    ":UNK4":{
-      "labels":{
       }
     }
   }

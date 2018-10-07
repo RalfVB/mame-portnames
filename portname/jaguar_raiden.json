@@ -67,19 +67,19 @@
     ":BUTTONS0":{
       "labels":{
         "1":{"player":0,"name":"P1 Pause"},
-        "2":{"player":0,"name":"P1 A"}
+        "2":{"player":0,"name":"P1 A (Shot)"}
       }
     },
-    ":BUTTONS1":{"labels":{"2":{"player":0,"name":"P1 B"}}},
-    ":BUTTONS2":{"labels":{"2":{"player":0,"name":"P1 C"}}},
+    ":BUTTONS1":{"labels":{"2":{"player":0,"name":"P1 B (Shot)"}}},
+    ":BUTTONS2":{"labels":{"2":{"player":0,"name":"P1 C (Bomb)"}}},
     ":BUTTONS3":{"labels":{"2":{"player":0,"name":"P1 Option"}}},
     ":BUTTONS4":{"labels":{"2":{"player":1,"name":"P2 Option"}}},
-    ":BUTTONS5":{"labels":{"2":{"player":1,"name":"P2 C"}}},
-    ":BUTTONS6":{"labels":{"2":{"player":1,"name":"P2 B"}}},
+    ":BUTTONS5":{"labels":{"2":{"player":1,"name":"P2 C (Bomb)"}}},
+    ":BUTTONS6":{"labels":{"2":{"player":1,"name":"P2 B (Shot)"}}},
     ":BUTTONS7":{
       "labels":{
         "1":{"player":1,"name":"P2 Pause"},
-        "2":{"player":1,"name":"P2 A"}
+        "2":{"player":1,"name":"P2 A (Shot)"}
       }
     }
   }

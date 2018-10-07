@@ -1,5 +1,4 @@
 {
-  "romname":"bonzeadv",
   "ports":{
     ":80000B":{
       "labels":{

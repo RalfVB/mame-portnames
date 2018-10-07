@@ -1,26 +1,5 @@
 {
-  "romname":"drgnmst",
   "ports":{
-    ":DSW1":{
-      "labels":{
-        "700":{"player":0,"name":"Coinage"},
-        "800":{"player":0,"name":"Allow Continue"},
-        "1000":{"player":0,"name":"Demo Sounds"},
-        "2000":{"player":0,"name":"Two credits to start"},
-        "4000":{"player":0,"name":"Free Play"},
-        "8000":{"player":0,"name":"Game Pause"}
-      }
-    },
-    ":DSW2":{
-      "labels":{
-        "700":{"player":0,"name":"Difficulty"},
-        "800":{"player":0,"name":"Language"},
-        "1000":{"player":0,"name":"Game Time"},
-        "2000":{"player":0,"name":"Stage Skip"},
-        "4000":{"player":0,"name":"Spit Color"},
-        "8000":{"player":0,"name":"Service Mode"}
-      }
-    },
     ":EXTRA":{
       "labels":{
         "100":{"player":0,"name":"P1 Button 5"},
@@ -33,18 +12,10 @@
     },
     ":P1_P2":{
       "labels":{
-        "1":{"player":0,"name":"P1 Right"},
-        "2":{"player":0,"name":"P1 Left"},
-        "4":{"player":0,"name":"P1 Down"},
-        "8":{"player":0,"name":"P1 Up"},
         "10":{"player":0,"name":"P1 Button 1"},
         "20":{"player":0,"name":"P1 Button 2"},
         "40":{"player":0,"name":"P1 Button 3"},
         "80":{"player":0,"name":"P1 Button 4"},
-        "100":{"player":1,"name":"P2 Right"},
-        "200":{"player":1,"name":"P2 Left"},
-        "400":{"player":1,"name":"P2 Down"},
-        "800":{"player":1,"name":"P2 Up"},
         "1000":{"player":1,"name":"P2 Button 1"},
         "2000":{"player":1,"name":"P2 Button 2"},
         "4000":{"player":1,"name":"P2 Button 3"},
@@ -53,10 +24,8 @@
     },
     ":SYSTEM":{
       "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "2":{"player":0,"name":"Coin 2"},
-        "10":{"player":0,"name":"1 Player Start"},
-        "20":{"player":0,"name":"2 Players Start"}
+        "10":{"player":0,"name":"P1 Start"},
+        "20":{"player":0,"name":"P2 Start"}
       }
     }
   }

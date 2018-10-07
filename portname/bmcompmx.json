@@ -1,5 +1,4 @@
 {
-  "romname":"bmcompmx",
   "ports":{
     ":BTN1":{
       "labels":{

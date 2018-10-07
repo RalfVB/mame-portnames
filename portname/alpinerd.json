@@ -1,5 +1,4 @@
 {
-  "romname":"alpinerd",
   "ports":{
     ":ADC.0":{
       "labels":{

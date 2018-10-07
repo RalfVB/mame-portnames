@@ -1,31 +1,5 @@
 {
-  "romname":"flstory",
   "ports":{
-    ":DSW0":{
-      "labels":{
-        "3":{"player":0,"name":"Bonus Life"},
-        "4":{"player":0,"name":"Free Play"},
-        "18":{"player":0,"name":"Lives"},
-        "20":{"player":0,"name":"Debug Mode"},
-        "40":{"player":0,"name":"Flip Screen"},
-        "80":{"player":0,"name":"Cabinet"}
-      }
-    },
-    ":DSW1":{
-      "labels":{
-        "f":{"player":0,"name":"Coin A"},
-        "f0":{"player":0,"name":"Coin B"}
-      }
-    },
-    ":DSW2":{
-      "labels":{
-        "8":{"player":0,"name":"Allow Continue"},
-        "10":{"player":0,"name":"Attract Animation"},
-        "20":{"player":0,"name":"Leave Off"},
-        "40":{"player":0,"name":"Invulnerability (Cheat)"},
-        "80":{"player":0,"name":"Coin Slots"}
-      }
-    },
     ":P1":{
       "labels":{
         "1":{"player":0,"name":"P1 Button 1"},
@@ -44,12 +18,8 @@
     },
     ":SYSTEM":{
       "labels":{
-        "1":{"player":0,"name":"1 Player Start"},
-        "2":{"player":0,"name":"2 Players Start"},
-        "4":{"player":0,"name":"Service 1"},
-        "8":{"player":0,"name":"Tilt"},
-        "10":{"player":0,"name":"Coin 1"},
-        "20":{"player":0,"name":"Coin 2"}
+        "1":{"player":0,"name":"P1 Start"},
+        "2":{"player":0,"name":"P2 Start"}
       }
     }
   }

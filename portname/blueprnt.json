@@ -1,22 +1,21 @@
 {
-  "romname":"blueprnt",
   "ports":{
     ":P1":{
       "labels":{
-        "8":{"name":"P1 Run"},
-        "10":{"name":"P1 Walk Left"},
-        "20":{"name":"P1 Walk Right"},
-        "40":{"name":"P1 Walk Up"},
-        "80":{"name":"P1 Walk Down"}
+        "8":{"player":0,"name":"P1 Run"},
+        "10":{"player":0,"name":"P1 Walk Left"},
+        "20":{"player":0,"name":"P1 Walk Right"},
+        "40":{"player":0,"name":"P1 Walk Up"},
+        "80":{"player":0,"name":"P1 Walk Down"}
       }
     },
     ":P2":{
       "labels":{
-        "8":{"name":"P2 Run"},
-        "10":{"name":"P2 Walk Left"},
-        "20":{"name":"P2 Walk Right"},
-        "40":{"name":"P2 Walk Up"},
-        "80":{"name":"P2 Walk Down"}
+        "8":{"player":1,"name":"P2 Run"},
+        "10":{"player":1,"name":"P2 Walk Left"},
+        "20":{"player":1,"name":"P2 Walk Right"},
+        "40":{"player":1,"name":"P2 Walk Up"},
+        "80":{"player":1,"name":"P2 Walk Down"}
       }
     }
   }

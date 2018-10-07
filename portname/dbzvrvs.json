@@ -1,18 +1,5 @@
 {
-  "romname":"dbzvrvs",
   "ports":{
-    ":mainpcb:ANALOG1":{
-      "labels":{
-      }
-    },
-    ":mainpcb:ANALOG2":{
-      "labels":{
-      }
-    },
-    ":mainpcb:ANALOG3":{
-      "labels":{
-      }
-    },
     ":mainpcb:P1_A":{
       "labels":{
         "1":{"player":0,"name":"P1 Button 1"},
@@ -33,10 +20,6 @@
         "20":{"player":1,"name":"P2 Up"},
         "40":{"player":1,"name":"P2 Right"},
         "80":{"player":1,"name":"P2 Left"}
-      }
-    },
-    ":mainpcb:PORTC_A":{
-      "labels":{
       }
     },
     ":mainpcb:SERVICE12_A":{

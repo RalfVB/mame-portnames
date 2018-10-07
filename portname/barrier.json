@@ -1,5 +1,4 @@
 {
-  "romname":"barrier",
   "ports":{
     ":INPUTS":{
       "labels":{

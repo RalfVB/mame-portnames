@@ -1,5 +1,4 @@
 {
-  "romname":"avsp",
   "ports":{
     ":IN0":{
       "labels":{

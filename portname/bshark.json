@@ -1,5 +1,4 @@
 {
-  "romname":"bshark",
   "ports":{
     ":IN2":{
       "labels":{

@@ -1,29 +1,28 @@
 {
-  "romname":"aircomb",
   "ports":{
     ":AN1":{
       "labels":{
-        "ff":{"name":"Stick Horizontal"}
+        "ff":{"player":0,"name":"Stick Horizontal"}
       }
     },
     ":AN2":{
       "labels":{
-        "ff":{"name":"Stick Vertical"}
+        "ff":{"player":0,"name":"Stick Vertical"}
       }
     },
     ":AN3":{
       "labels":{
-        "ff":{"name":"AD Stick Z"}
+        "ff":{"player":0,"name":"AD Stick Z"}
       }
     },
     ":PORTH":{
       "labels":{
-        "1":{"name":"Button 4"},
-        "2":{"name":"Button 3"},
-        "4":{"name":"Button 6"},
-        "8":{"name":"Button 2"},
-        "10":{"name":"Button 5"},
-        "20":{"name":"Button 1"}
+        "1":{"player":0,"name":"Button 4"},
+        "2":{"player":0,"name":"Button 3"},
+        "4":{"player":0,"name":"Button 6"},
+        "8":{"player":0,"name":"Button 2"},
+        "10":{"player":0,"name":"Button 5"},
+        "20":{"player":0,"name":"Button 1"}
       }
     }
   }

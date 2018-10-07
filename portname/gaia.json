@@ -1,20 +1,5 @@
 {
-  "romname":"gaia",
   "ports":{
-    ":DSW":{
-      "labels":{
-        "1":{"player":0,"name":"Flip Screen"},
-        "2":{"player":0,"name":"Demo Sounds"},
-        "4":{"player":0,"name":"Language"},
-        "38":{"player":0,"name":"Coinage"},
-        "40":{"player":0,"name":"Free Play"},
-        "80":{"player":0,"name":"Allow Continue"},
-        "300":{"player":0,"name":"Lives"},
-        "400":{"player":0,"name":"Bonus Life"},
-        "1800":{"player":0,"name":"Damage"},
-        "e000":{"player":0,"name":"Difficulty"}
-      }
-    },
     ":IN0":{
       "labels":{
         "1":{"player":0,"name":"P1 Up"},
@@ -37,12 +22,8 @@
     },
     ":IN1":{
       "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "2":{"player":0,"name":"Coin 2"},
-        "4":{"player":0,"name":"Service Mode"},
-        "8":{"player":0,"name":"Service 1"},
-        "10":{"player":0,"name":"1 Player Start"},
-        "20":{"player":0,"name":"2 Players Start"}
+        "10":{"player":0,"name":"P1 Start"},
+        "20":{"player":0,"name":"P2 Start"}
       }
     }
   }

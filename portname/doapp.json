@@ -1,5 +1,4 @@
 {
-  "romname":"doapp",
   "ports":{
     ":P1":{
       "labels":{

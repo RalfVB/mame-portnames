@@ -1,5 +1,4 @@
 {
-  "romname":"bmcorerm",
   "ports":{
     ":BTN1":{
       "labels":{

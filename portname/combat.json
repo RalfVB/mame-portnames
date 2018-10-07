@@ -1,5 +1,4 @@
 {
-  "romname":"combat",
   "ports":{
     ":AN0":{
       "labels":{

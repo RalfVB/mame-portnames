@@ -1,5 +1,4 @@
 {
-  "romname":"domino",
   "ports":{
     ":ssio:IP0":{
       "labels":{

@@ -1,5 +1,4 @@
 {
-  "romname":"abcop",
   "ports":{
     ":mainpcb:ADC0":{
       "labels":{

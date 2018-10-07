@@ -1,5 +1,4 @@
 {
-  "romname":"deathsml",
   "ports":{
     ":PORT_D":{
       "labels":{

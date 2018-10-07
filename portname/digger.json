@@ -1,14 +1,13 @@
 {
-  "romname":"digger",
   "ports":{
     ":IN0":{
       "labels":{
-        "4":{"player":0,"name":"P1 Dig"},
-        "8":{"player":0,"name":"P1 Fill"},
-        "10":{"player":0,"name":"P1 Right"},
-        "20":{"player":0,"name":"P1 Down"},
-        "40":{"player":0,"name":"P1 Left"},
-        "80":{"player":0,"name":"P1 Up"}
+        "4":{"player":0,"name":"Dig"},
+        "8":{"player":0,"name":"Fill"},
+        "10":{"player":0,"name":"Right"},
+        "20":{"player":0,"name":"Down"},
+        "40":{"player":0,"name":"Left"},
+        "80":{"player":0,"name":"Up"}
       }
     }
   }

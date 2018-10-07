@@ -1,24 +1,31 @@
 {
-  "romname":"bldyror2",
   "ports":{
-    ":P1":{
-      "labels":{
-        "10":{"name":"P1 Punch"},
-        "20":{"name":"P1 Kick"},
-        "40":{"name":"P1 Transform"}
-      }
-    },
     ":P2":{
       "labels":{
-        "10":{"name":"P2 Punch"},
-        "20":{"name":"P2 Kick"},
-        "40":{"name":"P2 Transform"}
+        "10":{"player":1,"name":"P2 Button 1"},
+        "20":{"player":1,"name":"P2 Button 2"},
+        "40":{"player":1,"name":"P2 Button 3"}
       }
     },
     ":P3":{
       "labels":{
-        "10":{"name":"P1 Button 4"},
-        "20":{"name":"P2 Button 4"}
+        "10":{"player":0,"name":"P1 Button 4"},
+        "20":{"player":1,"name":"P2 Button 4"}
+      }
+    },
+    ":SYSTEM":{
+      "labels":{
+        "1":{"player":0,"name":"P1 Start"},
+        "2":{"player":0,"name":"P2 Start"},
+        "4":{"player":0,"name":"P3 Start"},
+        "8":{"player":0,"name":"P4 Start"}
+      }
+    },
+    ":P1":{
+      "labels":{
+        "10":{"player":0,"name":"P1 Button 1"},
+        "20":{"player":0,"name":"P1 Button 2"},
+        "40":{"player":0,"name":"P1 Button 3"}
       }
     }
   }

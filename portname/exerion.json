@@ -1,16 +1,15 @@
 {
-  "romname":"exerion",
   "ports":{
     ":P1":{
       "labels":{
-        "10":{"player":0,"name":"P1 Fast Fire"},
-        "20":{"player":0,"name":"P1 Fire"}
+        "10":{"player":0,"name":"P1 Rapid Shot"},
+        "20":{"player":0,"name":"P1 Shot"}
       }
     },
     ":P2":{
       "labels":{
-        "10":{"player":1,"name":"P2 Fast Fire"},
-        "20":{"player":1,"name":"P2 Fire"}
+        "10":{"player":1,"name":"P2 Rapid Shot"},
+        "20":{"player":1,"name":"P2 Shot"}
       }
     }
   }

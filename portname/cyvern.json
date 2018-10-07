@@ -1,11 +1,10 @@
 {
-  "romname":"cyvern",
   "ports":{
     ":400000":{
       "labels":{
-        "100000":{"player":1,"name":"P2 Fire"},
+        "100000":{"player":1,"name":"P2 Shot"},
         "200000":{"player":1,"name":"P2 Bomb"},
-        "10000000":{"player":0,"name":"P1 Fire"},
+        "10000000":{"player":0,"name":"P1 Shot"},
         "20000000":{"player":0,"name":"P1 Bomb"}
       }
     }
