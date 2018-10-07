@@ -1,0 +1,27 @@
+{
+  "ports":{
+    ":CURSY":{
+      "labels":{
+        "1":{"player":0,"name":"Y1 - Up"},
+        "2":{"player":0,"name":"Y2 - Right"},
+        "4":{"player":0,"name":"Y3 - Down"},
+        "8":{"player":0,"name":"Y4 - Left"}
+      }
+    },
+    ":CURSX":{
+      "labels":{
+        "1":{"player":0,"name":"X1 - Up"},
+        "2":{"player":0,"name":"X2 - Right"},
+        "4":{"player":0,"name":"X3 - Down"},
+        "8":{"player":0,"name":"X4 - Left"}
+      }
+    },
+    ":BUTTONS":{
+      "labels":{
+        "2":{"player":0,"name":"Start"},
+        "4":{"player":0,"name":"A"},
+        "8":{"player":0,"name":"B"}
+      }
+    }
+  }
+}
