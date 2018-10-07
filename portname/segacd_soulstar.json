@@ -1,0 +1,81 @@
+{
+  "romname":"segacd",
+  "softname":"soulstar",
+  "ports":{
+    ":PAD1_3B":{
+      "labels":{
+        "1":{"player":0,"name":"P1 Up"},
+        "2":{"player":0,"name":"P1 Down"},
+        "4":{"player":0,"name":"P1 Left"},
+        "8":{"player":0,"name":"P1 Right"},
+        "10":{"player":0,"name":"P1 B"},
+        "20":{"player":0,"name":"P1 C"},
+        "40":{"player":0,"name":"P1 A"},
+        "80":{"player":0,"name":"P1 Start"}
+      }
+    },
+    ":PAD2_6B":{
+      "labels":{
+        "1":{"player":1,"name":"P2 Up"},
+        "2":{"player":1,"name":"P2 Down"},
+        "4":{"player":1,"name":"P2 Left"},
+        "8":{"player":1,"name":"P2 Right"},
+        "10":{"player":1,"name":"P2 B"},
+        "20":{"player":1,"name":"P2 C"},
+        "40":{"player":1,"name":"P2 A"},
+        "80":{"player":1,"name":"P2 Start"}
+      }
+    },
+    ":CTRLSEL":{
+      "labels":{
+        "f":{"player":0,"name":"Player 1 Controller"},
+        "f0":{"player":0,"name":"Player 2 Controller"}
+      }
+    },
+    ":RESET":{
+      "labels":{
+        "1":{"player":0,"name":"Reset Button"}
+      }
+    },
+    ":EXTRA2":{
+      "labels":{
+        "1":{"player":1,"name":"P2 Z"},
+        "2":{"player":1,"name":"P2 Y"},
+        "4":{"player":1,"name":"P2 X"},
+        "8":{"player":1,"name":"P2 Mode"}
+      }
+    },
+    ":EXTRA1":{
+      "labels":{
+        "1":{"player":0,"name":"P1 Z"},
+        "2":{"player":0,"name":"P1 Y"},
+        "4":{"player":0,"name":"P1 X"},
+        "8":{"player":0,"name":"P1 Mode"}
+      }
+    },
+    ":PAD2_3B":{
+      "labels":{
+        "1":{"player":1,"name":"P2 Up"},
+        "2":{"player":1,"name":"P2 Down"},
+        "4":{"player":1,"name":"P2 Left"},
+        "8":{"player":1,"name":"P2 Right"},
+        "10":{"player":1,"name":"P2 B"},
+        "20":{"player":1,"name":"P2 C"},
+        "40":{"player":1,"name":"P2 A"},
+        "80":{"player":1,"name":"P2 Start"}
+      }
+    },
+    ":PAD1_6B":{
+      "labels":{
+        "1":{"player":0,"name":"P1 Up"},
+        "2":{"player":0,"name":"P1 Down"},
+        "4":{"player":0,"name":"P1 Left"},
+        "8":{"player":0,"name":"P1 Right"},
+        "10":{"player":0,"name":"P1 B"},
+        "20":{"player":0,"name":"P1 C"},
+        "40":{"player":0,"name":"P1 A"},
+        "80":{"player":0,"name":"P1 Start"}
+      }
+    }
+  }
+}
