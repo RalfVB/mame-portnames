@@ -1,0 +1,86 @@
+{
+  "ports":{
+    ":JOY0":{
+      "labels":{
+        "100":{"player":0,"name":"P1 Up"},
+        "200":{"player":0,"name":"P1 Down"},
+        "400":{"player":0,"name":"P1 Left"},
+        "800":{"player":0,"name":"P1 Right"}
+      }
+    },
+    ":JOY1":{
+      "labels":{
+        "100":{"player":0,"name":"P1 Keypad *"},
+        "200":{"player":0,"name":"P1 Keypad 7"},
+        "400":{"player":0,"name":"P1 Keypad 4"},
+        "800":{"player":0,"name":"P1 Keypad 1"}
+      }
+    },
+    ":JOY2":{
+      "labels":{
+        "100":{"player":0,"name":"P1 Keypad 0"},
+        "200":{"player":0,"name":"P1 Keypad 8"},
+        "400":{"player":0,"name":"P1 Keypad 5"},
+        "800":{"player":0,"name":"P1 Keypad 2"}
+      }
+    },
+    ":JOY3":{
+      "labels":{
+        "100":{"player":0,"name":"P1 Keypad #"},
+        "200":{"player":0,"name":"P1 Keypad 9"},
+        "400":{"player":0,"name":"P1 Keypad 6"},
+        "800":{"player":0,"name":"P1 Keypad 3"}
+      }
+    },
+    ":JOY4":{
+      "labels":{
+        "1000":{"player":1,"name":"P2 Keypad #"},
+        "2000":{"player":1,"name":"P2 Keypad 9"},
+        "4000":{"player":1,"name":"P2 Keypad 6"},
+        "8000":{"player":1,"name":"P2 Keypad 3"}
+      }
+    },
+    ":JOY5":{
+      "labels":{
+        "1000":{"player":1,"name":"P2 Keypad 0"},
+        "2000":{"player":1,"name":"P2 Keypad 8"},
+        "4000":{"player":1,"name":"P2 Keypad 5"},
+        "8000":{"player":1,"name":"P2 Keypad 2"}
+      }
+    },
+    ":JOY6":{
+      "labels":{
+        "1000":{"player":1,"name":"P2 Keypad *"},
+        "2000":{"player":1,"name":"P2 Keypad 7"},
+        "4000":{"player":1,"name":"P2 Keypad 4"},
+        "8000":{"player":1,"name":"P2 Keypad 1"}
+      }
+    },
+    ":JOY7":{
+      "labels":{
+        "1000":{"player":1,"name":"P2 Up"},
+        "2000":{"player":1,"name":"P2 Down"},
+        "4000":{"player":1,"name":"P2 Left"},
+        "8000":{"player":1,"name":"P2 Right"}
+      }
+    },
+    ":BUTTONS0":{
+      "labels":{
+        "1":{"player":0,"name":"P1 Pause"},
+        "2":{"player":0,"name":"P1 A"}
+      }
+    },
+    ":BUTTONS1":{"labels":{"2":{"player":0,"name":"P1 B"}}},
+    ":BUTTONS2":{"labels":{"2":{"player":0,"name":"P1 C"}}},
+    ":BUTTONS3":{"labels":{"2":{"player":0,"name":"P1 Option"}}},
+    ":BUTTONS4":{"labels":{"2":{"player":1,"name":"P2 Option"}}},
+    ":BUTTONS5":{"labels":{"2":{"player":1,"name":"P2 C"}}},
+    ":BUTTONS6":{"labels":{"2":{"player":1,"name":"P2 B"}}},
+    ":BUTTONS7":{
+      "labels":{
+        "1":{"player":1,"name":"P2 Pause"},
+        "2":{"player":1,"name":"P2 A"}
+      }
+    }
+  }
+}
