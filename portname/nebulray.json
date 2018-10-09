@@ -1,64 +1,43 @@
 {
-  "romname":"nebulray",
   "ports":{
-    ":MISC":{
-      "labels":{
-        "1":{"player":0,"name":"Freeze Screen"},
-        "2":{"player":0,"name":"Service Mode"},
-        "4":{"player":0,"name":"Coin 4"},
-        "8":{"player":0,"name":"Coin 3"},
-        "10":{"player":0,"name":"Coin 2"},
-        "20":{"player":0,"name":"Coin 1"},
-        "40":{"player":0,"name":"Test switch"},
-        "80":{"player":0,"name":"Service 1"}
-      }
-    },
     ":P1":{
       "labels":{
-        "1":{"player":0,"name":"P1 Right"},
-        "2":{"player":0,"name":"P1 Left"},
-        "4":{"player":0,"name":"P1 Down"},
-        "8":{"player":0,"name":"P1 Up"},
-        "10":{"player":0,"name":"P1 Button 1"},
-        "20":{"player":0,"name":"P1 Button 2"},
-        "40":{"player":0,"name":"P1 Button 3"},
-        "80":{"player":0,"name":"1 Player Start"}
+        "10":{"player":0,"name":"P1 Shot"},
+        "20":{"player":0,"name":"P1 Bomb"},
+        "40":{"player":0,"name":"-"},
+        "80":{"player":0,"name":"P1 Start"}
       }
     },
     ":P2":{
       "labels":{
-        "1":{"player":1,"name":"P2 Right"},
-        "2":{"player":1,"name":"P2 Left"},
-        "4":{"player":1,"name":"P2 Down"},
-        "8":{"player":1,"name":"P2 Up"},
-        "10":{"player":1,"name":"P2 Button 1"},
-        "20":{"player":1,"name":"P2 Button 2"},
-        "40":{"player":1,"name":"P2 Button 3"},
-        "80":{"player":0,"name":"2 Players Start"}
+        "10":{"player":1,"name":"P2 Shot"},
+        "20":{"player":1,"name":"P2 Bomb"},
+        "40":{"player":1,"name":"-"},
+        "80":{"player":0,"name":"P2 Start"}
       }
     },
     ":P3":{
       "labels":{
-        "1":{"player":2,"name":"P3 Button 3"},
-        "2":{"player":2,"name":"P3 Button 2"},
-        "4":{"player":2,"name":"P3 Button 1"},
-        "8":{"player":2,"name":"P3 Right"},
-        "10":{"player":2,"name":"P3 Left"},
-        "20":{"player":2,"name":"P3 Down"},
-        "40":{"player":2,"name":"P3 Up"},
-        "80":{"player":0,"name":"3 Players Start"}
+        "1":{"player":2,"name":"-"},
+        "2":{"player":2,"name":"-"},
+        "4":{"player":2,"name":"-"},
+        "8":{"player":2,"name":"-"},
+        "10":{"player":2,"name":"-"},
+        "20":{"player":2,"name":"-"},
+        "40":{"player":2,"name":"-"},
+        "80":{"player":0,"name":"-"}
       }
     },
     ":P4":{
       "labels":{
-        "1":{"player":3,"name":"P4 Right"},
-        "2":{"player":3,"name":"P4 Left"},
-        "4":{"player":3,"name":"P4 Down"},
-        "8":{"player":3,"name":"P4 Up"},
-        "10":{"player":3,"name":"P4 Button 1"},
-        "20":{"player":3,"name":"P4 Button 2"},
-        "40":{"player":3,"name":"P4 Button 3"},
-        "80":{"player":0,"name":"4 Players Start"}
+        "1":{"player":3,"name":"-"},
+        "2":{"player":3,"name":"-"},
+        "4":{"player":3,"name":"-"},
+        "8":{"player":3,"name":"-"},
+        "10":{"player":3,"name":"-"},
+        "20":{"player":3,"name":"-"},
+        "40":{"player":3,"name":"-"},
+        "80":{"player":0,"name":"-"}
       }
     }
   }

@@ -1,42 +1,17 @@
 {
-  "romname":"hcrash",
   "ports":{
-    ":ACCEL":{
-      "labels":{
-        "ff":{"player":0,"name":"P1 Pedal 1"}
-      }
-    },
-    ":DSW0":{
-      "labels":{
-        "f":{"player":0,"name":"Coin A"},
-        "f0":{"player":0,"name":"Coin B"}
-      }
-    },
-    ":DSW1":{
-      "labels":{
-        "3":{"player":0,"name":"Cabinet"},
-        "60":{"player":0,"name":"Difficulty"},
-        "80":{"player":0,"name":"Demo Sounds"}
-      }
-    },
-    ":IN0":{
-      "labels":{
-        "4":{"player":0,"name":"Service 1"},
-        "8":{"player":0,"name":"1 Player Start"},
-        "10":{"player":0,"name":"Coin 1"},
-        "20":{"player":0,"name":"Coin 2"}
-      }
-    },
+    ":ACCEL":{"labels":{"ff":{"player":0,"name":"Pedal 1"}}},
+    ":IN0":{"labels":{"8":{"player":0,"name":"Start"}}},
     ":IN1":{
       "labels":{
-        "8":{"player":0,"name":"P1 Button 2"},
-        "10":{"player":0,"name":"P1 Button 3"}
+        "8":{"player":0,"name":"Button 2"},
+        "10":{"player":0,"name":"Button 3"}
       }
     },
     ":IN3":{
       "labels":{
-        "20":{"player":0,"name":"P1 Button 2"},
-        "40":{"player":0,"name":"P1 Button 1"}
+        "20":{"player":0,"name":"Button 2"},
+        "40":{"player":0,"name":"Button 1"}
       }
     },
     ":PADDLE":{
@@ -44,17 +19,9 @@
         "7f":{"player":0,"name":"Paddle"}
       }
     },
-    ":TEST":{
-      "labels":{
-        "1":{"player":0,"name":"Flip Screen"},
-        "2":{"player":0,"name":"Quantity of Initials"},
-        "4":{"player":0,"name":"Service Mode"},
-        "8":{"player":0,"name":"Speed Unit"}
-      }
-    },
     ":WHEEL":{
       "labels":{
-        "ff":{"player":0,"name":"Paddle"}
+        "ff":{"player":0,"name":"Wheel"}
       }
     }
   }

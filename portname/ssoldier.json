@@ -1,29 +1,9 @@
 {
-  "romname":"ssoldier",
   "ports":{
     ":COINS_DSW3":{
       "labels":{
         "1":{"player":0,"name":"1 Player Start"},
-        "2":{"player":0,"name":"2 Players Start"},
-        "4":{"player":0,"name":"Coin 1"},
-        "8":{"player":0,"name":"Coin 2"},
-        "10":{"player":0,"name":"Service 1"},
-        "20":{"player":0,"name":"Service"},
-        "8000":{"player":0,"name":"Unknown"}
-      }
-    },
-    ":DSW":{
-      "labels":{
-        "20":{"player":0,"name":"Any Button to Start"},
-        "40":{"player":0,"name":"Demo Sounds"},
-        "80":{"player":0,"name":"Service Mode"},
-        "100":{"player":0,"name":"Flip Screen"},
-        "200":{"player":0,"name":"Unknown"},
-        "400":{"player":0,"name":"Coin Slots"},
-        "800":{"player":0,"name":"Coin Mode"},
-        "3000":{"player":0,"name":"Coin A"},
-        "c000":{"player":0,"name":"Coin B"},
-        "f000":{"player":0,"name":"Coinage"}
+        "2":{"player":0,"name":"2 Players Start"}
       }
     },
     ":P1_P2":{

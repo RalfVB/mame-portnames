@@ -1,5 +1,4 @@
 {
-  "romname":"xybots",
   "ports":{
     ":FFE100":{
       "labels":{

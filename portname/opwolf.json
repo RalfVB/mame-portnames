@@ -1,5 +1,4 @@
 {
-  "romname":"opwolf",
   "ports":{
     ":IN1":{
       "labels":{

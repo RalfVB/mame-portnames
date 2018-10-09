@@ -1,41 +1,28 @@
 {
-  "romname":"hangplt",
   "ports":{
     ":AN0":{
       "labels":{
-        "3ff":{"player":0,"name":"AD Stick X"}
+        "3ff":{"player":0,"name":"Move Horizontal"}
       }
     },
     ":AN1":{
       "labels":{
-        "3ff":{"player":0,"name":"AD Stick Y"}
+        "3ff":{"player":0,"name":"Move Vertical"}
       }
     },
     ":IN0":{
       "labels":{
-        "8":{"player":0,"name":"P1 Right"},
-        "10":{"player":0,"name":"P1 Left"},
-        "20":{"player":0,"name":"P1 Down"},
-        "40":{"player":0,"name":"P1 Up"},
-        "80":{"player":0,"name":"1 Player Start"}
+        "8":{"player":0,"name":"Right"},
+        "10":{"player":0,"name":"Left"},
+        "20":{"player":0,"name":"Down"},
+        "40":{"player":0,"name":"Up"},
+        "80":{"player":0,"name":"Start"}
       }
     },
     ":IN1":{
       "labels":{
-        "20":{"player":0,"name":"P1 Button 2"},
-        "40":{"player":0,"name":"P1 Button 1"}
-      }
-    },
-    ":IN3":{
-      "labels":{
-        "1":{"player":0,"name":"Disable Machine Init"},
-        "2":{"player":0,"name":"Disable Test Mode"},
-        "4":{"player":0,"name":"DIP3"},
-        "8":{"player":0,"name":"DIP4"},
-        "10":{"player":0,"name":"Coin 2"},
-        "20":{"player":0,"name":"Coin 1"},
-        "40":{"player":0,"name":"Service Button"},
-        "80":{"player":0,"name":"Service Mode"}
+        "20":{"player":0,"name":"Button 2"},
+        "40":{"player":0,"name":"Button 1"}
       }
     }
   }

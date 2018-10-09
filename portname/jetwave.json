@@ -1,21 +1,8 @@
 {
-  "romname":"jetwave",
   "ports":{
-    ":ANALOG1":{
-      "labels":{
-        "ff":{"player":0,"name":"Paddle"}
-      }
-    },
-    ":ANALOG2":{
-      "labels":{
-        "ff":{"player":0,"name":"P1 Pedal 1"}
-      }
-    },
-    ":ANALOG3":{
-      "labels":{
-        "ff":{"player":0,"name":"P1 Pedal 2"}
-      }
-    },
+    ":ANALOG1":{"labels":{"ff":{"player":0,"name":"Steering"}}},
+    ":ANALOG2":{"labels":{"ff":{"player":0,"name":"Accelerate"}}},
+    ":ANALOG3":{"labels":{"ff":{"player":0,"name":"Pedal 2"}}},
     ":IN0":{
       "labels":{
         "8":{"player":0,"name":"Right Turn"},
@@ -23,18 +10,6 @@
         "20":{"player":0,"name":"Angle"},
         "40":{"player":0,"name":"T-Center"},
         "80":{"player":0,"name":"View Shift"}
-      }
-    },
-    ":IN3":{
-      "labels":{
-        "1":{"player":0,"name":"DIP 4"},
-        "2":{"player":0,"name":"DIP 3"},
-        "4":{"player":0,"name":"DIP 2"},
-        "8":{"player":0,"name":"DIP 1"},
-        "10":{"player":0,"name":"Coin 2"},
-        "20":{"player":0,"name":"Coin 1"},
-        "40":{"player":0,"name":"Service Button"},
-        "80":{"player":0,"name":"Service Mode"}
       }
     }
   }

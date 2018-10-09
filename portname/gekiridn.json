@@ -1,16 +1,45 @@
 {
-  "romname":"gekiridn",
   "ports":{
+    ":DIAL.0":{"labels":{"fff":{"player":0,"name":"-"}}},
+    ":DIAL.1":{"labels":{"fff":{"player":1,"name":"-"}}},
+    ":IN.4":{
+      "labels":{
+        "100":{"player":2,"name":"-"},
+        "200":{"player":2,"name":"-"},
+        "400":{"player":2,"name":"-"},
+        "800":{"player":2,"name":"-"},
+        "1000":{"player":3,"name":"-"},
+        "2000":{"player":3,"name":"-"},
+        "4000":{"player":3,"name":"-"},
+        "8000":{"player":3,"name":"-"}
+      }
+    },
+    ":IN.5":{
+      "labels":{
+        "1":{"player":2,"name":"-"},
+        "2":{"player":2,"name":"-"},
+        "4":{"player":2,"name":"-"},
+        "8":{"player":2,"name":"-"},
+        "10":{"player":3,"name":"-"},
+        "20":{"player":3,"name":"-"},
+        "40":{"player":3,"name":"-"},
+        "80":{"player":3,"name":"-"}
+      }
+    },
     ":IN.0":{
       "labels":{
-        "1":{"player":0,"name":"P1 Fire"},
+        "1":{"player":0,"name":"P1 Shot"},
         "2":{"player":0,"name":"P1 Bomb"},
-        "4":{"player":0,"name":"P1 Button 3"},
-        "8":{"player":0,"name":"P1 Button 4"},
-        "10":{"player":1,"name":"P2 Fire"},
+        "4":{"player":0,"name":"-"},
+        "8":{"player":0,"name":"-"},
+        "10":{"player":1,"name":"P2 Shot"},
         "20":{"player":1,"name":"P2 Bomb"},
-        "40":{"player":1,"name":"P2 Button 3"},
-        "80":{"player":1,"name":"P2 Button 4"}
+        "40":{"player":1,"name":"-"},
+        "80":{"player":1,"name":"-"},
+        "1000":{"player":0,"name":"P1 Start"},
+        "2000":{"player":0,"name":"P2 Start"},
+        "4000":{"player":0,"name":"-"},
+        "8000":{"player":0,"name":"-"}
       }
     }
   }

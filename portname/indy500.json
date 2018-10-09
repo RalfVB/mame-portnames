@@ -1,41 +1,31 @@
 {
-  "romname":"indy500",
   "ports":{
     ":ANA0":{
       "labels":{
-        "ff":{"player":0,"name":"P1 Steering Wheel"}
+        "ff":{"player":0,"name":"Steering"}
       }
     },
     ":ANA1":{
       "labels":{
-        "ff":{"player":0,"name":"P1 Accelerate Pedal"}
+        "ff":{"player":0,"name":"Accelerate"}
       }
     },
     ":ANA2":{
       "labels":{
-        "ff":{"player":0,"name":"P1 Brake Pedal"}
-      }
-    },
-    ":DSW":{
-      "labels":{
-        "80":{"player":0,"name":"Unknown"}
+        "ff":{"player":0,"name":"Brake"}
       }
     },
     ":IN0":{
       "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "2":{"player":0,"name":"Coin 2"},
-        "4":{"player":0,"name":"Service Mode"},
-        "8":{"player":0,"name":"Service 1"},
-        "40":{"player":0,"name":"1 Player Start"}
+        "40":{"player":0,"name":"Start"}
       }
     },
     ":IN2":{
       "labels":{
-        "1":{"player":0,"name":"View 1 Button"},
-        "2":{"player":0,"name":"View 2 Button"},
-        "10":{"player":0,"name":"P1 Shift Up"},
-        "20":{"player":0,"name":"P1 Shift Down"}
+        "1":{"player":0,"name":"View 1"},
+        "2":{"player":0,"name":"View 2"},
+        "10":{"player":0,"name":"Shift Up"},
+        "20":{"player":0,"name":"Shift Down"}
       }
     }
   }

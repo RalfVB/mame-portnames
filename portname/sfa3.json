@@ -1,5 +1,4 @@
 {
-  "romname":"sfa3",
   "ports":{
     ":IN0":{
       "labels":{
@@ -7,32 +6,32 @@
         "2":{"player":0,"name":"P1 Left"},
         "4":{"player":0,"name":"P1 Down"},
         "8":{"player":0,"name":"P1 Up"},
-        "10":{"player":0,"name":"P1 L. Punch"},
-        "20":{"player":0,"name":"P1 M. Punch"},
-        "40":{"player":0,"name":"P1 H. Punch"},
+        "10":{"player":0,"name":"P1 LP"},
+        "20":{"player":0,"name":"P1 MP"},
+        "40":{"player":0,"name":"P1 HP"},
         "100":{"player":1,"name":"P2 Right"},
         "200":{"player":1,"name":"P2 Left"},
         "400":{"player":1,"name":"P2 Down"},
         "800":{"player":1,"name":"P2 Up"},
-        "1000":{"player":1,"name":"P2 L. Punch"},
-        "2000":{"player":1,"name":"P2 M. Punch"},
-        "4000":{"player":1,"name":"P2 H. Punch"}
+        "1000":{"player":1,"name":"P2 LP"},
+        "2000":{"player":1,"name":"P2 MP"},
+        "4000":{"player":1,"name":"P2 HP"}
       }
     },
     ":IN1":{
       "labels":{
-        "1":{"player":0,"name":"P1 L. Kick"},
-        "2":{"player":0,"name":"P1 M. Kick"},
-        "4":{"player":0,"name":"P1 H. Kick"},
-        "10":{"player":1,"name":"P2 L. Kick"},
-        "20":{"player":1,"name":"P2 M. Kick"}
+        "1":{"player":0,"name":"P1 LK"},
+        "2":{"player":0,"name":"P1 MK"},
+        "4":{"player":0,"name":"P1 HK"},
+        "10":{"player":1,"name":"P2 LK"},
+        "20":{"player":1,"name":"P2 MK"}
       }
     },
     ":IN2":{
       "labels":{
         "100":{"player":0,"name":"P1 Start"},
         "200":{"player":0,"name":"P2 Start"},
-        "4000":{"player":1,"name":"P2 H. Kick"}
+        "4000":{"player":1,"name":"P2 HK"}
       }
     }
   }

@@ -1,5 +1,4 @@
 {
-  "romname":"sqbert",
   "ports":{
     ":IN4":{
       "labels":{

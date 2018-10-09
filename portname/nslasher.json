@@ -1,5 +1,4 @@
 {
-  "romname":"nslasher",
   "ports":{
     ":IN0":{
       "labels":{
@@ -23,10 +22,6 @@
     },
     ":IN1":{
       "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "2":{"player":0,"name":"Coin 2"},
-        "4":{"player":0,"name":"Service 1"},
-        "8":{"player":0,"name":"Service Mode"},
         "100":{"player":2,"name":"P3 Up"},
         "200":{"player":2,"name":"P3 Down"},
         "400":{"player":2,"name":"P3 Left"},

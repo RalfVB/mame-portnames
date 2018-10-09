@@ -1,5 +1,4 @@
 {
-  "romname":"nss",
   "ports":{
     ":SERIAL1_DATA1":{
       "labels":{

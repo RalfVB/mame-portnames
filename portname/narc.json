@@ -1,5 +1,4 @@
 {
-  "romname":"narc",
   "ports":{
     ":IN0":{
       "labels":{

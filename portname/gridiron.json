@@ -1,5 +1,4 @@
 {
-  "romname":"gridiron",
   "ports":{
     ":P1BUT":{
       "labels":{

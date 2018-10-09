@@ -1,21 +1,20 @@
 {
-  "romname":"jedi",
   "ports":{
     ":0c00":{
       "labels":{
-        "1":{"player":0,"name":"Fire / Rotate Right"},
+        "1":{"player":0,"name":"Fire/Rotate Right"},
         "2":{"player":0,"name":"Fire"},
-        "4":{"player":0,"name":"Fire / Rotate Left"}
+        "4":{"player":0,"name":"Fire/Rotate Left"}
       }
     },
     ":STICKX":{
       "labels":{
-        "ff":{"player":0,"name":"Left / Right"}
+        "ff":{"player":0,"name":"Left/Right"}
       }
     },
     ":STICKY":{
       "labels":{
-        "ff":{"player":0,"name":"Up / Down"}
+        "ff":{"player":0,"name":"Up/Down"}
       }
     }
   }

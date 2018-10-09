@@ -1,11 +1,10 @@
 {
-  "romname":"ghouls",
   "ports":{
     ":IN1":{
       "labels":{
-        "10":{"player":0,"name":"P1 Attack"},
+        "10":{"player":0,"name":"P1 Shot"},
         "20":{"player":0,"name":"P1 Jump"},
-        "1000":{"player":1,"name":"P2 Attack"},
+        "1000":{"player":1,"name":"P2 Shot"},
         "2000":{"player":1,"name":"P2 Jump"}
       }
     }

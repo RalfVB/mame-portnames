@@ -1,34 +1,11 @@
 {
-  "romname":"panicstr",
   "ports":{
     ":400000":{
       "labels":{
-        "100":{"player":0,"name":"1 Player Start"},
-        "200":{"player":0,"name":"2 Players Start"},
-        "400":{"player":0,"name":"Coin 1"},
-        "800":{"player":0,"name":"Coin 2"},
-        "1000":{"player":0,"name":"Service"},
-        "2000":{"player":0,"name":"Tilt"},
-        "4000":{"player":0,"name":"Service 1"},
-        "10000":{"player":1,"name":"P2 Up"},
-        "20000":{"player":1,"name":"P2 Down"},
-        "40000":{"player":1,"name":"P2 Left"},
-        "80000":{"player":1,"name":"P2 Right"},
-        "100000":{"player":1,"name":"P2 Button 1"},
-        "1000000":{"player":0,"name":"P1 Up"},
-        "2000000":{"player":0,"name":"P1 Down"},
-        "4000000":{"player":0,"name":"P1 Left"},
-        "8000000":{"player":0,"name":"P1 Right"},
-        "10000000":{"player":0,"name":"P1 Button 1"}
-      }
-    },
-    ":400004":{
-      "labels":{
-        "1":{"player":0,"name":"Service Mode"},
-        "2":{"player":0,"name":"Flip Screen"},
-        "20":{"player":0,"name":"Unknown"},
-        "40":{"player":0,"name":"Use Backup Ram"},
-        "80":{"player":0,"name":"Freeze"}
+        "100":{"player":0,"name":"P1 Start"},
+        "200":{"player":0,"name":"P2 Start"},
+        "100000":{"player":1,"name":"P2 Draw"},
+        "10000000":{"player":0,"name":"P1 Draw"}
       }
     }
   }

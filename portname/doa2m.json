@@ -2,9 +2,9 @@
   "ports":{
     ":P1":{
       "labels":{
-        "10":{"player":0,"name":"n/a"},
-        "20":{"player":0,"name":"n/a"},
-        "40":{"player":0,"name":"n/a"},
+        "10":{"player":0,"name":"-"},
+        "20":{"player":0,"name":"-"},
+        "40":{"player":0,"name":"-"},
         "80":{"player":0,"name":"P1 Guard"},
         "100":{"player":0,"name":"P1 Kick"},
         "200":{"player":0,"name":"P1 Punch"}
@@ -12,9 +12,9 @@
     },
     ":P2":{
       "labels":{
-        "10":{"player":1,"name":"n/a"},
-        "20":{"player":1,"name":"n/a"},
-        "40":{"player":1,"name":"n/a"},
+        "10":{"player":1,"name":"-"},
+        "20":{"player":1,"name":"-"},
+        "40":{"player":1,"name":"-"},
         "80":{"player":1,"name":"P2 Guard"},
         "100":{"player":1,"name":"P2 Kick"},
         "200":{"player":1,"name":"P2 Punch"}

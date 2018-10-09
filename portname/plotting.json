@@ -1,5 +1,4 @@
 {
-  "romname":"plotting",
   "ports":{
     ":IN0":{
       "labels":{

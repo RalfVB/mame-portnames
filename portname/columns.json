@@ -4,7 +4,7 @@
       "labels":{
         "1":{"player":0,"name":"P1 Switch Pieces"},
         "10":{"player":0,"name":"P1 Drop"},
-        "20":{"player":0,"name":"P1 (N/A)"},
+        "20":{"player":0,"name":"-"},
         "40":{"player":0,"name":"P1 Right"},
         "80":{"player":0,"name":"P1 Left"}
       }
@@ -13,7 +13,7 @@
       "labels":{
         "1":{"player":1,"name":"P2 Switch Pieces"},
         "10":{"player":1,"name":"P2 Drop"},
-        "20":{"player":1,"name":"P2 (N/A)"},
+        "20":{"player":1,"name":"-"},
         "40":{"player":1,"name":"P2 Right"},
         "80":{"player":1,"name":"P2 Left"}
       }

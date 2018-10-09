@@ -1,5 +1,4 @@
 {
-  "romname":"m4",
   "ports":{
     ":IN0":{
       "labels":{

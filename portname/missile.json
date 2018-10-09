@@ -1,5 +1,4 @@
 {
-  "romname":"missile",
   "ports":{
     ":IN0":{
       "labels":{

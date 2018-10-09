@@ -1,5 +1,4 @@
 {
-  "romname":"karatour",
   "ports":{
     ":IN0":{
       "labels":{

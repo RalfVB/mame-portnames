@@ -1,5 +1,4 @@
 {
-  "romname":"upndown",
   "ports":{
     ":P1":{
       "labels":{

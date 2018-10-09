@@ -1,28 +1,5 @@
 {
-  "romname":"gdfs",
   "ports":{
-    ":DSW1":{
-      "labels":{
-        "1":{"player":0,"name":"Controls"},
-        "2":{"player":0,"name":"Light Gun Calibration"},
-        "4":{"player":0,"name":"Level Select"},
-        "18":{"player":0,"name":"Coinage"},
-        "20":{"player":0,"name":"Save Scores"},
-        "40":{"player":0,"name":"Flip Screen"},
-        "80":{"player":0,"name":"Unused"}
-      }
-    },
-    ":DSW2":{
-      "labels":{
-        "1":{"player":0,"name":"Invert X Axis"},
-        "4":{"player":0,"name":"Unused"},
-        "8":{"player":0,"name":"Language"},
-        "10":{"player":0,"name":"Demo Sounds"},
-        "20":{"player":0,"name":"Damage From Machine Gun"},
-        "40":{"player":0,"name":"Damage From Beam Cannon"},
-        "80":{"player":0,"name":"Damage From Missle"}
-      }
-    },
     ":GUNX1":{
       "labels":{
         "ff":{"player":0,"name":"Lightgun X"}
@@ -45,7 +22,7 @@
     },
     ":P1":{
       "labels":{
-        "1":{"player":0,"name":"1 Player Start"},
+        "1":{"player":0,"name":"P1 Start"},
         "2":{"player":0,"name":"P1 Button 3"},
         "4":{"player":0,"name":"P1 Button 2"},
         "8":{"player":0,"name":"P1 Button 1"},
@@ -57,7 +34,7 @@
     },
     ":P2":{
       "labels":{
-        "1":{"player":0,"name":"2 Players Start"},
+        "1":{"player":0,"name":"P2 Start"},
         "2":{"player":1,"name":"P2 Button 3"},
         "4":{"player":1,"name":"P2 Button 2"},
         "8":{"player":1,"name":"P2 Button 1"},
@@ -65,15 +42,6 @@
         "20":{"player":1,"name":"P2 Left"},
         "40":{"player":1,"name":"P2 Down"},
         "80":{"player":1,"name":"P2 Up"}
-      }
-    },
-    ":SYSTEM":{
-      "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "2":{"player":0,"name":"Coin 2"},
-        "4":{"player":0,"name":"Service 1"},
-        "8":{"player":0,"name":"Tilt"},
-        "10":{"player":0,"name":"Test"}
       }
     }
   }

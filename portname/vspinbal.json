@@ -1,5 +1,4 @@
 {
-  "romname":"vspinbal",
   "ports":{
     ":IN0":{
       "labels":{

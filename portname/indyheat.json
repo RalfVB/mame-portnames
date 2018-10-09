@@ -1,34 +1,33 @@
 {
-  "romname":"indyheat",
   "ports":{
     ":AN0":{
       "labels":{
-        "ff":{"player":0,"name":"P1 Left / Right"}
+        "ff":{"player":0,"name":"P1 Left/Right"}
       }
     },
     ":AN1":{
       "labels":{
-        "ff":{"player":1,"name":"P2 Right /  Left"}
+        "ff":{"player":1,"name":"P2 Right/Left"}
       }
     },
     ":AN2":{
       "labels":{
-        "ff":{"player":2,"name":"P3 Right /  Left"}
+        "ff":{"player":2,"name":"P3 Right/Left"}
       }
     },
     ":AN3":{
       "labels":{
-        "ff":{"player":0,"name":"P1 Gas"}
+        "ff":{"player":0,"name":"P1 Accelerate"}
       }
     },
     ":AN4":{
       "labels":{
-        "ff":{"player":1,"name":"P2 Gas"}
+        "ff":{"player":1,"name":"P2 Accelerate"}
       }
     },
     ":AN5":{
       "labels":{
-        "ff":{"player":2,"name":"P3 Gas"}
+        "ff":{"player":2,"name":"P3 Accelerate"}
       }
     },
     ":P1":{

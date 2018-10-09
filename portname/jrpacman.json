@@ -1,5 +1,4 @@
 {
-  "romname":"jrpacman",
   "ports":{
     ":P1":{
       "labels":{

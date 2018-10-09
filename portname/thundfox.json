@@ -1,5 +1,4 @@
 {
-  "romname":"thundfox",
   "ports":{
     ":IN0":{
       "labels":{

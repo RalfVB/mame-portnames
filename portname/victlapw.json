@@ -1,43 +1,17 @@
 {
-  "romname":"victlapw",
   "ports":{
-    ":BRAKE":{
-      "labels":{
-        "ff":{"player":0,"name":"Brake Pedal"}
-      }
-    },
-    ":DSW0":{
-      "labels":{
-        "2000":{"player":0,"name":"Unknown"},
-        "8000":{"player":0,"name":"Test Mode?"}
-      }
-    },
-    ":GAS":{
-      "labels":{
-        "ff":{"player":0,"name":"Gas Pedal"}
-      }
-    },
+    ":BRAKE":{"labels":{"ff":{"player":0,"name":"Brake"}}},
+    ":GAS":{"labels":{"ff":{"player":0,"name":"Accelerate"}}},
     ":INPUTS":{
       "labels":{
         "1":{"player":0,"name":"Shift Down"},
         "2":{"player":0,"name":"Shift Up"},
-        "40":{"player":0,"name":"View Change"},
-        "200":{"player":0,"name":"Coin 2"},
-        "800":{"player":0,"name":"Service 1"},
-        "1000":{"player":0,"name":"Coin 1"},
-        "8000":{"player":0,"name":"Motion-Stop"}
-      }
-    },
-    ":P1":{
-      "labels":{
-        "40":{"player":1,"name":"Dev Service Up"},
-        "80":{"player":1,"name":"Dev Service Down"},
-        "100":{"player":1,"name":"Dev Service Enter"}
+        "40":{"player":0,"name":"View Change"}
       }
     },
     ":STEER":{
       "labels":{
-        "ff":{"player":0,"name":"Steering Wheel"}
+        "ff":{"player":0,"name":"Steering"}
       }
     }
   }

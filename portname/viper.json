@@ -1,5 +1,4 @@
 {
-  "romname":"viper",
   "ports":{
     ":AN0":{
       "labels":{

@@ -1,5 +1,4 @@
 {
-  "romname":"paperboy",
   "ports":{
     ":1800":{
       "labels":{
@@ -9,12 +8,12 @@
     },
     ":ADC0":{
       "labels":{
-        "ff":{"player":0,"name":"P1 Left /  Right"}
+        "ff":{"player":0,"name":"P1 Left/Right"}
       }
     },
     ":ADC1":{
       "labels":{
-        "ff":{"player":0,"name":"P1 Accelerate /  Break"}
+        "ff":{"player":0,"name":"P1 Accelerate/Break"}
       }
     }
   }

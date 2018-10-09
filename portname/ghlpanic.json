@@ -1,26 +1,11 @@
 {
-  "romname":"ghlpanic",
   "ports":{
-    ":DSW":{
-      "labels":{
-        "40":{"player":0,"name":"Freeze"},
-        "80":{"player":0,"name":"Service Mode"}
-      }
-    },
     ":IN0":{
       "labels":{
         "10":{"player":0,"name":"P1 Button 1"},
-        "80":{"player":0,"name":"1 Player Start"},
+        "80":{"player":0,"name":"P1 Start"},
         "1000":{"player":1,"name":"P2 Button 1"},
-        "8000":{"player":0,"name":"2 Players Start"}
-      }
-    },
-    ":IN1":{
-      "labels":{
-        "1000":{"player":0,"name":"Coin 2"},
-        "2000":{"player":0,"name":"Coin 1"},
-        "4000":{"player":0,"name":"Service Mode"},
-        "8000":{"player":0,"name":"Service 1"}
+        "8000":{"player":0,"name":"P2 Start"}
       }
     },
     ":LIGHT0_X":{

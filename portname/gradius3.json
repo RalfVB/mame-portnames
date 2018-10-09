@@ -1,17 +1,16 @@
 {
-  "romname":"gradius3",
   "ports":{
     ":P1":{
       "labels":{
         "10":{"player":0,"name":"P1 Power Up"},
-        "20":{"player":0,"name":"P1 Fire"},
+        "20":{"player":0,"name":"P1 Shot"},
         "40":{"player":0,"name":"P1 Missile"}
       }
     },
     ":P2":{
       "labels":{
         "10":{"player":1,"name":"P2 Power Up"},
-        "20":{"player":1,"name":"P2 Fire"},
+        "20":{"player":1,"name":"P2 Shot"},
         "40":{"player":1,"name":"P2 Missile"}
       }
     }

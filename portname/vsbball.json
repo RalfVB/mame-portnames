@@ -1,5 +1,4 @@
 {
-  "romname":"vsbball",
   "ports":{
     ":IN0":{
       "labels":{

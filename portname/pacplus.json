@@ -1,5 +1,4 @@
 {
-  "romname":"pacplus",
   "ports":{
     ":IN0":{
       "labels":{

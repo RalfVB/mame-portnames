@@ -1,5 +1,4 @@
 {
-  "romname":"invadpt2",
   "ports":{
     ":CONTP1":{
       "labels":{

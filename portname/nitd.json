@@ -1,5 +1,4 @@
 {
-  "romname":"nitd",
   "ports":{
     ":edge:joy:JOY1":{
       "labels":{

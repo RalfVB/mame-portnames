@@ -1,16 +1,5 @@
 {
-  "romname":"mag_xain",
   "ports":{
-    ":COIN1":{
-      "labels":{
-        "1":{"player":0,"name":"Coin 1"}
-      }
-    },
-    ":COIN2":{
-      "labels":{
-        "1":{"player":0,"name":"Coin 2"}
-      }
-    },
     ":P1_IN":{
       "labels":{
         "1":{"player":0,"name":"P1 Up"},
@@ -33,11 +22,6 @@
         "20":{"player":1,"name":"P2 Button 2"},
         "40":{"player":1,"name":"P2 Button 3"},
         "80":{"player":0,"name":"2 Players Start"}
-      }
-    },
-    ":TEST":{
-      "labels":{
-        "80":{"player":0,"name":"Service Mode"}
       }
     }
   }

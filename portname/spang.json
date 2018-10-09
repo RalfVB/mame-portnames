@@ -1,12 +1,9 @@
 {
-  "romname":"spang",
   "ports":{
     ":IN0":{
       "labels":{
         "2":{"player":0,"name":"2 Players Start"},
-        "8":{"player":0,"name":"1 Player Start"},
-        "40":{"player":0,"name":"Service 1"},
-        "80":{"player":0,"name":"Coin 1"}
+        "8":{"player":0,"name":"1 Player Start"}
       }
     },
     ":IN1":{
@@ -27,11 +24,6 @@
         "20":{"player":1,"name":"P2 Left"},
         "40":{"player":1,"name":"P2 Down"},
         "80":{"player":1,"name":"P2 Up"}
-      }
-    },
-    ":SYS0":{
-      "labels":{
-        "2":{"player":0,"name":"Service Mode"}
       }
     }
   }

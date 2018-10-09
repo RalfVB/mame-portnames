@@ -1,5 +1,4 @@
 {
-  "romname":"nova2001",
   "ports":{
     ":IN0":{
       "labels":{

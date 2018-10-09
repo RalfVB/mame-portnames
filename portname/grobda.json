@@ -1,44 +1,17 @@
 {
-  "romname":"grobda",
   "ports":{
     ":BUTTONS":{
       "labels":{
-        "1":{"player":0,"name":"P1 Button 1"},
-        "2":{"player":1,"name":"P2 Button 1"},
-        "4":{"player":0,"name":"1 Player Start"},
-        "8":{"player":0,"name":"2 Players Start"}
-      }
-    },
-    ":COINS":{
-      "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "2":{"player":0,"name":"Coin 2"},
-        "8":{"player":0,"name":"Service 1"}
+        "1":{"player":0,"name":"P1 Shot"},
+        "2":{"player":1,"name":"P2 Shot"},
+        "4":{"player":0,"name":"P1 Start"},
+        "8":{"player":0,"name":"P2 Start"}
       }
     },
     ":DSW0":{
       "labels":{
         "1":{"player":0,"name":"P1 Button 2"},
-        "2":{"player":1,"name":"P2 Button 2"},
-        "4":{"player":0,"name":"Cabinet"},
-        "8":{"player":0,"name":"Service"}
-      }
-    },
-    ":DSW1":{
-      "labels":{
-        "1":{"player":0,"name":"Service Mode"},
-        "e":{"player":0,"name":"Coin A"},
-        "70":{"player":0,"name":"Coin B"},
-        "80":{"player":0,"name":"Freeze"}
-      }
-    },
-    ":DSW2":{
-      "labels":{
-        "3":{"player":0,"name":"Lives"},
-        "c":{"player":0,"name":"Difficulty"},
-        "10":{"player":0,"name":"Demo Sounds"},
-        "20":{"player":0,"name":"Level Select"},
-        "c0":{"player":0,"name":"Bonus Life"}
+        "2":{"player":1,"name":"P2 Button 2"}
       }
     },
     ":P1":{

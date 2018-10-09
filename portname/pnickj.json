@@ -1,37 +1,9 @@
 {
-  "romname":"pnickj",
   "ports":{
-    ":DSWA":{
-      "labels":{
-        "7":{"player":0,"name":"Coinage"},
-        "8":{"player":0,"name":"Coin Slots"},
-        "80":{"player":0,"name":"Unknown"}
-      }
-    },
-    ":DSWB":{
-      "labels":{
-        "7":{"player":0,"name":"Difficulty"},
-        "20":{"player":0,"name":"Unknown"},
-        "c0":{"player":0,"name":"Vs Play Mode"}
-      }
-    },
-    ":DSWC":{
-      "labels":{
-        "8":{"player":0,"name":"Freeze"},
-        "10":{"player":0,"name":"Flip Screen"},
-        "20":{"player":0,"name":"Demo Sounds"},
-        "40":{"player":0,"name":"Unknown"},
-        "80":{"player":0,"name":"Game Mode"}
-      }
-    },
     ":IN0":{
       "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "2":{"player":0,"name":"Coin 2"},
-        "4":{"player":0,"name":"Service 1"},
-        "10":{"player":0,"name":"1 Player Start"},
-        "20":{"player":0,"name":"2 Players Start"},
-        "40":{"player":0,"name":"Service Mode"}
+        "10":{"player":0,"name":"P1 Start"},
+        "20":{"player":0,"name":"P2 Start"}
       }
     },
     ":IN1":{

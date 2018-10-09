@@ -1,43 +1,17 @@
 {
-  "romname":"grdnstrm",
   "ports":{
-    ":DSW1":{
-      "labels":{
-        "1":{"player":0,"name":"Service Mode"},
-        "2":{"player":0,"name":"Demo Sounds"},
-        "4":{"player":0,"name":"Free Play"},
-        "8":{"player":0,"name":"Bombs"},
-        "c0":{"player":0,"name":"Lives"},
-        "100":{"player":0,"name":"Mirror Screen"},
-        "200":{"player":0,"name":"Flip Screen"},
-        "400":{"player":0,"name":"Unused"},
-        "1800":{"player":0,"name":"Difficulty"},
-        "e000":{"player":0,"name":"Coinage"}
-      }
-    },
     ":IN0":{
       "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "2":{"player":0,"name":"Coin 2"},
-        "4":{"player":0,"name":"Service 1"},
-        "8":{"player":0,"name":"1 Player Start"},
-        "10":{"player":0,"name":"2 Players Start"}
+        "8":{"player":0,"name":"P1 Start"},
+        "10":{"player":0,"name":"P2 Start"}
       }
     },
     ":IN1":{
       "labels":{
-        "1":{"player":0,"name":"P1 Right"},
-        "2":{"player":0,"name":"P1 Left"},
-        "4":{"player":0,"name":"P1 Down"},
-        "8":{"player":0,"name":"P1 Up"},
-        "10":{"player":0,"name":"P1 Button 1"},
-        "20":{"player":0,"name":"P1 Button 2"},
-        "100":{"player":1,"name":"P2 Right"},
-        "200":{"player":1,"name":"P2 Left"},
-        "400":{"player":1,"name":"P2 Down"},
-        "800":{"player":1,"name":"P2 Up"},
-        "1000":{"player":1,"name":"P2 Button 1"},
-        "2000":{"player":1,"name":"P2 Button 2"}
+        "10":{"player":0,"name":"P1 Shot"},
+        "20":{"player":0,"name":"P1 Bomb"},
+        "1000":{"player":1,"name":"P2 Shot"},
+        "2000":{"player":1,"name":"P2 Bomb"}
       }
     }
   }

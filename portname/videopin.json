@@ -1,5 +1,4 @@
 {
-  "romname":"videopin",
   "ports":{
     ":IN0":{
       "labels":{

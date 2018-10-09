@@ -1,5 +1,4 @@
 {
-  "romname":"firetrap",
   "ports":{
     ":IN0":{
       "labels":{

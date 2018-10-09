@@ -1,11 +1,7 @@
 {
-  "romname":"mgcrystl",
   "ports":{
     ":DSW_P1":{
       "labels":{
-        "1":{"player":0,"name":"Flip Screen"},
-        "2":{"player":0,"name":"Service Mode"},
-        "80":{"player":0,"name":"Unused"},
         "100":{"player":0,"name":"P1 Up"},
         "200":{"player":0,"name":"P1 Down"},
         "400":{"player":0,"name":"P1 Left"},
@@ -26,13 +22,8 @@
     },
     ":SYSTEM":{
       "labels":{
-        "100":{"player":0,"name":"1 Player Start"},
-        "200":{"player":0,"name":"2 Players Start"},
-        "400":{"player":0,"name":"Coin 1"},
-        "800":{"player":0,"name":"Coin 2"},
-        "1000":{"player":0,"name":"Service Mode"},
-        "2000":{"player":0,"name":"Tilt"},
-        "4000":{"player":0,"name":"Service 1"}
+        "100":{"player":0,"name":"P1 Start"},
+        "200":{"player":0,"name":"P2 Start"}
       }
     }
   }

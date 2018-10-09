@@ -1,5 +1,4 @@
 {
-  "romname":"stargrds",
   "ports":{
     ":MONO.IP1":{
       "labels":{

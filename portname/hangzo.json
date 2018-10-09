@@ -1,27 +1,5 @@
 {
-  "romname":"hangzo",
   "ports":{
-    ":DSW":{
-      "labels":{
-        "7":{"player":0,"name":"Coin A"},
-        "38":{"player":0,"name":"Coin B"},
-        "40":{"player":0,"name":"Flip Screen"},
-        "80":{"player":0,"name":"2 Credits to Start, 1 to Continue"},
-        "300":{"player":0,"name":"Lives"},
-        "2000":{"player":0,"name":"Unknown"},
-        "4000":{"player":0,"name":"Allow Continue"},
-        "8000":{"player":0,"name":"Demo Sounds"}
-      }
-    },
-    ":DSW3":{
-      "labels":{
-        "2":{"player":0,"name":"Freeze Player"},
-        "4":{"player":0,"name":"Freeze Frame"},
-        "20":{"player":0,"name":"Freeze Screen"},
-        "40":{"player":0,"name":"Unknown"},
-        "80":{"player":0,"name":"Debug Mode"}
-      }
-    },
     ":INPUTS":{
       "labels":{
         "1":{"player":0,"name":"P1 Up"},
@@ -31,7 +9,7 @@
         "10":{"player":0,"name":"P1 Button 1"},
         "20":{"player":0,"name":"P1 Button 2"},
         "40":{"player":0,"name":"P1 Button 3"},
-        "80":{"player":0,"name":"1 Player Start"},
+        "80":{"player":0,"name":"P1 Start"},
         "100":{"player":1,"name":"P2 Up"},
         "200":{"player":1,"name":"P2 Down"},
         "400":{"player":1,"name":"P2 Left"},
@@ -39,14 +17,7 @@
         "1000":{"player":1,"name":"P2 Button 1"},
         "2000":{"player":1,"name":"P2 Button 2"},
         "4000":{"player":1,"name":"P2 Button 3"},
-        "8000":{"player":0,"name":"2 Players Start"}
-      }
-    },
-    ":SYSTEM":{
-      "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "2":{"player":0,"name":"Coin 2"},
-        "4":{"player":0,"name":"Service 1"}
+        "8000":{"player":0,"name":"P2 Start"}
       }
     }
   }

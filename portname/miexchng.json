@@ -1,5 +1,4 @@
 {
-  "romname":"miexchng",
   "ports":{
     ":edge:joy:JOY1":{
       "labels":{

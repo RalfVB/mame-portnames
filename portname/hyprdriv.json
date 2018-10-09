@@ -1,5 +1,4 @@
 {
-  "romname":"hyprdriv",
   "ports":{
     ":AN0":{
       "labels":{
@@ -21,19 +20,6 @@
         "ff":{"player":0,"name":"AD Stick Y"}
       }
     },
-    ":DIPS":{
-      "labels":{
-        "1":{"player":0,"name":"Coinage Source"},
-        "3e":{"player":0,"name":"Coinage"},
-        "80":{"player":0,"name":"Power Up Test Loop"},
-        "100":{"player":0,"name":"Unknown"},
-        "600":{"player":0,"name":"Resolution"},
-        "1800":{"player":0,"name":"Graphics Speed"},
-        "2000":{"player":0,"name":"Brake"},
-        "4000":{"player":0,"name":"Power On Self Test"},
-        "8000":{"player":0,"name":"Test Switch"}
-      }
-    },
     ":IN1":{
       "labels":{
         "4":{"player":0,"name":"P1 Left Stick/Left"},
@@ -45,20 +31,10 @@
     },
     ":SYSTEM":{
       "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "2":{"player":0,"name":"Coin 2"},
-        "4":{"player":0,"name":"1 Player Start"},
-        "8":{"player":0,"name":"Tilt"},
-        "10":{"player":0,"name":"Service Mode"},
-        "20":{"player":0,"name":"2 Players Start"},
-        "40":{"player":0,"name":"Service 1"},
-        "80":{"player":0,"name":"Coin 3"},
-        "100":{"player":0,"name":"Coin 4"},
-        "200":{"player":0,"name":"3 Players Start"},
-        "400":{"player":0,"name":"4 Players Start"},
-        "800":{"player":0,"name":"Volume Down"},
-        "1000":{"player":0,"name":"Volume Up"},
-        "8000":{"player":0,"name":"Bill 1"}
+        "4":{"player":0,"name":"P1 Start"},
+        "20":{"player":0,"name":"P2 Start"},
+        "200":{"player":0,"name":"P3 Start"},
+        "400":{"player":0,"name":"P4 Start"}
       }
     }
   }

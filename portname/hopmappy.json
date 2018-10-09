@@ -1,42 +1,18 @@
 {
-  "romname":"hopmappy",
   "ports":{
-    ":DSWA":{
-      "labels":{
-        "3":{"player":0,"name":"Coin B"},
-        "4":{"player":0,"name":"Allow Continue"},
-        "18":{"player":0,"name":"Lives"},
-        "60":{"player":0,"name":"Coin A"},
-        "80":{"player":0,"name":"Service Mode"}
-      }
-    },
-    ":DSWB":{
-      "labels":{
-        "1":{"player":0,"name":"Cabinet"},
-        "8":{"player":0,"name":"Unknown"},
-        "10":{"player":0,"name":"Level Select (Cheat)"},
-        "20":{"player":0,"name":"Flip Screen"},
-        "40":{"player":0,"name":"Demo Sounds"},
-        "80":{"player":0,"name":"Difficulty"}
-      }
-    },
     ":IN0":{
       "labels":{
         "4":{"player":0,"name":"P1 Down"},
         "8":{"player":1,"name":"P2 Down"},
         "10":{"player":1,"name":"P2 Right"},
-        "20":{"player":0,"name":"Coin 1"},
-        "40":{"player":0,"name":"1 Player Start"},
-        "80":{"player":0,"name":"Service"}
+        "40":{"player":0,"name":"P1 Start"}
       }
     },
     ":IN1":{
       "labels":{
         "4":{"player":0,"name":"P1 Up"},
         "8":{"player":1,"name":"P2 Up"},
-        "10":{"player":0,"name":"Service 1"},
-        "20":{"player":0,"name":"Coin 2"},
-        "40":{"player":0,"name":"2 Players Start"}
+        "40":{"player":0,"name":"P2 Start"}
       }
     },
     ":IN2":{

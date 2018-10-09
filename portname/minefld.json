@@ -1,5 +1,4 @@
 {
-  "romname":"minefld",
   "ports":{
     ":IN0":{
       "labels":{

@@ -1,5 +1,4 @@
 {
-  "romname":"tetris",
   "ports":{
     ":P1":{
       "labels":{

@@ -1,12 +1,5 @@
 {
-  "romname":"spf2t",
   "ports":{
-    ":DIGITALVOL":{
-      "labels":{
-        "1":{"player":0,"name":"Volume Down"},
-        "2":{"player":0,"name":"Volume Up"}
-      }
-    },
     ":IN0":{
       "labels":{
         "1":{"player":0,"name":"P1 Right"},
@@ -25,12 +18,8 @@
     },
     ":IN2":{
       "labels":{
-        "2":{"player":0,"name":"Service Mode"},
-        "4":{"player":0,"name":"Service 1"},
         "100":{"player":0,"name":"1 Player Start"},
-        "200":{"player":0,"name":"2 Players Start"},
-        "1000":{"player":0,"name":"Coin 1"},
-        "2000":{"player":0,"name":"Coin 2"}
+        "200":{"player":0,"name":"2 Players Start"}
       }
     }
   }

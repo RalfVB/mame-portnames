@@ -4,12 +4,12 @@
       "labels":{
         "10":{"player":0,"name":"P1 Shot"},
         "20":{"player":0,"name":"P1 Bomb"},
-        "40":{"player":0,"name":"n/a"},
-        "80":{"player":0,"name":"n/a"},
+        "40":{"player":0,"name":"-"},
+        "80":{"player":0,"name":"-"},
         "4000":{"player":1,"name":"P2 Shot"},
         "8000":{"player":1,"name":"P2 Bomb"},
-        "10000":{"player":1,"name":"n/a"},
-        "20000":{"player":1,"name":"n/a"}
+        "10000":{"player":1,"name":"-"},
+        "20000":{"player":1,"name":"-"}
       }
     }
   }

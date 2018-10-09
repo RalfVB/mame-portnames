@@ -1,5 +1,4 @@
 {
-  "romname":"hyperath",
   "ports":{
     ":P1":{
       "labels":{
@@ -10,10 +9,7 @@
         "10":{"player":0,"name":"P1 Button 1"},
         "20":{"player":0,"name":"P1 Button 2"},
         "40":{"player":0,"name":"P1 Button 3"},
-        "200":{"player":0,"name":"1 Player Start"},
-        "400":{"player":0,"name":"Coin 1"},
-        "800":{"player":0,"name":"Service 1"},
-        "1000":{"player":0,"name":"Service Mode"}
+        "200":{"player":0,"name":"P1 Start"}
       }
     },
     ":P2":{
@@ -25,8 +21,7 @@
         "10":{"player":1,"name":"P2 Button 1"},
         "20":{"player":1,"name":"P2 Button 2"},
         "40":{"player":1,"name":"P2 Button 3"},
-        "200":{"player":0,"name":"2 Players Start"},
-        "400":{"player":0,"name":"Coin 2"}
+        "200":{"player":0,"name":"P2 Start"}
       }
     },
     ":P3_P4":{
@@ -38,7 +33,7 @@
         "10":{"player":2,"name":"P3 Button 1"},
         "20":{"player":2,"name":"P3 Button 2"},
         "40":{"player":2,"name":"P3 Button 3"},
-        "80":{"player":0,"name":"3 Players Start"},
+        "80":{"player":0,"name":"P3 Start"},
         "100":{"player":3,"name":"P4 Left"},
         "200":{"player":3,"name":"P4 Right"},
         "400":{"player":3,"name":"P4 Up"},
@@ -46,12 +41,7 @@
         "1000":{"player":3,"name":"P4 Button 1"},
         "2000":{"player":3,"name":"P4 Button 2"},
         "4000":{"player":3,"name":"P4 Button 3"},
-        "8000":{"player":0,"name":"4 Players Start"}
-      }
-    },
-    ":scsi:1:cdrom:SCSI_ID":{
-      "labels":{
-        "7":{"player":0,"name":"SCSI ID"}
+        "8000":{"player":0,"name":"P4 Start"}
       }
     }
   }

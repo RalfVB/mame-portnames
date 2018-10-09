@@ -1,12 +1,11 @@
 {
-  "romname":"lethalth",
   "ports":{
     ":P1_P2":{
       "labels":{
         "40":{"player":0,"name":"P1 Bomb"},
-        "80":{"player":0,"name":"P1 Fire"},
+        "80":{"player":0,"name":"P1 Shot"},
         "4000":{"player":1,"name":"P2 Bomb"},
-        "8000":{"player":1,"name":"P2 Fire"}
+        "8000":{"player":1,"name":"P2 Shot"}
       }
     }
   }

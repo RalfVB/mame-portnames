@@ -1,65 +1,19 @@
 {
-  "romname":"plumppop",
   "ports":{
-    ":AN1":{
-      "labels":{
-        "fff":{"player":0,"name":"Dial"}
-      }
-    },
-    ":AN2":{
-      "labels":{
-        "fff":{"player":1,"name":"Dial 2"}
-      }
-    },
-    ":COIN1":{
-      "labels":{
-        "1":{"player":0,"name":"Coin 1"}
-      }
-    },
-    ":COIN2":{
-      "labels":{
-        "1":{"player":0,"name":"Coin 2"}
-      }
-    },
-    ":DSWA":{
-      "labels":{
-        "1":{"player":0,"name":"Unknown"},
-        "2":{"player":0,"name":"Flip Screen"},
-        "4":{"player":0,"name":"Service Mode"},
-        "8":{"player":0,"name":"Demo Sounds"},
-        "30":{"player":0,"name":"Coin A"},
-        "c0":{"player":0,"name":"Coin B"}
-      }
-    },
-    ":DSWB":{
-      "labels":{
-        "3":{"player":0,"name":"Difficulty"},
-        "c":{"player":0,"name":"Bonus Life"},
-        "30":{"player":0,"name":"Lives"},
-        "40":{"player":0,"name":"P1 & P2 Children Collision"},
-        "80":{"player":0,"name":"Allow Continue"}
-      }
-    },
+    ":AN1":{"labels":{"fff":{"player":0,"name":"Dial"}}},
+    ":AN2":{"labels":{"fff":{"player":1,"name":"Dial 2"}}},
     ":IN0":{
       "labels":{
         "10":{"player":0,"name":"P1 Button 1"},
         "20":{"player":0,"name":"P1 Button 2 (Cheat)"},
-        "80":{"player":0,"name":"1 Player Start"}
+        "80":{"player":0,"name":"P1 Start"}
       }
     },
     ":IN1":{
       "labels":{
         "10":{"player":1,"name":"P2 Button 1"},
         "20":{"player":1,"name":"P2 Button 2 (Cheat)"},
-        "80":{"player":0,"name":"2 Players Start"}
-      }
-    },
-    ":IN2":{
-      "labels":{
-        "1":{"player":0,"name":"Service 1"},
-        "2":{"player":0,"name":"Tilt"},
-        "10":{"player":0,"name":"Coin 1"},
-        "20":{"player":0,"name":"Coin 2"}
+        "80":{"player":0,"name":"P2 Start"}
       }
     }
   }

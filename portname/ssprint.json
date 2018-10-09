@@ -1,34 +1,33 @@
 {
-  "romname":"ssprint",
   "ports":{
     ":ADC0":{
       "labels":{
-        "ff":{"player":0,"name":"P1 Gas"}
+        "ff":{"player":0,"name":"P1 Accelerate"}
       }
     },
     ":ADC1":{
       "labels":{
-        "ff":{"player":1,"name":"P2 Gas"}
+        "ff":{"player":1,"name":"P2 Accelerate"}
       }
     },
     ":ADC2":{
       "labels":{
-        "ff":{"player":2,"name":"P3 Gas"}
+        "ff":{"player":2,"name":"P3 Accelerate"}
       }
     },
     ":LETA0":{
       "labels":{
-        "ff":{"player":0,"name":"P1 Left /  Right"}
+        "ff":{"player":0,"name":"P1 Steering"}
       }
     },
     ":LETA1":{
       "labels":{
-        "ff":{"player":1,"name":"P2 Left /  Right"}
+        "ff":{"player":1,"name":"P2 Steering"}
       }
     },
     ":LETA2":{
       "labels":{
-        "ff":{"player":2,"name":"P3 Left /  Right"}
+        "ff":{"player":2,"name":"P3 Steering"}
       }
     }
   }

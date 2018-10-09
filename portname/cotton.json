@@ -2,14 +2,14 @@
   "ports":{
     ":P1":{
       "labels":{
-        "1":{"player":0,"name":"n/a"},
+        "1":{"player":0,"name":"-"},
         "2":{"player":0,"name":"P1 Shot"},
         "4":{"player":0,"name":"P1 Bomb"}
       }
     },
     ":P2":{
       "labels":{
-        "1":{"player":1,"name":"n/a"},
+        "1":{"player":1,"name":"-"},
         "2":{"player":1,"name":"P2 Shot"},
         "4":{"player":1,"name":"P2 Bomb"}
       }

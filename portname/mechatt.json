@@ -1,26 +1,9 @@
 {
-  "romname":"mechatt",
   "ports":{
-    ":GUNX1":{
-      "labels":{
-        "ff":{"player":0,"name":"P1 Left / Right"}
-      }
-    },
-    ":GUNX2":{
-      "labels":{
-        "ff":{"player":1,"name":"P2 Right /  Left"}
-      }
-    },
-    ":GUNY1":{
-      "labels":{
-        "ff":{"player":0,"name":"P1 Up / Down"}
-      }
-    },
-    ":GUNY2":{
-      "labels":{
-        "ff":{"player":1,"name":"P2 Down /  Up"}
-      }
-    },
+    ":GUNX1":{"labels":{"ff":{"player":0,"name":"P1 Aim Horizontal"}}},
+    ":GUNX2":{"labels":{"ff":{"player":1,"name":"P2 Aim Horizontal"}}},
+    ":GUNY1":{"labels":{"ff":{"player":0,"name":"P1 Aim Vertical"}}},
+    ":GUNY2":{"labels":{"ff":{"player":1,"name":"P2 Aim Vertical"}}},
     ":IN0":{
       "labels":{
         "200":{"player":0,"name":"P1 Fire"},

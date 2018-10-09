@@ -1,23 +1,5 @@
 {
-  "romname":"m660",
   "ports":{
-    ":DSW1":{
-      "labels":{
-        "7":{"player":0,"name":"Coin A"},
-        "38":{"player":0,"name":"Coin B"},
-        "40":{"player":0,"name":"Freeze"},
-        "80":{"player":0,"name":"Continues"}
-      }
-    },
-    ":DSW2":{
-      "labels":{
-        "3":{"player":0,"name":"Lives"},
-        "c":{"player":0,"name":"Bonus"},
-        "30":{"player":0,"name":"Difficulty"},
-        "40":{"player":0,"name":"Cabinet"},
-        "80":{"player":0,"name":"Unused"}
-      }
-    },
     ":P1":{
       "labels":{
         "1":{"player":0,"name":"P1 Right"},
@@ -40,11 +22,8 @@
     },
     ":SYSTEM":{
       "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "2":{"player":0,"name":"Coin 2"},
-        "4":{"player":0,"name":"Service 1"},
-        "10":{"player":0,"name":"1 Player Start"},
-        "20":{"player":0,"name":"2 Players Start"}
+        "10":{"player":0,"name":"P1 Start"},
+        "20":{"player":0,"name":"P2 Start"}
       }
     }
   }

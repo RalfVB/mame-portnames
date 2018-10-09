@@ -1,29 +1,5 @@
 {
-  "romname":"magdrop2",
   "ports":{
-    ":DSW":{
-      "labels":{
-        "1":{"player":0,"name":"Setting Mode"},
-        "2":{"player":0,"name":"Cabinet"},
-        "4":{"player":0,"name":"Controller"},
-        "18":{"player":0,"name":"COMM Setting (Cabinet No.)"},
-        "20":{"player":0,"name":"COMM Setting (Link Enable)"},
-        "40":{"player":0,"name":"Free Play"},
-        "80":{"player":0,"name":"Freeze"}
-      }
-    },
-    ":AUDIO/COIN":{
-      "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "2":{"player":0,"name":"Coin 2"},
-        "4":{"player":0,"name":"Service 1"}
-      }
-    },
-    ":TEST":{
-      "labels":{
-        "80":{"player":0,"name":"Service Mode"}
-      }
-    },
     ":edge:joy:JOY1":{
       "labels":{
         "1":{"player":0,"name":"P1 Up"},

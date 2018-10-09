@@ -1,5 +1,4 @@
 {
-  "romname":"valkyrie",
   "ports":{
     ":MCUB":{
       "labels":{

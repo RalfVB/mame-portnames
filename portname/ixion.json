@@ -1,51 +1,19 @@
 {
-  "romname":"ixion",
   "ports":{
-    ":COIN":{
-      "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "2":{"player":0,"name":"Coin 2"},
-        "4":{"player":0,"name":"Service 1"}
-      }
-    },
-    ":DIAL.0":{
-      "labels":{
-        "ff":{"player":0,"name":"Dial"}
-      }
-    },
-    ":DSW02":{
-      "labels":{
-        "3":{"player":0,"name":"Bonus Life"},
-        "c":{"player":0,"name":"Lives"},
-        "70":{"player":0,"name":"Difficulty"},
-        "80":{"player":0,"name":"Demo Sounds"}
-      }
-    },
-    ":DSW03":{
-      "labels":{
-        "7":{"player":0,"name":"Coin B"},
-        "38":{"player":0,"name":"Coin A"},
-        "80":{"player":0,"name":"Free Play"}
-      }
-    },
-    ":SERVICESW":{
-      "labels":{
-        "1":{"player":0,"name":"Service Mode"}
-      }
-    },
+    ":DIAL.0":{"labels":{"ff":{"player":0,"name":"Dial"}}},
     ":SW01":{
       "labels":{
-        "1":{"player":0,"name":"P1 Right"},
-        "2":{"player":0,"name":"P1 Left"},
-        "4":{"player":0,"name":"P1 Up"},
-        "8":{"player":0,"name":"P1 Down"},
-        "10":{"player":0,"name":"P1 Button 1"}
+        "1":{"player":0,"name":"Right"},
+        "2":{"player":0,"name":"Left"},
+        "4":{"player":0,"name":"Up"},
+        "8":{"player":0,"name":"Down"},
+        "10":{"player":0,"name":"Button"}
       }
     },
     ":SW100":{
       "labels":{
-        "4":{"player":0,"name":"1 Player Start"},
-        "8":{"player":0,"name":"2 Players Start"}
+        "4":{"player":0,"name":"P1 Start"},
+        "8":{"player":0,"name":"P2 Start"}
       }
     }
   }

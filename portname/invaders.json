@@ -1,18 +1,17 @@
 {
-  "romname":"invaders",
   "ports":{
     ":CONTP1":{
       "labels":{
         "1":{"player":0,"name":"P1 Fire"},
-        "2":{"player":0,"name":"P1 Control Left"},
-        "4":{"player":0,"name":"P1 Control Right"}
+        "2":{"player":0,"name":"P1 Move Left"},
+        "4":{"player":0,"name":"P1 Move Right"}
       }
     },
     ":CONTP2":{
       "labels":{
         "1":{"player":1,"name":"P2 Fire"},
-        "2":{"player":1,"name":"P2 Control Left"},
-        "4":{"player":1,"name":"P2 Control Right"}
+        "2":{"player":1,"name":"P2 Move Left"},
+        "4":{"player":1,"name":"P2 Move Right"}
       }
     }
   }

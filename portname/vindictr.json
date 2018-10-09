@@ -1,5 +1,4 @@
 {
-  "romname":"vindictr",
   "ports":{
     ":260000":{
       "labels":{

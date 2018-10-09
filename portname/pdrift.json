@@ -1,21 +1,8 @@
 {
-  "romname":"pdrift",
   "ports":{
-    ":ADC.3":{
-      "labels":{
-        "ff":{"player":0,"name":"Brake"}
-      }
-    },
-    ":ADC.4":{
-      "labels":{
-        "ff":{"player":0,"name":"Accelerate"}
-      }
-    },
-    ":ADC.5":{
-      "labels":{
-        "ff":{"player":0,"name":"Left / Right"}
-      }
-    },
+    ":ADC.3":{"labels":{"ff":{"player":0,"name":"Brake"}}},
+    ":ADC.4":{"labels":{"ff":{"player":0,"name":"Accelerate"}}},
+    ":ADC.5":{"labels":{"ff":{"player":0,"name":"Steering"}}},
     ":GENERAL":{
       "labels":{
         "20":{"player":0,"name":"High / Low"}

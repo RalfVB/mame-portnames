@@ -1,5 +1,4 @@
 {
-  "romname":"greatgun",
   "ports":{
     ":BUTTONS":{
       "labels":{
@@ -9,22 +8,22 @@
     },
     ":STICK0_X":{
       "labels":{
-        "ff":{"player":0,"name":"P1 Aim Left / Aim Right"}
+        "ff":{"player":0,"name":"P1 Aim Left/Aim Right"}
       }
     },
     ":STICK0_Y":{
       "labels":{
-        "ff":{"player":0,"name":"P1 Aim Up / Aim Down"}
+        "ff":{"player":0,"name":"P1 Aim Up/Aim Down"}
       }
     },
     ":STICK1_X":{
       "labels":{
-        "ff":{"player":1,"name":"P2 Aim Right /  Aim Left"}
+        "ff":{"player":1,"name":"P2 Aim Right/Aim Left"}
       }
     },
     ":STICK1_Y":{
       "labels":{
-        "ff":{"player":1,"name":"P2 Aim Down /  Aim Up"}
+        "ff":{"player":1,"name":"P2 Aim Down/Aim Up"}
       }
     }
   }

@@ -1,44 +1,27 @@
 {
-  "romname":"gaunt2",
   "ports":{
     ":803000":{
       "labels":{
-        "1":{"player":0,"name":"P1 Magic / Start"},
-        "2":{"player":0,"name":"P1 Fire"},
-        "10":{"player":0,"name":"P1 Right"},
-        "20":{"player":0,"name":"P1 Left"},
-        "40":{"player":0,"name":"P1 Down"},
-        "80":{"player":0,"name":"P1 Up"}
+        "1":{"player":0,"name":"P1 Start/Magic"},
+        "2":{"player":0,"name":"P1 Fire"}
       }
     },
     ":803002":{
       "labels":{
-        "1":{"player":1,"name":"P2 Magic / Start"},
-        "2":{"player":1,"name":"P2 Fire"},
-        "10":{"player":1,"name":"P2 Right"},
-        "20":{"player":1,"name":"P2 Left"},
-        "40":{"player":1,"name":"P2 Down"},
-        "80":{"player":1,"name":"P2 Up"}
+        "1":{"player":1,"name":"P2 Start/Magic"},
+        "2":{"player":1,"name":"P2 Fire"}
       }
     },
     ":803004":{
       "labels":{
-        "1":{"player":2,"name":"P3 Magic / Start"},
-        "2":{"player":2,"name":"P3 Fire"},
-        "10":{"player":2,"name":"P3 Right"},
-        "20":{"player":2,"name":"P3 Left"},
-        "40":{"player":2,"name":"P3 Down"},
-        "80":{"player":2,"name":"P3 Up"}
+        "1":{"player":2,"name":"P3 Start/Magic"},
+        "2":{"player":2,"name":"P3 Fire"}
       }
     },
     ":803006":{
       "labels":{
-        "1":{"player":3,"name":"P4 Magic / Start"},
-        "2":{"player":3,"name":"P4 Fire"},
-        "10":{"player":3,"name":"P4 Right"},
-        "20":{"player":3,"name":"P4 Left"},
-        "40":{"player":3,"name":"P4 Down"},
-        "80":{"player":3,"name":"P4 Up"}
+        "1":{"player":3,"name":"P4 Start/Magic"},
+        "2":{"player":3,"name":"P4 Fire"}
       }
     }
   }

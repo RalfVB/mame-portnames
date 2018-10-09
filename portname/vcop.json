@@ -1,5 +1,4 @@
 {
-  "romname":"vcop",
   "ports":{
     ":IN1":{
       "labels":{

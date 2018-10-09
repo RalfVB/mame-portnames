@@ -1,16 +1,15 @@
 {
-  "romname":"pbobble2",
   "ports":{
     ":IN.0":{
       "labels":{
-        "1":{"player":0,"name":"P1 Fire"},
-        "2":{"player":0,"name":"P1 NA"},
-        "4":{"player":0,"name":"P1 NA"},
-        "8":{"player":0,"name":"P1 NA"},
-        "10":{"player":1,"name":"P2 Fire"},
-        "20":{"player":1,"name":"P2 NA"},
-        "40":{"player":1,"name":"P2 NA"},
-        "80":{"player":1,"name":"P2 NA"}
+        "1":{"player":0,"name":"P1 Shoot"},
+        "2":{"player":0,"name":"-"},
+        "4":{"player":0,"name":"-"},
+        "8":{"player":0,"name":"-"},
+        "10":{"player":1,"name":"P2 Shoot"},
+        "20":{"player":1,"name":"-"},
+        "40":{"player":1,"name":"-"},
+        "80":{"player":1,"name":"-"}
       }
     },
     ":IN.1":{

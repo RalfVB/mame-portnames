@@ -1,16 +1,5 @@
 {
-  "romname":"hachoo",
   "ports":{
-    ":DSW":{
-      "labels":{
-        "30":{"player":0,"name":"Difficulty"},
-        "80":{"player":0,"name":"Flip Screen"},
-        "700":{"player":0,"name":"Coin A"},
-        "3800":{"player":0,"name":"Coin B"},
-        "4000":{"player":0,"name":"Demo Sounds"},
-        "8000":{"player":0,"name":"Unused"}
-      }
-    },
     ":P1":{
       "labels":{
         "1":{"player":0,"name":"P1 Right"},
@@ -33,11 +22,8 @@
     },
     ":SYSTEM":{
       "labels":{
-        "1":{"player":0,"name":"1 Player Start"},
-        "2":{"player":0,"name":"2 Players Start"},
-        "20":{"player":0,"name":"Service 1"},
-        "40":{"player":0,"name":"Coin 1"},
-        "80":{"player":0,"name":"Coin 2"}
+        "1":{"player":0,"name":"P1 Start"},
+        "2":{"player":0,"name":"P2 Start"}
       }
     }
   }

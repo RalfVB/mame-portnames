@@ -1,25 +1,8 @@
 {
-  "romname":"polepos",
   "ports":{
-    ":ACCEL":{
-      "labels":{
-        "ff":{"player":0,"name":"Accelerate"}
-      }
-    },
-    ":BRAKE":{
-      "labels":{
-        "ff":{"player":0,"name":"Brake"}
-      }
-    },
-    ":IN0":{
-      "labels":{
-        "2":{"player":0,"name":"High / Low"}
-      }
-    },
-    ":STEER":{
-      "labels":{
-        "ff":{"player":0,"name":"Left / Right"}
-      }
-    }
+    ":ACCEL":{"labels":{"ff":{"player":0,"name":"Accelerate"}}},
+    ":BRAKE":{"labels":{"ff":{"player":0,"name":"Brake"}}},
+    ":IN0":{"labels":{"2":{"player":0,"name":"High/Low"}}},
+    ":STEER":{"labels":{"ff":{"player":0,"name":"Steering"}}}
   }
 }

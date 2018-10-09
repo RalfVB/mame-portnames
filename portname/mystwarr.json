@@ -1,23 +1,5 @@
 {
-  "romname":"mystwarr",
   "ports":{
-    ":IN0":{
-      "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "2":{"player":0,"name":"Coin 2"},
-        "4":{"player":0,"name":"Coin 3"},
-        "8":{"player":0,"name":"Coin 4"}
-      }
-    },
-    ":IN1":{
-      "labels":{
-        "4":{"player":0,"name":"Service Mode"},
-        "10":{"player":0,"name":"Sound Output"},
-        "20":{"player":0,"name":"Coin Mechanism"},
-        "40":{"player":0,"name":"Number of Players"},
-        "80":{"player":0,"name":"Unused"}
-      }
-    },
     ":P1_P2":{
       "labels":{
         "1":{"player":0,"name":"P1 Left"},
@@ -27,7 +9,7 @@
         "10":{"player":0,"name":"P1 Button 1"},
         "20":{"player":0,"name":"P1 Button 2"},
         "40":{"player":0,"name":"P1 Button 3"},
-        "80":{"player":0,"name":"1 Player Start"},
+        "80":{"player":0,"name":"P1 Start"},
         "100":{"player":1,"name":"P2 Left"},
         "200":{"player":1,"name":"P2 Right"},
         "400":{"player":1,"name":"P2 Up"},
@@ -35,7 +17,7 @@
         "1000":{"player":1,"name":"P2 Button 1"},
         "2000":{"player":1,"name":"P2 Button 2"},
         "4000":{"player":1,"name":"P2 Button 3"},
-        "8000":{"player":0,"name":"2 Players Start"}
+        "8000":{"player":0,"name":"P2 Start"}
       }
     },
     ":P3_P4":{
@@ -47,7 +29,7 @@
         "10":{"player":2,"name":"P3 Button 1"},
         "20":{"player":2,"name":"P3 Button 2"},
         "40":{"player":2,"name":"P3 Button 3"},
-        "80":{"player":0,"name":"3 Players Start"},
+        "80":{"player":0,"name":"P3 Start"},
         "100":{"player":3,"name":"P4 Left"},
         "200":{"player":3,"name":"P4 Right"},
         "400":{"player":3,"name":"P4 Up"},
@@ -55,7 +37,7 @@
         "1000":{"player":3,"name":"P4 Button 1"},
         "2000":{"player":3,"name":"P4 Button 2"},
         "4000":{"player":3,"name":"P4 Button 3"},
-        "8000":{"player":0,"name":"4 Players Start"}
+        "8000":{"player":0,"name":"P4 Start"}
       }
     }
   }

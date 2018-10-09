@@ -1,5 +1,4 @@
 {
-  "romname":"lagunar",
   "ports":{
     ":IN0":{
       "labels":{

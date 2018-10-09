@@ -1,5 +1,4 @@
 {
-  "romname":"lrescue",
   "ports":{
     ":CONTP1":{
       "labels":{

@@ -1,14 +1,13 @@
 {
-  "romname":"twotiger",
   "ports":{
     ":ssio:IP1":{
       "labels":{
-        "ff":{"player":1,"name":"P2 Left /  Right"}
+        "ff":{"player":1,"name":"P2 Left/Right"}
       }
     },
     ":ssio:IP2":{
       "labels":{
-        "ff":{"player":0,"name":"P1 Left /  Right"}
+        "ff":{"player":0,"name":"P1 Left/Right"}
       }
     },
     ":ssio:IP4":{

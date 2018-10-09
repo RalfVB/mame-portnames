@@ -1,26 +1,5 @@
 {
-  "romname":"kamenrid",
   "ports":{
-    ":COINS":{
-      "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "2":{"player":0,"name":"Coin 2"},
-        "4":{"player":0,"name":"Service 1"},
-        "8":{"player":0,"name":"Tilt"},
-        "40":{"player":0,"name":"Unused"},
-        "80":{"player":0,"name":"Country"}
-      }
-    },
-    ":DSW":{
-      "labels":{
-        "1":{"player":0,"name":"Service Mode"},
-        "40":{"player":0,"name":"Intro Music"},
-        "80":{"player":0,"name":"Flip Screen"},
-        "f00":{"player":0,"name":"Coinage"},
-        "3000":{"player":0,"name":"Difficulty"},
-        "8000":{"player":0,"name":"Unused"}
-      }
-    },
     ":P1":{
       "labels":{
         "1":{"player":0,"name":"P1 Left"},

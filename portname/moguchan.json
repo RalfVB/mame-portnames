@@ -1,5 +1,4 @@
 {
-  "romname":"moguchan",
   "ports":{
     ":IN0":{
       "labels":{

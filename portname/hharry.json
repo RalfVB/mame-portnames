@@ -1,55 +1,29 @@
 {
-  "romname":"hharry",
   "ports":{
-    ":DSW":{
-      "labels":{
-        "3":{"player":0,"name":"Lives"},
-        "c":{"player":0,"name":"Difficulty"},
-        "10":{"player":0,"name":"Continue Limit"},
-        "20":{"player":0,"name":"Allow Continue"},
-        "40":{"player":0,"name":"Demo Sounds"},
-        "80":{"player":0,"name":"Service Mode"},
-        "100":{"player":0,"name":"Flip Screen"},
-        "600":{"player":0,"name":"Cabinet"},
-        "800":{"player":0,"name":"Coin Mode"},
-        "3000":{"player":0,"name":"Coin A"},
-        "c000":{"player":0,"name":"Coin B"},
-        "f000":{"player":0,"name":"Coinage"}
-      }
-    },
     ":IN0":{
       "labels":{
         "1":{"player":0,"name":"P1 Right"},
         "2":{"player":0,"name":"P1 Left"},
         "4":{"player":0,"name":"P1 Down"},
         "8":{"player":0,"name":"P1 Up"},
-        "10":{"player":0,"name":"P1 Button 4"},
-        "20":{"player":0,"name":"P1 Button 3"},
-        "40":{"player":0,"name":"P1 Button 2"},
-        "80":{"player":0,"name":"P1 Button 1"},
+        "10":{"player":0,"name":"n/a"},
+        "20":{"player":0,"name":"n/a"},
+        "40":{"player":0,"name":"P1 Jump"},
+        "80":{"player":0,"name":"P1 Attack"},
         "100":{"player":1,"name":"P2 Right"},
         "200":{"player":1,"name":"P2 Left"},
         "400":{"player":1,"name":"P2 Down"},
         "800":{"player":1,"name":"P2 Up"},
-        "1000":{"player":1,"name":"P2 Button 4"},
-        "2000":{"player":1,"name":"P2 Button 3"},
-        "4000":{"player":1,"name":"P2 Button 2"},
-        "8000":{"player":1,"name":"P2 Button 1"}
+        "1000":{"player":1,"name":"n/a"},
+        "2000":{"player":1,"name":"n/a"},
+        "4000":{"player":1,"name":"P2 Jump"},
+        "8000":{"player":1,"name":"P2 Attack"}
       }
     },
     ":IN1":{
       "labels":{
-        "1":{"player":0,"name":"1 Player Start"},
-        "2":{"player":0,"name":"2 Players Start"},
-        "4":{"player":0,"name":"Coin 1"},
-        "8":{"player":0,"name":"Coin 2"},
-        "10":{"player":0,"name":"Service 1"},
-        "20":{"player":0,"name":"Service"}
-      }
-    },
-    ":JumperJ3":{
-      "labels":{
-        "1":{"player":0,"name":"M81-B-B Jumper J3"}
+        "1":{"player":0,"name":"P1 Start"},
+        "2":{"player":0,"name":"P2 Start"}
       }
     }
   }

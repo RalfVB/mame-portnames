@@ -1,37 +1,9 @@
 {
-  "romname":"nam1975",
   "ports":{
-    ":AUDIO/COIN":{
-      "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "2":{"player":0,"name":"Coin 2"},
-        "4":{"player":0,"name":"Service 1"},
-        "8":{"player":0,"name":"Coin 3"},
-        "10":{"player":0,"name":"Coin 4"}
-      }
-    },
-    ":DSW":{
-      "labels":{
-        "1":{"player":0,"name":"Setting Mode"},
-        "2":{"player":0,"name":"Cabinet"},
-        "4":{"player":0,"name":"Controller"},
-        "18":{"player":0,"name":"COMM Setting (Cabinet No.)"},
-        "20":{"player":0,"name":"COMM Setting (Link Enable)"},
-        "40":{"player":0,"name":"Free Play"},
-        "80":{"player":0,"name":"Freeze"}
-      }
-    },
     ":SYSTEM":{
       "labels":{
-        "100":{"player":0,"name":"1 Player Start"},
-        "200":{"player":0,"name":"Next Game"},
-        "400":{"player":0,"name":"2 Players Start"},
-        "800":{"player":0,"name":"Previous Game"}
-      }
-    },
-    ":TEST":{
-      "labels":{
-        "80":{"player":0,"name":"Service Mode"}
+        "100":{"player":0,"name":"P1 Start"},
+        "400":{"player":0,"name":"P2 Start"}
       }
     },
     ":edge:joy:JOY1":{
@@ -40,8 +12,8 @@
         "2":{"player":0,"name":"P1 Down"},
         "4":{"player":0,"name":"P1 Left"},
         "8":{"player":0,"name":"P1 Right"},
-        "10":{"player":0,"name":"P1 Button 1"},
-        "20":{"player":0,"name":"P1 Button 2"},
+        "10":{"player":0,"name":"P1 A"},
+        "20":{"player":0,"name":"P1 B"},
         "40":{"player":0,"name":"P1 C"},
         "80":{"player":0,"name":"P1 D"}
       }
@@ -52,10 +24,10 @@
         "2":{"player":1,"name":"P2 Down"},
         "4":{"player":1,"name":"P2 Left"},
         "8":{"player":1,"name":"P2 Right"},
-        "10":{"player":1,"name":"P2 Button 1"},
+        "10":{"player":1,"name":"P2 A"},
         "20":{"player":1,"name":"P2 B"},
         "40":{"player":1,"name":"P2 C"},
-        "80":{"player":1,"name":"P2 Button 4"}
+        "80":{"player":1,"name":"P2 D"}
       }
     }
   }

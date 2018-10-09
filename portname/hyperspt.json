@@ -1,5 +1,4 @@
 {
-  "romname":"hyperspt",
   "ports":{
     ":P1_P2":{
       "labels":{

@@ -1,24 +1,5 @@
 {
-  "romname":"pacland",
   "ports":{
-    ":DSWA":{
-      "labels":{
-        "3":{"player":0,"name":"Coin B"},
-        "4":{"player":0,"name":"Demo Sounds"},
-        "18":{"player":0,"name":"Coin A"},
-        "60":{"player":0,"name":"Lives"},
-        "80":{"player":0,"name":"Service Mode"}
-      }
-    },
-    ":DSWB":{
-      "labels":{
-        "1":{"player":0,"name":"Trip Select"},
-        "2":{"player":0,"name":"Freeze"},
-        "4":{"player":0,"name":"Round Select"},
-        "18":{"player":0,"name":"Difficulty"},
-        "e0":{"player":0,"name":"Bonus Life"}
-      }
-    },
     ":IN0":{
       "labels":{
         "1":{"player":1,"name":"P2 Right"},

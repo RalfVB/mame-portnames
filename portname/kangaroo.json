@@ -1,5 +1,4 @@
 {
-  "romname":"kangaroo",
   "ports":{
     ":IN1":{
       "labels":{

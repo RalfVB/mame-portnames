@@ -1,17 +1,16 @@
 {
-  "romname":"gradius4",
   "ports":{
     ":IN0":{
       "labels":{
         "1":{"player":0,"name":"P1 Missile"},
-        "2":{"player":0,"name":"P1 Fire"},
+        "2":{"player":0,"name":"P1 Shot"},
         "4":{"player":0,"name":"P1 Power Up"}
       }
     },
     ":IN1":{
       "labels":{
         "1":{"player":1,"name":"P2 Missile"},
-        "2":{"player":1,"name":"P2 Fire"},
+        "2":{"player":1,"name":"P2 Shot"},
         "4":{"player":1,"name":"P2 Power Up"}
       }
     }

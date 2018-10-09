@@ -1,5 +1,4 @@
 {
-  "romname":"phozon",
   "ports":{
     ":BUTTONS":{
       "labels":{
@@ -7,35 +6,6 @@
         "2":{"player":1,"name":"P2 Button 1"},
         "4":{"player":0,"name":"1 Player Start"},
         "8":{"player":0,"name":"2 Players Start"}
-      }
-    },
-    ":COINS":{
-      "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "2":{"player":0,"name":"Coin 2"},
-        "8":{"player":0,"name":"Service 1"}
-      }
-    },
-    ":DSW0":{
-      "labels":{
-        "4":{"player":0,"name":"Cabinet"},
-        "8":{"player":0,"name":"Service Mode"}
-      }
-    },
-    ":DSW1":{
-      "labels":{
-        "1":{"player":0,"name":"Unknown"},
-        "e":{"player":0,"name":"Difficulty"},
-        "10":{"player":0,"name":"Level Select (Cheat)"},
-        "20":{"player":0,"name":"Stop Mode (Cheat)"},
-        "c0":{"player":0,"name":"Coin B"}
-      }
-    },
-    ":DSW2":{
-      "labels":{
-        "11":{"player":0,"name":"Lives"},
-        "62":{"player":0,"name":"Bonus Life"},
-        "8c":{"player":0,"name":"Coin A"}
       }
     },
     ":P1":{

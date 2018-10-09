@@ -1,19 +1,18 @@
 {
-  "romname":"hotrod",
   "ports":{
     ":DIAL1":{
       "labels":{
-        "fff":{"player":0,"name":"P1 Left / Right"}
+        "fff":{"player":0,"name":"P1 Left/Right"}
       }
     },
     ":DIAL2":{
       "labels":{
-        "fff":{"player":1,"name":"P2 Right /  Left"}
+        "fff":{"player":1,"name":"P2 Right/Left"}
       }
     },
     ":DIAL3":{
       "labels":{
-        "fff":{"player":2,"name":"P3 Right /  Left"}
+        "fff":{"player":2,"name":"P3 Right/Left"}
       }
     },
     ":PEDAL1":{

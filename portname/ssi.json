@@ -1,5 +1,4 @@
 {
-  "romname":"ssi",
   "ports":{
     ":IN0":{
       "labels":{

@@ -1,5 +1,4 @@
 {
-  "romname":"panic",
   "ports":{
     ":P1":{
       "labels":{

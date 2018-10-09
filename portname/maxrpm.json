@@ -1,5 +1,4 @@
 {
-  "romname":"maxrpm",
   "ports":{
     ":MONO.IP1":{
       "labels":{

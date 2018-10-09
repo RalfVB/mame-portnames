@@ -1,36 +1,35 @@
 {
-  "romname":"karatblz",
   "ports":{
     ":IN0":{
       "labels":{
         "10":{"player":0,"name":"P1 Attack"},
         "20":{"player":0,"name":"P1 Jump Kick"},
-        "40":{"player":0,"name":"P1 Button 3"},
-        "80":{"player":0,"name":"P1 Button 4"}
+        "40":{"player":0,"name":"-"},
+        "80":{"player":0,"name":"-"}
       }
     },
     ":IN1":{
       "labels":{
         "10":{"player":1,"name":"P2 Attack"},
         "20":{"player":1,"name":"P2 Jump Kick"},
-        "40":{"player":1,"name":"P2 Button 3"},
-        "80":{"player":1,"name":"P2 Button 4"}
+        "40":{"player":1,"name":"-"},
+        "80":{"player":1,"name":"-"}
       }
     },
     ":IN2":{
       "labels":{
         "10":{"player":2,"name":"P3 Attack"},
         "20":{"player":2,"name":"P3 Jump Kick"},
-        "40":{"player":2,"name":"P3 Button 3"},
-        "80":{"player":2,"name":"P3 Button 4"}
+        "40":{"player":2,"name":"-"},
+        "80":{"player":2,"name":"-"}
       }
     },
     ":IN3":{
       "labels":{
         "10":{"player":3,"name":"P4 Attack"},
         "20":{"player":3,"name":"P4 Jump Kick"},
-        "40":{"player":3,"name":"P4 Button 3"},
-        "80":{"player":3,"name":"P4 Button 4"}
+        "40":{"player":3,"name":"-"},
+        "80":{"player":3,"name":"-"}
       }
     }
   }

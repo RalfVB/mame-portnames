@@ -1,5 +1,4 @@
 {
-  "romname":"gemini",
   "ports":{
     ":BUTTONS1":{
       "labels":{
@@ -13,44 +12,10 @@
         "2":{"player":1,"name":"P2 Button 1"}
       }
     },
-    ":DSWA":{
-      "labels":{
-        "7":{"player":0,"name":"Coin A"},
-        "8":{"player":0,"name":"Final Round Continuation"},
-        "70":{"player":0,"name":"Coin B"},
-        "80":{"player":0,"name":"Buy in During Final Round"}
-      }
-    },
-    ":DSWB":{
-      "labels":{
-        "3":{"player":0,"name":"Lives"},
-        "c":{"player":0,"name":"Difficulty"},
-        "70":{"player":0,"name":"Bonus Life"},
-        "80":{"player":0,"name":"Demo Sounds"}
-      }
-    },
-    ":JOY1":{
-      "labels":{
-        "1":{"player":0,"name":"P1 Left"},
-        "2":{"player":0,"name":"P1 Right"},
-        "4":{"player":0,"name":"P1 Down"},
-        "8":{"player":0,"name":"P1 Up"}
-      }
-    },
-    ":JOY2":{
-      "labels":{
-        "1":{"player":1,"name":"P2 Left"},
-        "2":{"player":1,"name":"P2 Right"},
-        "4":{"player":1,"name":"P2 Down"},
-        "8":{"player":1,"name":"P2 Up"}
-      }
-    },
     ":SYS_1":{
       "labels":{
-        "1":{"player":0,"name":"1 Player Start"},
-        "2":{"player":0,"name":"2 Players Start"},
-        "4":{"player":0,"name":"Coin 1"},
-        "8":{"player":0,"name":"Coin 2"}
+        "1":{"player":0,"name":"P1 Start"},
+        "2":{"player":0,"name":"P2 Start"}
       }
     }
   }

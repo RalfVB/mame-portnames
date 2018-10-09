@@ -1,5 +1,4 @@
 {
-  "romname":"paddlema",
   "ports":{
     ":IN0":{
       "labels":{

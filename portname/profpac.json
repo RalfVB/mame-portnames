@@ -1,5 +1,4 @@
 {
-  "romname":"profpac",
   "ports":{
     ":P2HANDLE":{
       "labels":{

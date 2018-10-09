@@ -1,11 +1,10 @@
 {
-  "romname":"hbarrel",
   "ports":{
     ":INPUTS":{
       "labels":{
-        "10":{"player":0,"name":"P1 Shoot"},
+        "10":{"player":0,"name":"P1 Shot"},
         "20":{"player":0,"name":"P1 Grenade"},
-        "1000":{"player":1,"name":"P2 Shoot"},
+        "1000":{"player":1,"name":"P2 Shot"},
         "2000":{"player":1,"name":"P2 Grenade"}
       }
     }

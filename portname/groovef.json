@@ -1,5 +1,4 @@
 {
-  "romname":"groovef",
   "ports":{
     ":PORTA":{
       "labels":{

@@ -1,5 +1,4 @@
 {
-  "romname":"oneshot",
   "ports":{
     ":LIGHT0_X":{
       "labels":{

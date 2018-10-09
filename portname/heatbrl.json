@@ -1,25 +1,5 @@
 {
-  "romname":"heatbrl",
   "ports":{
-    ":COIN":{
-      "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "2":{"player":0,"name":"Coin 2"}
-      }
-    },
-    ":DSW1":{
-      "labels":{
-        "1f":{"player":0,"name":"Coinage"},
-        "20":{"player":0,"name":"Players"},
-        "40":{"player":0,"name":"Freeze"},
-        "80":{"player":0,"name":"Flip Screen"},
-        "300":{"player":0,"name":"Lives"},
-        "400":{"player":0,"name":"Extend"},
-        "3000":{"player":0,"name":"Difficulty"},
-        "4000":{"player":0,"name":"Allow Continue"},
-        "8000":{"player":0,"name":"Demo Sounds"}
-      }
-    },
     ":PLAYERS12":{
       "labels":{
         "1":{"player":0,"name":"P1 Up"},
@@ -54,12 +34,10 @@
     },
     ":SYSTEM":{
       "labels":{
-        "1":{"player":0,"name":"1 Player Start"},
-        "2":{"player":0,"name":"2 Players Start"},
-        "8":{"player":0,"name":"Coin 3"},
-        "10":{"player":0,"name":"3 Players Start"},
-        "20":{"player":0,"name":"4 Players Start"},
-        "80":{"player":0,"name":"Coin 4"}
+        "1":{"player":0,"name":"P1 Start"},
+        "2":{"player":0,"name":"P2 Start"},
+        "10":{"player":0,"name":"P3 Start"},
+        "20":{"player":0,"name":"P4 Start"}
       }
     }
   }

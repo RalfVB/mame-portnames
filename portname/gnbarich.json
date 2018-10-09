@@ -1,14 +1,8 @@
 {
-  "romname":"gnbarich",
   "ports":{
     ":INPUTS":{
       "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "2":{"player":0,"name":"Coin 2"},
-        "10":{"player":0,"name":"Service 1"},
-        "20":{"player":0,"name":"Service Mode"},
-        "40":{"player":0,"name":"Tilt (Enables Debug Mode)"},
-        "10000":{"player":0,"name":"2 Players Start"},
+        "10000":{"player":0,"name":"P2 Start"},
         "20000":{"player":1,"name":"P2 Button 3"},
         "40000":{"player":1,"name":"P2 Button 2"},
         "80000":{"player":1,"name":"P2 Button 1"},
@@ -16,7 +10,7 @@
         "200000":{"player":1,"name":"P2 Right"},
         "400000":{"player":1,"name":"P2 Down"},
         "800000":{"player":1,"name":"P2 Up"},
-        "1000000":{"player":0,"name":"1 Player Start"},
+        "1000000":{"player":0,"name":"P1 Start"},
         "2000000":{"player":0,"name":"P1 Button 3"},
         "4000000":{"player":0,"name":"P1 Button 2"},
         "8000000":{"player":0,"name":"P1 Button 1"},
@@ -24,11 +18,6 @@
         "20000000":{"player":0,"name":"P1 Right"},
         "40000000":{"player":0,"name":"P1 Down"},
         "80000000":{"player":0,"name":"P1 Up"}
-      }
-    },
-    ":JP4":{
-      "labels":{
-        "3000000":{"player":0,"name":"Region"}
       }
     }
   }

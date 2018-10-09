@@ -1,28 +1,11 @@
 {
-  "romname":"vr",
   "ports":{
-    ":AN.0":{
-      "labels":{
-        "ff":{"player":0,"name":"Paddle"}
-      }
-    },
-    ":AN.1":{
-      "labels":{
-        "ff":{"player":0,"name":"P1 Pedal 1"}
-      }
-    },
-    ":AN.2":{
-      "labels":{
-        "ff":{"player":0,"name":"P1 Pedal 2"}
-      }
-    },
+    ":AN.0":{"labels":{"ff":{"player":0,"name":"Steering"}}},
+    ":AN.1":{"labels":{"ff":{"player":0,"name":"Accelerate"}}},
+    ":AN.2":{"labels":{"ff":{"player":0,"name":"Brake"}}},
     ":IN.0":{
       "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "2":{"player":0,"name":"Coin 2"},
-        "4":{"player":0,"name":"Service Mode"},
-        "8":{"player":0,"name":"Service 1"},
-        "10":{"player":0,"name":"1 Player Start"},
+        "10":{"player":0,"name":"Start"},
         "20":{"player":0,"name":"VR1 (Red)"},
         "40":{"player":0,"name":"VR2 (Blue)"},
         "80":{"player":0,"name":"VR3 (Yellow)"}

@@ -1,31 +1,18 @@
 {
-  "romname":"srally2",
   "ports":{
-    ":AN0":{
-      "labels":{
-        "ff":{"player":0,"name":"Steering Wheel"}
-      }
-    },
-    ":AN1":{
-      "labels":{
-        "ff":{"player":0,"name":"Gas Pedal"}
-      }
-    },
-    ":AN2":{
-      "labels":{
-        "ff":{"player":0,"name":"Brake Pedal"}
-      }
-    },
+    ":AN0":{"labels":{"ff":{"player":0,"name":"Steering"}}},
+    ":AN1":{"labels":{"ff":{"player":0,"name":"Accelerate"}}},
+    ":AN2":{"labels":{"ff":{"player":0,"name":"Brake"}}},
     ":IN2":{
       "labels":{
-        "1":{"player":0,"name":"P1 Button 1"},
-        "2":{"player":0,"name":"P1 Button 2"},
-        "4":{"player":0,"name":"P1 Button 3"},
-        "8":{"player":0,"name":"P1 Button 4"},
-        "10":{"player":0,"name":"P1 Button 7"},
-        "20":{"player":0,"name":"P1 Button 8"},
-        "40":{"player":0,"name":"P1 Button 5"},
-        "80":{"player":0,"name":"P1 Button 6"}
+        "1":{"player":0,"name":"Button 1"},
+        "2":{"player":0,"name":"Button 2"},
+        "4":{"player":0,"name":"Button 3"},
+        "8":{"player":0,"name":"Button 4"},
+        "10":{"player":0,"name":"Button 7"},
+        "20":{"player":0,"name":"Button 8"},
+        "40":{"player":0,"name":"Button 5"},
+        "80":{"player":0,"name":"Button 6"}
       }
     }
   }

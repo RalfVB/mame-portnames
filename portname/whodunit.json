@@ -1,5 +1,4 @@
 {
-  "romname":"whodunit",
   "ports":{
     ":AN0":{
       "labels":{

@@ -1,5 +1,4 @@
 {
-  "romname":"maglord",
   "ports":{
     ":edge:joy:JOY1":{
       "labels":{

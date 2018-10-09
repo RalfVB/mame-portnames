@@ -1,5 +1,4 @@
 {
-  "romname":"vindctr2",
   "ports":{
     ":803000":{
       "labels":{

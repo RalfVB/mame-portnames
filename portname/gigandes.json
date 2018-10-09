@@ -1,26 +1,5 @@
 {
-  "romname":"gigandes",
   "ports":{
-    ":DSWA":{
-      "labels":{
-        "3":{"player":0,"name":"Coin A"},
-        "c":{"player":0,"name":"Coin B"},
-        "10":{"player":0,"name":"Unused"},
-        "60":{"player":0,"name":"Difficulty"},
-        "80":{"player":0,"name":"Debug Mode"}
-      }
-    },
-    ":DSWB":{
-      "labels":{
-        "1":{"player":0,"name":"Demo Sounds"},
-        "2":{"player":0,"name":"Flip Screen"},
-        "4":{"player":0,"name":"Allow Continue"},
-        "18":{"player":0,"name":"Lives"},
-        "20":{"player":0,"name":"Controls"},
-        "40":{"player":0,"name":"Language"},
-        "80":{"player":0,"name":"Service Mode"}
-      }
-    },
     ":IN0":{
       "labels":{
         "1":{"player":0,"name":"P1 Up"},
@@ -29,7 +8,7 @@
         "8":{"player":0,"name":"P1 Right"},
         "10":{"player":0,"name":"P1 Button 1"},
         "20":{"player":0,"name":"P1 Button 2"},
-        "80":{"player":0,"name":"1 Player Start"}
+        "80":{"player":0,"name":"P1 Start"}
       }
     },
     ":IN1":{
@@ -40,15 +19,7 @@
         "8":{"player":1,"name":"P2 Right"},
         "10":{"player":1,"name":"P2 Button 1"},
         "20":{"player":1,"name":"P2 Button 2"},
-        "80":{"player":0,"name":"2 Players Start"}
-      }
-    },
-    ":IN2":{
-      "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "2":{"player":0,"name":"Coin 2"},
-        "4":{"player":0,"name":"Service 1"},
-        "8":{"player":0,"name":"Tilt"}
+        "80":{"player":0,"name":"P2 Start"}
       }
     }
   }

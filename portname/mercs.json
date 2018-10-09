@@ -1,17 +1,16 @@
 {
-  "romname":"mercs",
   "ports":{
     ":IN1":{
       "labels":{
-        "10":{"player":0,"name":"P1 Fire"},
+        "10":{"player":0,"name":"P1 Shot"},
         "20":{"player":0,"name":"P1 Bomb"},
-        "1000":{"player":1,"name":"P2 Fire"},
+        "1000":{"player":1,"name":"P2 Shot"},
         "2000":{"player":1,"name":"P2 Bomb"}
       }
     },
     ":IN2":{
       "labels":{
-        "10":{"player":2,"name":"P3 Fire"},
+        "10":{"player":2,"name":"P3 Shot"},
         "20":{"player":2,"name":"P3 Bomb"}
       }
     }

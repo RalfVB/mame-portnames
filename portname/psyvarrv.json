@@ -1,18 +1,5 @@
 {
-  "romname":"psyvarrv",
   "ports":{
-    ":DSW":{
-      "labels":{
-        "2":{"player":0,"name":"Service Mode"},
-        "4":{"player":0,"name":"Unknown"},
-        "8":{"player":0,"name":"Test Mode"}
-      }
-    },
-    ":JP1":{
-      "labels":{
-        "1":{"player":0,"name":"Bios Flash"}
-      }
-    },
     ":P1":{
       "labels":{
         "1":{"player":0,"name":"P1 Up"},
@@ -55,13 +42,6 @@
         "10":{"player":3,"name":"P4 Button 1"},
         "20":{"player":3,"name":"P4 Button 2"},
         "40":{"player":3,"name":"P4 Button 3"}
-      }
-    },
-    ":SERVICE":{
-      "labels":{
-        "1":{"player":0,"name":"Service Mode"},
-        "2":{"player":0,"name":"Service 1"},
-        "4":{"player":0,"name":"Tilt"}
       }
     },
     ":SYSTEM":{

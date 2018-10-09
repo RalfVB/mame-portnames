@@ -1,5 +1,4 @@
 {
-  "romname":"pitfight",
   "ports":{
     ":ADC0":{
       "labels":{

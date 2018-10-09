@@ -1,15 +1,5 @@
 {
-  "romname":"karianx",
   "ports":{
-    ":DSW":{
-      "labels":{
-        "7":{"player":0,"name":"Coinage"},
-        "18":{"player":0,"name":"Difficulty"},
-        "20":{"player":0,"name":"Demo Music"},
-        "40":{"player":0,"name":"Unused"},
-        "80":{"player":0,"name":"Service Mode"}
-      }
-    },
     ":P1":{
       "labels":{
         "1":{"player":0,"name":"P1 Button 1"},
@@ -34,12 +24,8 @@
     },
     ":SYSTEM":{
       "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "2":{"player":0,"name":"Coin 2"},
-        "4":{"player":0,"name":"Service Mode"},
-        "8":{"player":0,"name":"Service 1"},
-        "10":{"player":0,"name":"1 Player Start"},
-        "20":{"player":0,"name":"2 Players Start"}
+        "10":{"player":0,"name":"P1 Start"},
+        "20":{"player":0,"name":"P2 Start"}
       }
     }
   }

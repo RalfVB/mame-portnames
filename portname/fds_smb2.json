@@ -4,7 +4,7 @@
       "labels":{
         "1":{"player":0,"name":"A (Jump)"},
         "2":{"player":0,"name":"B (Run/Attack)"},
-        "4":{"player":0,"name":"Select (n/a)"},
+        "4":{"player":0,"name":"Select (-)"},
         "8":{"player":0,"name":"Start (Pause)"},
         "10":{"player":0,"name":"Up"},
         "20":{"player":0,"name":"Down"},

@@ -1,18 +1,17 @@
 {
-  "romname":"peterpak",
   "ports":{
     ":F60000":{
       "labels":{
-        "1":{"player":0,"name":"P1 Throw"},
-        "4":{"player":0,"name":"P1 Jump"}
+        "1":{"player":0,"name":"Throw"},
+        "4":{"player":0,"name":"Jump"}
       }
     },
     ":IN0":{
       "labels":{
-        "10":{"player":0,"name":"P1 Up"},
-        "20":{"player":0,"name":"P1 Down"},
-        "40":{"player":0,"name":"P1 Left"},
-        "80":{"player":0,"name":"P1 Right"}
+        "10":{"player":0,"name":"Up"},
+        "20":{"player":0,"name":"Down"},
+        "40":{"player":0,"name":"Left"},
+        "80":{"player":0,"name":"Right"}
       }
     }
   }

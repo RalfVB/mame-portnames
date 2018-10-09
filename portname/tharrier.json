@@ -1,12 +1,11 @@
 {
-  "romname":"tharrier",
   "ports":{
     ":IN2":{
       "labels":{
-        "2":{"player":0,"name":"P1 Fire"},
+        "2":{"player":0,"name":"P1 Shot"},
         "4":{"player":0,"name":"P1 Button 2"},
         "80":{"player":0,"name":"P1 Button 3"},
-        "200":{"player":1,"name":"P2 Fire"},
+        "200":{"player":1,"name":"P2 Shot"},
         "400":{"player":1,"name":"P2 Button 2"}
       }
     }

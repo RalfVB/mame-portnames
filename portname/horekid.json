@@ -1,28 +1,9 @@
 {
-  "romname":"horekid",
   "ports":{
-    ":IN0":{
-      "labels":{
-        "3":{"player":0,"name":"Lives"},
-        "c":{"player":0,"name":"Bonus Life"},
-        "10":{"player":0,"name":"Demo Sounds"},
-        "20":{"player":0,"name":"Cabinet"},
-        "c0":{"player":0,"name":"Difficulty"},
-        "300":{"player":0,"name":"Coin A"},
-        "c00":{"player":0,"name":"Coin B"},
-        "1000":{"player":0,"name":"Unused"},
-        "2000":{"player":0,"name":"Flip Screen"},
-        "c000":{"player":0,"name":"Debug Mode"}
-      }
-    },
     ":IN1":{
       "labels":{
-        "100":{"player":0,"name":"1 Player Start"},
-        "200":{"player":0,"name":"2 Players Start"},
-        "400":{"player":0,"name":"Coin 1"},
-        "800":{"player":0,"name":"Coin 2"},
-        "1000":{"player":0,"name":"Service 1"},
-        "2000":{"player":0,"name":"Service Mode"}
+        "100":{"player":0,"name":"P1 Start"},
+        "200":{"player":0,"name":"P2 Start"}
       }
     },
     ":IN2":{

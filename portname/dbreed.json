@@ -8,12 +8,12 @@
     },
     ":IN0":{
       "labels":{
-        "10":{"player":0,"name":"n/a"},
-        "20":{"player":0,"name":"n/a"},
+        "10":{"player":0,"name":"-"},
+        "20":{"player":0,"name":"-"},
         "40":{"player":0,"name":"P1 Jump"},
         "80":{"player":0,"name":"P1 Shot"},
-        "1000":{"player":1,"name":"n/a"},
-        "2000":{"player":1,"name":"n/a"},
+        "1000":{"player":1,"name":"-"},
+        "2000":{"player":1,"name":"-"},
         "4000":{"player":1,"name":"P2 Jump"},
         "8000":{"player":1,"name":"P2 Shot"}
       }

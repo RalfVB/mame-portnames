@@ -1,5 +1,4 @@
 {
-  "romname":"quizkof",
   "ports":{
     ":edge:joy:JOY1":{
       "labels":{

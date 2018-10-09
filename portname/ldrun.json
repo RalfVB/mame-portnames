@@ -1,5 +1,4 @@
 {
-  "romname":"ldrun",
   "ports":{
     ":P1":{
       "labels":{

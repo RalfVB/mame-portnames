@@ -1,5 +1,4 @@
 {
-  "romname":"umk3",
   "ports":{
     ":IN0":{
       "labels":{

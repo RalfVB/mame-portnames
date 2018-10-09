@@ -1,21 +1,5 @@
 {
-  "romname":"hamaway",
   "ports":{
-    ":COINAGE":{
-      "labels":{
-        "f":{"player":0,"name":"Coin A"},
-        "f0":{"player":0,"name":"Coin B"}
-      }
-    },
-    ":DSW":{
-      "labels":{
-        "3":{"player":0,"name":"Difficulty"},
-        "c":{"player":0,"name":"Lives"},
-        "20":{"player":0,"name":"Unused"},
-        "40":{"player":0,"name":"Demo Sounds"},
-        "80":{"player":0,"name":"2 Credits to Start"}
-      }
-    },
     ":P1":{
       "labels":{
         "1":{"player":0,"name":"P1 Button 1"},
@@ -40,13 +24,8 @@
     },
     ":SERVICE":{
       "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "2":{"player":0,"name":"Coin 2"},
-        "4":{"player":0,"name":"Service Mode"},
-        "8":{"player":0,"name":"Service 1"},
-        "10":{"player":0,"name":"1 Player Start"},
-        "20":{"player":0,"name":"2 Players Start"},
-        "40":{"player":0,"name":"Service 2"}
+        "10":{"player":0,"name":"P1 Start"},
+        "20":{"player":0,"name":"P2 Start"}
       }
     }
   }

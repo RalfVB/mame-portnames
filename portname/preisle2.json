@@ -1,20 +1,19 @@
 {
-  "romname":"maglord",
   "ports":{
     ":edge:joy:JOY1":{
       "labels":{
-        "10":{"player":0,"name":"P1 Fire"},
+        "10":{"player":0,"name":"P1 Shot"},
         "20":{"player":0,"name":"P1 Bomb"},
-        "40":{"player":0,"name":"P1 C"},
-        "80":{"player":0,"name":"P1 D"}
+        "40":{"player":0,"name":"-"},
+        "80":{"player":0,"name":"-"}
       }
     },
     ":edge:joy:JOY2":{
       "labels":{
-        "10":{"player":1,"name":"P2 Fire"},
+        "10":{"player":1,"name":"P2 Shot"},
         "20":{"player":1,"name":"P2 Bomb"},
-        "40":{"player":1,"name":"P2 C"},
-        "80":{"player":1,"name":"P2 D"}
+        "40":{"player":1,"name":"-"},
+        "80":{"player":1,"name":"-"}
       }
     }
   }

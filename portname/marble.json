@@ -1,25 +1,8 @@
 {
-  "romname":"marble",
   "ports":{
-    ":IN0":{
-      "labels":{
-        "ff":{"player":0,"name":"P1 Left / Right"}
-      }
-    },
-    ":IN1":{
-      "labels":{
-        "ff":{"player":0,"name":"P1 Up / Down"}
-      }
-    },
-    ":IN2":{
-      "labels":{
-        "ff":{"player":1,"name":"P2 Right /  Left"}
-      }
-    },
-    ":IN3":{
-      "labels":{
-        "ff":{"player":1,"name":"P2 Down /  Up"}
-      }
-    }
+    ":IN0":{"labels":{"ff":{"player":0,"name":"P1 Horizontal"}}},
+    ":IN1":{"labels":{"ff":{"player":0,"name":"P1 Vertical"}}},
+    ":IN2":{"labels":{"ff":{"player":1,"name":"P2 Horizontal"}}},
+    ":IN3":{"labels":{"ff":{"player":1,"name":"P2 Vertical"}}}
   }
 }

@@ -1,5 +1,4 @@
 {
-  "romname":"kotm",
   "ports":{
     ":edge:joy:JOY1":{
       "labels":{

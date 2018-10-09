@@ -1,21 +1,12 @@
 {
-  "romname":"pengo",
   "ports":{
     ":IN0":{
       "labels":{
-        "1":{"player":0,"name":"P1 Up"},
-        "2":{"player":0,"name":"P1 Down"},
-        "4":{"player":0,"name":"P1 Left"},
-        "8":{"player":0,"name":"P1 Right"},
         "80":{"player":0,"name":"P1 Push"}
       }
     },
     ":IN1":{
       "labels":{
-        "1":{"player":1,"name":"P2 Up"},
-        "2":{"player":1,"name":"P2 Down"},
-        "4":{"player":1,"name":"P2 Left"},
-        "8":{"player":1,"name":"P2 Right"},
         "80":{"player":1,"name":"P2 Push"}
       }
     }

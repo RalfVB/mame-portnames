@@ -1,5 +1,4 @@
 {
-  "romname":"gaplus",
   "ports":{
     ":BUTTONS":{
       "labels":{

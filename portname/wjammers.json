@@ -1,5 +1,4 @@
 {
-  "romname":"wjammers",
   "ports":{
     ":edge:joy:JOY1":{
       "labels":{

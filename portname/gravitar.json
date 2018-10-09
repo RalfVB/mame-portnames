@@ -1,5 +1,4 @@
 {
-  "romname":"gravitar",
   "ports":{
     ":IN3":{
       "labels":{

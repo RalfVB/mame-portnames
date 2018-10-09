@@ -1,5 +1,4 @@
 {
-  "romname":"killbld",
   "ports":{
     ":P1P2":{
       "labels":{

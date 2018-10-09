@@ -1,11 +1,10 @@
 {
-  "romname":"mslug6",
   "ports":{
     ":P1.0":{
       "labels":{
         "1":{"player":0,"name":"P1 Bomb"},
         "2":{"player":0,"name":"P1 Jump"},
-        "4":{"player":0,"name":"P1 Fire"}
+        "4":{"player":0,"name":"P1 Shot"}
       }
     },
     ":P1.1":{
@@ -19,7 +18,7 @@
       "labels":{
         "1":{"player":1,"name":"P2 Bomb"},
         "2":{"player":1,"name":"P2 Jump"},
-        "4":{"player":1,"name":"P2 Fire"}
+        "4":{"player":1,"name":"P2 Shot"}
       }
     },
     ":P2.1":{

@@ -1,16 +1,15 @@
 {
-  "romname":"macrossp",
   "ports":{
     ":INPUTS":{
       "labels":{
-        "100000":{"player":0,"name":"P1 Fire"},
+        "100000":{"player":0,"name":"P1 Shot"},
         "200000":{"player":0,"name":"P1 Bomb"},
-        "400000":{"player":0,"name":"P1 Button 3"},
-        "800000":{"player":0,"name":"P1 Button 4"},
-        "10000000":{"player":1,"name":"P2 Fire"},
+        "400000":{"player":0,"name":"-"},
+        "800000":{"player":0,"name":"-"},
+        "10000000":{"player":1,"name":"P2 Shot"},
         "20000000":{"player":1,"name":"P2 Bomb"},
-        "40000000":{"player":1,"name":"P2 Button 3"},
-        "80000000":{"player":1,"name":"P2 Button 4"}
+        "40000000":{"player":1,"name":"-"},
+        "80000000":{"player":1,"name":"-"}
       }
     }
   }

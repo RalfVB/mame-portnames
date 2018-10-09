@@ -1,60 +1,22 @@
 {
-  "romname":"vimana",
   "ports":{
-    ":DSWA":{
-      "labels":{
-        "1":{"player":0,"name":"Unused"},
-        "2":{"player":0,"name":"Flip Screen"},
-        "4":{"player":0,"name":"Service Mode"},
-        "8":{"player":0,"name":"Demo Sounds"},
-        "30":{"player":0,"name":"Coin A"},
-        "c0":{"player":0,"name":"Coin B"}
-      }
-    },
-    ":DSWB":{
-      "labels":{
-        "3":{"player":0,"name":"Difficulty"},
-        "c":{"player":0,"name":"Bonus Life"},
-        "30":{"player":0,"name":"Lives"},
-        "40":{"player":0,"name":"Invulnerability"},
-        "80":{"player":0,"name":"Allow Continue"}
-      }
-    },
     ":P1":{
       "labels":{
-        "1":{"player":0,"name":"P1 Up"},
-        "2":{"player":0,"name":"P1 Down"},
-        "4":{"player":0,"name":"P1 Left"},
-        "8":{"player":0,"name":"P1 Right"},
-        "10":{"player":0,"name":"P1 Button 1"},
-        "20":{"player":0,"name":"P1 Button 2"},
+        "10":{"player":0,"name":"P1 Shot"},
+        "20":{"player":0,"name":"P1 Bomb"},
         "40":{"player":0,"name":"Fast Scrolling"}
       }
     },
     ":P2":{
       "labels":{
-        "1":{"player":1,"name":"P2 Up"},
-        "2":{"player":1,"name":"P2 Down"},
-        "4":{"player":1,"name":"P2 Left"},
-        "8":{"player":1,"name":"P2 Right"},
-        "10":{"player":1,"name":"P2 Button 1"},
-        "20":{"player":1,"name":"P2 Button 2"}
+        "10":{"player":1,"name":"P2 Shot"},
+        "20":{"player":1,"name":"P2 Bomb"}
       }
     },
     ":SYSTEM":{
       "labels":{
-        "1":{"player":0,"name":"Service 1"},
-        "2":{"player":0,"name":"Tilt"},
-        "4":{"player":0,"name":"Test Switch"},
-        "8":{"player":0,"name":"Coin 1"},
-        "10":{"player":0,"name":"Coin 2"},
         "20":{"player":0,"name":"1 Player Start"},
         "40":{"player":0,"name":"2 Players Start"}
-      }
-    },
-    ":TJUMP":{
-      "labels":{
-        "f":{"player":0,"name":"Region"}
       }
     }
   }

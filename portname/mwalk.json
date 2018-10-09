@@ -1,23 +1,5 @@
 {
-  "romname":"mwalk",
   "ports":{
-    ":COINAGE":{
-      "labels":{
-        "f":{"player":0,"name":"Coin A"},
-        "f0":{"player":0,"name":"Coin B"}
-      }
-    },
-    ":DSW":{
-      "labels":{
-        "1":{"player":0,"name":"2 Credits to Start"},
-        "2":{"player":0,"name":"Demo Sounds"},
-        "4":{"player":0,"name":"Lives"},
-        "8":{"player":0,"name":"Player Vitality"},
-        "10":{"player":0,"name":"Play Mode"},
-        "20":{"player":0,"name":"Coin Chute"},
-        "c0":{"player":0,"name":"Difficulty"}
-      }
-    },
     ":P1":{
       "labels":{
         "1":{"player":0,"name":"P1 Button 1"},
@@ -54,14 +36,8 @@
     },
     ":SERVICE":{
       "labels":{
-        "1":{"player":0,"name":"Coin 3"},
-        "2":{"player":0,"name":"Coin 2"},
-        "4":{"player":0,"name":"Service Mode"},
-        "8":{"player":0,"name":"Service 1"},
         "10":{"player":0,"name":"1 Player Start"},
-        "20":{"player":0,"name":"2 Players Start"},
-        "40":{"player":0,"name":"Service 2"},
-        "80":{"player":0,"name":"Coin 1"}
+        "20":{"player":0,"name":"2 Players Start"}
       }
     }
   }

@@ -1,30 +1,9 @@
 {
-  "romname":"spcpostn",
   "ports":{
-    ":I40":{
-      "labels":{
-        "f":{"player":0,"name":"Coin A"},
-        "f0":{"player":0,"name":"Coin B"}
-      }
-    },
-    ":I41":{
-      "labels":{
-        "1":{"player":0,"name":"Allow Continue"},
-        "2":{"player":0,"name":"Obstruction Car"},
-        "c":{"player":0,"name":"Time Limit"},
-        "30":{"player":0,"name":"Power Down"},
-        "40":{"player":0,"name":"Demo Sounds"},
-        "80":{"player":0,"name":"Unused"}
-      }
-    },
     ":I80":{
       "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "2":{"player":0,"name":"Coin 2"},
-        "4":{"player":0,"name":"Service 1"},
         "8":{"player":0,"name":"1 Player Start"},
-        "10":{"player":0,"name":"2 Players Start"},
-        "80":{"player":0,"name":"Service Mode"}
+        "10":{"player":0,"name":"2 Players Start"}
       }
     },
     ":I81":{

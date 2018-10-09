@@ -1,27 +1,5 @@
 {
-  "romname":"pjustic",
   "ports":{
-    ":837_13551:COINS":{
-      "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "2":{"player":0,"name":"Coin 2"}
-      }
-    },
-    ":MAMEDEBUG":{
-      "labels":{
-        "1":{"player":0,"name":"Bilinear Filtering"},
-        "2":{"player":0,"name":"Disable Render Calls"},
-        "c":{"player":0,"name":"Master CPU Clock Rate (Cheat)"}
-      }
-    },
-    ":MIE.5":{
-      "labels":{
-        "1":{"player":0,"name":"Monitor"},
-        "8":{"player":0,"name":"Unknown"},
-        "10":{"player":0,"name":"Service Mode"},
-        "40":{"player":0,"name":"Service 1"}
-      }
-    },
     ":P1":{
       "labels":{
         "10":{"player":0,"name":"P1 Button 6"},
@@ -34,7 +12,7 @@
         "800":{"player":0,"name":"P1 Left"},
         "1000":{"player":0,"name":"P1 Down"},
         "2000":{"player":0,"name":"P1 Up"},
-        "8000":{"player":0,"name":"1 Player Start"}
+        "8000":{"player":0,"name":"P1 Start"}
       }
     },
     ":P2":{
@@ -49,12 +27,7 @@
         "800":{"player":1,"name":"P2 Left"},
         "1000":{"player":1,"name":"P2 Down"},
         "2000":{"player":1,"name":"P2 Up"},
-        "8000":{"player":0,"name":"2 Players Start"}
-      }
-    },
-    ":TILT":{
-      "labels":{
-        "80":{"player":0,"name":"Tilt"}
+        "8000":{"player":0,"name":"P2 Start"}
       }
     }
   }

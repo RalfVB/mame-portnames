@@ -1,5 +1,4 @@
 {
-  "romname":"hotd",
   "ports":{
     ":IN1":{
       "labels":{
@@ -19,7 +18,7 @@
     },
     ":P2_X":{
       "labels":{
-        "3ff":{"player":1,"name":"p2 Aim Horizontal"}
+        "3ff":{"player":1,"name":"P2 Aim Horizontal"}
       }
     },
     ":P2_Y":{

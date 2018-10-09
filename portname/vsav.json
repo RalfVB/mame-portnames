@@ -1,28 +1,27 @@
 {
-  "romname":"vsav",
   "ports":{
     ":IN0":{
       "labels":{
-        "10":{"player":0,"name":"P1 LP"},
-        "20":{"player":0,"name":"P1 MP"},
-        "40":{"player":0,"name":"P1 HP"},
-        "1000":{"player":1,"name":"P2 LP"},
-        "2000":{"player":1,"name":"P2 MP"},
-        "4000":{"player":1,"name":"P2 HP"}
+        "10":{"player":0,"name":"P1 LP (Jab)"},
+        "20":{"player":0,"name":"P1 MP (Strong)"},
+        "40":{"player":0,"name":"P1 HP (Fierce)"},
+        "1000":{"player":1,"name":"P2 LP (Jab)"},
+        "2000":{"player":1,"name":"P2 MP (Strong)"},
+        "4000":{"player":1,"name":"P2 HP (Fierce)"}
       }
     },
     ":IN1":{
       "labels":{
-        "1":{"player":0,"name":"P1 LK"},
-        "2":{"player":0,"name":"P1 MK"},
-        "4":{"player":0,"name":"P1 HK"},
-        "10":{"player":1,"name":"P2 LK"},
-        "20":{"player":1,"name":"P2 MK"}
+        "1":{"player":0,"name":"P1 LK (Short)"},
+        "2":{"player":0,"name":"P1 MK (Forward)"},
+        "4":{"player":0,"name":"P1 HK (Roundhouse)"},
+        "10":{"player":1,"name":"P2 LK (Short)"},
+        "20":{"player":1,"name":"P2 MK (Forward)"}
       }
     },
     ":IN2":{
       "labels":{
-        "4000":{"player":1,"name":"P2 HK"}
+        "4000":{"player":1,"name":"P2 HK (Roundhouse)"}
       }
     }
   }

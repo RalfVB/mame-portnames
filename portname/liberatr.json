@@ -1,10 +1,9 @@
 {
-  "romname":"liberatr",
   "ports":{
     ":FAKE":{
       "labels":{
-        "f":{"player":0,"name":"P1 Left /  Right"},
-        "f0":{"player":0,"name":"P1 Up / Down"}
+        "f":{"player":0,"name":"P1 Left/Right"},
+        "f0":{"player":0,"name":"P1 Up/Down"}
       }
     },
     ":IN1":{

@@ -1,5 +1,4 @@
 {
-  "romname":"ngbc",
   "ports":{
     ":P1.0":{
       "labels":{

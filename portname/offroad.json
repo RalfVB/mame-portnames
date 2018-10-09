@@ -1,41 +1,16 @@
 {
-  "romname":"offroad",
   "ports":{
-    ":AN0":{
-      "labels":{
-        "ff":{"player":0,"name":"P1 Accelerate"}
-      }
-    },
-    ":AN1":{
-      "labels":{
-        "ff":{"player":1,"name":"P2 Accelerate"}
-      }
-    },
-    ":AN2":{
-      "labels":{
-        "ff":{"player":2,"name":"P3 Accelerate"}
-      }
-    },
-    ":AN3":{
-      "labels":{
-        "ff":{"player":0,"name":"P1 Left /  Right"}
-      }
-    },
-    ":AN4":{
-      "labels":{
-        "ff":{"player":1,"name":"P2 Left /  Right"}
-      }
-    },
-    ":AN5":{
-      "labels":{
-        "ff":{"player":2,"name":"P3 Left /  Right"}
-      }
-    },
+    ":AN0":{"labels":{"ff":{"player":0,"name":"P1 Accelerate"}}},
+    ":AN1":{"labels":{"ff":{"player":1,"name":"P2 Accelerate"}}},
+    ":AN2":{"labels":{"ff":{"player":2,"name":"P3 Accelerate"}}},
+    ":AN3":{"labels":{"ff":{"player":0,"name":"P1 Steering"}}},
+    ":AN4":{"labels":{"ff":{"player":1,"name":"P2 Steering"}}},
+    ":AN5":{"labels":{"ff":{"player":2,"name":"P3 Steering"}}},
     ":IN0":{
       "labels":{
-        "10":{"player":0,"name":"P1 Nitro / Start"},
-        "20":{"player":1,"name":"P2 Nitro / Start"},
-        "40":{"player":2,"name":"P3 Nitro / Start"}
+        "10":{"player":0,"name":"P1 Start/Nitro"},
+        "20":{"player":1,"name":"P2 Start/Nitro"},
+        "40":{"player":2,"name":"P3 Start/Nitro"}
       }
     }
   }

@@ -1,17 +1,8 @@
 {
-  "romname":"indytemp",
   "ports":{
     ":F60000":{
       "labels":{
         "1":{"player":0,"name":"P1 Whip"}
-      }
-    },
-    ":IN0":{
-      "labels":{
-        "10":{"player":0,"name":"P1 Up"},
-        "20":{"player":0,"name":"P1 Down"},
-        "40":{"player":0,"name":"P1 Left"},
-        "80":{"player":0,"name":"P1 Right"}
       }
     }
   }

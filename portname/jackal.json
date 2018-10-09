@@ -1,5 +1,4 @@
 {
-  "romname":"jackal",
   "ports":{
     ":IN1":{
       "labels":{

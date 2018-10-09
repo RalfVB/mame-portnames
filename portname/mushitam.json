@@ -1,5 +1,4 @@
 {
-  "romname":"mushitam",
   "ports":{
     ":PORT_D":{
       "labels":{

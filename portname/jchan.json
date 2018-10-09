@@ -1,18 +1,5 @@
 {
-  "romname":"jchan",
   "ports":{
-    ":DSW1":{
-      "labels":{
-        "100":{"player":0,"name":"Service Mode"},
-        "200":{"player":0,"name":"Flip Screen"},
-        "400":{"player":0,"name":"Demo Sounds"},
-        "800":{"player":0,"name":"Sound"},
-        "1000":{"player":0,"name":"Free Play"},
-        "2000":{"player":0,"name":"Blood Mode"},
-        "4000":{"player":0,"name":"Special Prize Available"},
-        "8000":{"player":0,"name":"Buttons Layout"}
-      }
-    },
     ":EXTRA":{
       "labels":{
         "100":{"player":0,"name":"P1 Button 3"},
@@ -45,13 +32,8 @@
     },
     ":SYSTEM":{
       "labels":{
-        "100":{"player":0,"name":"1 Player Start"},
-        "200":{"player":0,"name":"2 Players Start"},
-        "400":{"player":0,"name":"Coin 1"},
-        "800":{"player":0,"name":"Coin 2"},
-        "1000":{"player":0,"name":"Test"},
-        "2000":{"player":0,"name":"Tilt"},
-        "4000":{"player":0,"name":"Service 1"}
+        "100":{"player":0,"name":"P1 Start"},
+        "200":{"player":0,"name":"P2 Start"}
       }
     }
   }

@@ -1,5 +1,4 @@
 {
-  "romname":"hitme",
   "ports":{
     ":IN0":{
       "labels":{

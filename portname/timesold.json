@@ -1,15 +1,14 @@
 {
-  "romname":"timesold",
   "ports":{
     ":IN0":{
       "labels":{
-        "10":{"player":0,"name":"P1 Fire"},
+        "10":{"player":0,"name":"P1 Shot"},
         "20":{"player":0,"name":"P1 Hyper Weapon"}
       }
     },
     ":IN1":{
       "labels":{
-        "10":{"player":1,"name":"P2 Fire"},
+        "10":{"player":1,"name":"P2 Shot"},
         "20":{"player":1,"name":"P2 Hyper Weapon"}
       }
     }

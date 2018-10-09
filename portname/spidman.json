@@ -1,5 +1,4 @@
 {
-  "romname":"spidman",
   "ports":{
     ":mainpcb:EXTRA1":{
       "labels":{

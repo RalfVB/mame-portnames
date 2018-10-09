@@ -1,25 +1,12 @@
 {
-  "romname":"thndrbld",
   "ports":{
-    ":mainpcb:ADC0":{
-      "labels":{
-        "ff":{"player":0,"name":"Left / Right"}
-      }
-    },
-    ":mainpcb:ADC1":{
-      "labels":{
-        "ff":{"player":0,"name":"Fast / Slow"}
-      }
-    },
-    ":mainpcb:ADC2":{
-      "labels":{
-        "ff":{"player":0,"name":"Up / Down"}
-      }
-    },
+    ":mainpcb:ADC0":{"labels":{"ff":{"player":0,"name":"Stick Horizontal"}}},
+    ":mainpcb:ADC1":{"labels":{"ff":{"player":0,"name":"Speed"}}},
+    ":mainpcb:ADC2":{"labels":{"ff":{"player":0,"name":"Stick Vertical"}}},
     ":mainpcb:IO1PORTA":{
       "labels":{
-        "10":{"player":0,"name":"Fire"},
-        "20":{"player":0,"name":"Grenade"}
+        "10":{"player":0,"name":"Vulcan"},
+        "20":{"player":0,"name":"Missile"}
       }
     }
   }

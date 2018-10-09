@@ -1,5 +1,4 @@
 {
-  "romname":"zeropnt",
   "ports":{
     ":INPUTS":{
       "labels":{
@@ -9,22 +8,22 @@
     },
     ":X0":{
       "labels":{
-        "ff":{"player":1,"name":"P2 Left /  Right"}
+        "ff":{"player":1,"name":"P2 Left/Right"}
       }
     },
     ":X1":{
       "labels":{
-        "ff":{"player":0,"name":"P1 Left /  Right"}
+        "ff":{"player":0,"name":"P1 Left/Right"}
       }
     },
     ":Y0":{
       "labels":{
-        "ff":{"player":1,"name":"P2 Down /  Up"}
+        "ff":{"player":1,"name":"P2 Down/Up"}
       }
     },
     ":Y1":{
       "labels":{
-        "ff":{"player":0,"name":"P1 Up / Down"}
+        "ff":{"player":0,"name":"P1 Up/Down"}
       }
     }
   }

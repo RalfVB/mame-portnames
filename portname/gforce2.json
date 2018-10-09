@@ -1,54 +1,25 @@
 {
-  "romname":"gforce2",
   "ports":{
     ":ADC.0":{
       "labels":{
-        "ff":{"player":0,"name":"AD Stick X"}
+        "ff":{"player":0,"name":"Stick Horizontal"}
       }
     },
     ":ADC.1":{
       "labels":{
-        "ff":{"player":0,"name":"AD Stick Y"}
+        "ff":{"player":0,"name":"Stick Vertical"}
       }
     },
     ":ADC.2":{
       "labels":{
-        "ff":{"player":0,"name":"AD Stick Z"}
-      }
-    },
-    ":COINAGE":{
-      "labels":{
-        "f":{"player":0,"name":"Coin A"},
-        "f0":{"player":0,"name":"Coin B"}
-      }
-    },
-    ":DSW":{
-      "labels":{
-        "1":{"player":0,"name":"Demo Sounds"},
-        "6":{"player":0,"name":"Energy Timer"},
-        "8":{"player":0,"name":"Shield Strength"},
-        "30":{"player":0,"name":"Difficulty"},
-        "c0":{"player":0,"name":"Cabinet"}
+        "ff":{"player":0,"name":"Throttle"}
       }
     },
     ":GENERAL":{
       "labels":{
-        "2":{"player":0,"name":"Service Mode"},
-        "4":{"player":0,"name":"Service 1"},
-        "8":{"player":0,"name":"1 Player Start"},
+        "8":{"player":0,"name":"Start"},
         "10":{"player":0,"name":"Shoot"},
-        "20":{"player":0,"name":"Missile"},
-        "40":{"player":0,"name":"Coin 1"},
-        "80":{"player":0,"name":"Coin 2"}
-      }
-    },
-    ":LIMITSW":{
-      "labels":{
-        "2":{"player":0,"name":"Floor Switch"},
-        "4":{"player":0,"name":"Beam Sensor 2 / Down Limit"},
-        "8":{"player":0,"name":"Beam Sensor 1 / Up Limit"},
-        "10":{"player":0,"name":"Left CCW Limit"},
-        "20":{"player":0,"name":"Right CW Limit"}
+        "20":{"player":0,"name":"Missile"}
       }
     }
   }

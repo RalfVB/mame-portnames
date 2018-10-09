@@ -1,10 +1,9 @@
 {
-  "romname":"myhero",
   "ports":{
     ":P1":{
       "labels":{
-        "2":{"player":0,"name":"P1 Button 1"},
-        "4":{"player":0,"name":"P1 Button 2"},
+        "2":{"player":0,"name":"P1 Attack"},
+        "4":{"player":0,"name":"P1 Jump Kick"},
         "10":{"player":0,"name":"P1 Down"},
         "20":{"player":0,"name":"P1 Up"},
         "40":{"player":0,"name":"P1 Right"},
@@ -13,38 +12,18 @@
     },
     ":P2":{
       "labels":{
-        "2":{"player":1,"name":"P2 Button 1"},
-        "4":{"player":1,"name":"P2 Button 2"},
+        "2":{"player":1,"name":"P2 Attack"},
+        "4":{"player":1,"name":"P2 Jump Kick"},
         "10":{"player":1,"name":"P2 Down"},
         "20":{"player":1,"name":"P2 Up"},
         "40":{"player":1,"name":"P2 Right"},
         "80":{"player":1,"name":"P2 Left"}
       }
     },
-    ":SWA":{
-      "labels":{
-        "f":{"player":0,"name":"Coin A"},
-        "f0":{"player":0,"name":"Coin B"}
-      }
-    },
-    ":SWB":{
-      "labels":{
-        "1":{"player":0,"name":"Cabinet"},
-        "2":{"player":0,"name":"Demo Sounds"},
-        "c":{"player":0,"name":"Lives"},
-        "30":{"player":0,"name":"Bonus Life"},
-        "40":{"player":0,"name":"Difficulty"},
-        "80":{"player":0,"name":"SW 0 Read From"}
-      }
-    },
     ":SYSTEM":{
       "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "2":{"player":0,"name":"Coin 2"},
-        "4":{"player":0,"name":"Service Mode"},
-        "8":{"player":0,"name":"Service 1"},
-        "10":{"player":0,"name":"1 Player Start"},
-        "20":{"player":0,"name":"2 Players Start"}
+        "10":{"player":0,"name":"P1 Start"},
+        "20":{"player":0,"name":"P2 Start"}
       }
     }
   }

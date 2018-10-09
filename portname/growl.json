@@ -1,54 +1,27 @@
 {
-  "romname":"growl",
   "ports":{
-    ":IN1":{
-      "labels":{
-        "1":{"player":1,"name":"P2 Up"},
-        "2":{"player":1,"name":"P2 Down"},
-        "4":{"player":1,"name":"P2 Left"},
-        "8":{"player":1,"name":"P2 Right"},
-        "10":{"player":1,"name":"P2 Button 1"},
-        "20":{"player":1,"name":"P2 Button 2"},
-        "40":{"player":1,"name":"P2 Button 3"},
-        "80":{"player":0,"name":"2 Players Start"}
-      }
-    },
-    ":DSWB":{
-      "labels":{
-        "3":{"player":0,"name":"Difficulty"},
-        "30":{"player":0,"name":"Cabinet Type"},
-        "40":{"player":0,"name":"Final Boss Continue"},
-        "80":{"player":0,"name":"Unused"}
-      }
-    },
-    ":DSWA":{
-      "labels":{
-        "1":{"player":0,"name":"Unused"},
-        "2":{"player":0,"name":"Flip Screen"},
-        "4":{"player":0,"name":"Service Mode"},
-        "8":{"player":0,"name":"Demo Sounds"},
-        "30":{"player":0,"name":"Coin A"},
-        "c0":{"player":0,"name":"Coin B"}
-      }
-    },
     ":IN0":{
       "labels":{
         "1":{"player":0,"name":"P1 Up"},
         "2":{"player":0,"name":"P1 Down"},
         "4":{"player":0,"name":"P1 Left"},
         "8":{"player":0,"name":"P1 Right"},
-        "10":{"player":0,"name":"P1 Button 1"},
-        "20":{"player":0,"name":"P1 Button 2"},
+        "10":{"player":0,"name":"P1 Attack"},
+        "20":{"player":0,"name":"P1 Jump"},
         "40":{"player":0,"name":"P1 Button 3"},
-        "80":{"player":0,"name":"1 Player Start"}
+        "80":{"player":0,"name":"P1 Start"}
       }
     },
-    ":IN2":{
+    ":IN1":{
       "labels":{
-        "1":{"player":0,"name":"Tilt"},
-        "2":{"player":0,"name":"Service 1"},
-        "4":{"player":0,"name":"Coin 1"},
-        "8":{"player":0,"name":"Coin 2"}
+        "1":{"player":1,"name":"P2 Up"},
+        "2":{"player":1,"name":"P2 Down"},
+        "4":{"player":1,"name":"P2 Left"},
+        "8":{"player":1,"name":"P2 Right"},
+        "10":{"player":1,"name":"P2 Attack"},
+        "20":{"player":1,"name":"P2 Jump"},
+        "40":{"player":1,"name":"P2 Button 3"},
+        "80":{"player":0,"name":"P2 Start"}
       }
     },
     ":IN3":{
@@ -57,25 +30,18 @@
         "2":{"player":2,"name":"P3 Down"},
         "4":{"player":2,"name":"P3 Left"},
         "8":{"player":2,"name":"P3 Right"},
-        "10":{"player":2,"name":"P3 Button 1"},
-        "20":{"player":2,"name":"P3 Button 2"},
+        "10":{"player":2,"name":"P3 Attack"},
+        "20":{"player":2,"name":"P3 Jump"},
         "40":{"player":2,"name":"P3 Button 3"},
-        "80":{"player":0,"name":"3 Players Start"},
+        "80":{"player":0,"name":"P3 Start"},
         "100":{"player":3,"name":"P4 Up"},
         "200":{"player":3,"name":"P4 Down"},
         "400":{"player":3,"name":"P4 Left"},
         "800":{"player":3,"name":"P4 Right"},
-        "1000":{"player":3,"name":"P4 Button 1"},
-        "2000":{"player":3,"name":"P4 Button 2"},
+        "1000":{"player":3,"name":"P4 Attack"},
+        "2000":{"player":3,"name":"P4 Jump"},
         "4000":{"player":3,"name":"P4 Button 3"},
-        "8000":{"player":0,"name":"4 Players Start"}
-      }
-    },
-    ":IN4":{
-      "labels":{
-        "1":{"player":0,"name":"Coin 3"},
-        "2":{"player":0,"name":"Coin 4"},
-        "4":{"player":0,"name":"Service 2"}
+        "8000":{"player":0,"name":"P4 Start"}
       }
     }
   }

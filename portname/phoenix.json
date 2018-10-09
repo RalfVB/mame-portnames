@@ -1,5 +1,4 @@
 {
-  "romname":"phoenix",
   "ports":{
     ":CTRL":{
       "labels":{

@@ -1,5 +1,4 @@
 {
-  "romname":"hstennis",
   "ports":{
     ":60":{
       "labels":{

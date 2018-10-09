@@ -1,5 +1,4 @@
 {
-  "romname":"opwolf3",
   "ports":{
     ":BUTTONS":{
       "labels":{

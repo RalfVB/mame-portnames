@@ -1,5 +1,4 @@
 {
-  "romname":"guardian",
   "ports":{
     ":IN0":{
       "labels":{

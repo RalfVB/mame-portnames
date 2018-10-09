@@ -1,5 +1,4 @@
 {
-  "romname":"mvsc2",
   "ports":{
     ":P1":{
       "labels":{

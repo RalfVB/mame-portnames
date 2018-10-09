@@ -1,24 +1,5 @@
 {
-  "romname":"grdian",
   "ports":{
-    ":DSW1":{
-      "labels":{
-        "7":{"player":0,"name":"Coinage"},
-        "8":{"player":0,"name":"Demo Sounds"},
-        "10":{"player":0,"name":"Cabinet"},
-        "20":{"player":0,"name":"Flip Screen"},
-        "40":{"player":0,"name":"Service Mode"},
-        "80":{"player":0,"name":"Unused"}
-      }
-    },
-    ":DSW2":{
-      "labels":{
-        "3":{"player":0,"name":"Lives"},
-        "c":{"player":0,"name":"Difficulty"},
-        "30":{"player":0,"name":"Bonus Life"},
-        "80":{"player":0,"name":"Unused"}
-      }
-    },
     ":IN0":{
       "labels":{
         "1":{"player":0,"name":"P1 Up"},
@@ -37,10 +18,8 @@
         "2":{"player":0,"name":"P1 Button 1"},
         "4":{"player":1,"name":"P2 Button 2"},
         "8":{"player":1,"name":"P2 Button 1"},
-        "10":{"player":0,"name":"1 Player Start"},
-        "20":{"player":0,"name":"2 Players Start"},
-        "40":{"player":0,"name":"Coin 1"},
-        "80":{"player":0,"name":"Coin 2"}
+        "10":{"player":0,"name":"P1 Start"},
+        "20":{"player":0,"name":"P2 Start"}
       }
     }
   }

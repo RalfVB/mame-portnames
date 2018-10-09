@@ -1,5 +1,4 @@
 {
-  "romname":"mario",
   "ports":{
     ":IN0":{
       "labels":{

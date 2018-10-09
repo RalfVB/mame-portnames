@@ -1,14 +1,13 @@
 {
-  "romname":"hotsmash",
   "ports":{
     ":DIAL1":{
       "labels":{
-        "ff":{"player":0,"name":"P1 Left / Right"}
+        "ff":{"player":0,"name":"P1 Left/Right"}
       }
     },
     ":DIAL2":{
       "labels":{
-        "ff":{"player":1,"name":"P2 Right /  Left"}
+        "ff":{"player":1,"name":"P2 Right/Left"}
       }
     }
   }

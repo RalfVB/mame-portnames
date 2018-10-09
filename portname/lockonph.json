@@ -1,15 +1,14 @@
 {
-  "romname":"lockonph",
   "ports":{
     ":P1":{
       "labels":{
-        "1":{"player":0,"name":"P1 Fire"},
+        "1":{"player":0,"name":"P1 Shot"},
         "2":{"player":0,"name":"P1 Special Weapon"}
       }
     },
     ":P2":{
       "labels":{
-        "1":{"player":1,"name":"P2 Fire"},
+        "1":{"player":1,"name":"P2 Shot"},
         "2":{"player":1,"name":"P2 Special Weapon"}
       }
     }

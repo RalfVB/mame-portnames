@@ -1,5 +1,4 @@
 {
-  "romname":"mplanets",
   "ports":{
     ":IN4":{
       "labels":{

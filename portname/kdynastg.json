@@ -1,5 +1,4 @@
 {
-  "romname":"kdynastg",
   "ports":{
     ":INPUTS":{
       "labels":{
@@ -15,12 +14,8 @@
         "800":{"player":1,"name":"P2 Right"},
         "1000":{"player":1,"name":"P2 Button 1"},
         "2000":{"player":1,"name":"P2 Button 2"},
-        "10000":{"player":0,"name":"Service Mode"},
-        "40000":{"player":0,"name":"Service 1"},
-        "100000":{"player":0,"name":"Coin 1"},
-        "200000":{"player":0,"name":"Coin 2"},
-        "400000":{"player":0,"name":"1 Player Start"},
-        "800000":{"player":0,"name":"2 Players Start"}
+        "400000":{"player":0,"name":"P1 Start"},
+        "800000":{"player":0,"name":"P2 Start"}
       }
     }
   }

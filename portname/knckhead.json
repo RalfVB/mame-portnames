@@ -1,18 +1,5 @@
 {
-  "romname":"knckhead",
   "ports":{
-    ":DSW":{
-      "labels":{
-        "1":{"player":0,"name":"DIP2 (Freeze)"},
-        "2":{"player":0,"name":"DIP1 (Test)"},
-        "4":{"player":0,"name":"Coin 4"},
-        "8":{"player":0,"name":"Coin 3"},
-        "10":{"player":0,"name":"Coin 2"},
-        "20":{"player":0,"name":"Coin 1"},
-        "40":{"player":0,"name":"Service Mode"},
-        "80":{"player":0,"name":"Service 1"}
-      }
-    },
     ":P1":{
       "labels":{
         "1":{"player":0,"name":"P1 Right"},

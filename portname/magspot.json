@@ -1,5 +1,4 @@
 {
-  "romname":"magspot",
   "ports":{
     ":IN0":{
       "labels":{

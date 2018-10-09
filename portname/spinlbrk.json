@@ -1,19 +1,5 @@
 {
-  "romname":"spinlbrk",
   "ports":{
-    ":DSW":{
-      "labels":{
-        "f":{"player":0,"name":"Coin A"},
-        "f0":{"player":0,"name":"Coin B"},
-        "300":{"player":0,"name":"Difficulty"},
-        "400":{"player":0,"name":"Credits For Extra Hitpoints"},
-        "800":{"player":0,"name":"Flip Screen"},
-        "1000":{"player":0,"name":"Lever Type"},
-        "2000":{"player":0,"name":"Service Mode"},
-        "4000":{"player":0,"name":"Health Pack"},
-        "8000":{"player":0,"name":"Life Restoration"}
-      }
-    },
     ":IN0":{
       "labels":{
         "1":{"player":0,"name":"P1 Up"},
@@ -23,11 +9,8 @@
         "10":{"player":0,"name":"P1 Button 1"},
         "20":{"player":0,"name":"P1 Button 2"},
         "40":{"player":0,"name":"P1 Button 3"},
-        "100":{"player":0,"name":"Coin 1"},
-        "200":{"player":0,"name":"Coin 2"},
-        "400":{"player":0,"name":"1 Player Start"},
-        "800":{"player":0,"name":"2 Players Start"},
-        "4000":{"player":0,"name":"Service 1"}
+        "400":{"player":0,"name":"P1 Start"},
+        "800":{"player":0,"name":"P2 Start"}
       }
     },
     ":IN1":{

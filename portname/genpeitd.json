@@ -1,44 +1,20 @@
 {
-  "romname":"genpeitd",
   "ports":{
-    ":DSWA":{
-      "labels":{
-        "3":{"player":0,"name":"Coin B"},
-        "4":{"player":0,"name":"Freeze"},
-        "8":{"player":0,"name":"Allow Continue"},
-        "10":{"player":0,"name":"Demo Sounds"},
-        "60":{"player":0,"name":"Coin A"},
-        "80":{"player":0,"name":"Service Mode"}
-      }
-    },
-    ":DSWB":{
-      "labels":{
-        "1":{"player":0,"name":"Flip Screen"},
-        "2":{"player":0,"name":"Cabinet"},
-        "8":{"player":0,"name":"Unknown"},
-        "30":{"player":0,"name":"Difficulty"},
-        "c0":{"player":0,"name":"Candle"}
-      }
-    },
     ":IN0":{
       "labels":{
         "2":{"player":0,"name":"P1 Button 2"},
         "4":{"player":0,"name":"P1 Down"},
         "8":{"player":1,"name":"P2 Down"},
         "10":{"player":1,"name":"P2 Right"},
-        "20":{"player":0,"name":"Coin 1"},
-        "40":{"player":0,"name":"1 Player Start"},
-        "80":{"player":0,"name":"Service"}
+        "40":{"player":0,"name":"P1 Start"}
       }
     },
     ":IN1":{
       "labels":{
         "2":{"player":1,"name":"P2 Button 2"},
         "4":{"player":0,"name":"P1 Up"},
-        "8":{"player":1,"name":"P2 Up"},
-        "10":{"player":0,"name":"Service 1"},
-        "20":{"player":0,"name":"Coin 2"},
-        "40":{"player":0,"name":"2 Players Start"}
+        "8":{"player":1,"name":"P2 Up"}
+        "40":{"player":0,"name":"P2 Start"}
       }
     },
     ":IN2":{

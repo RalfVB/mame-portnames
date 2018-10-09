@@ -1,5 +1,4 @@
 {
-  "romname":"wecleman",
   "ports":{
     ":IN0":{
       "labels":{
@@ -9,7 +8,7 @@
     },
     ":STEER":{
       "labels":{
-        "ff":{"player":0,"name":"Left / Right"}
+        "ff":{"player":0,"name":"Steering"}
       }
     }
   }

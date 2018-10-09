@@ -1,27 +1,5 @@
 {
-  "romname":"grainbow",
   "ports":{
-    ":COIN":{
-      "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "2":{"player":0,"name":"Coin 2"}
-      }
-    },
-    ":DSW1":{
-      "labels":{
-        "3":{"player":0,"name":"Lives"},
-        "c":{"player":0,"name":"Difficulty"},
-        "f0":{"player":0,"name":"Coin A"},
-        "100":{"player":0,"name":"Flip Screen"},
-        "4000":{"player":0,"name":"Unknown"},
-        "8000":{"player":0,"name":"Service Mode"}
-      }
-    },
-    ":DSW2":{
-      "labels":{
-        "80":{"player":0,"name":"Unknown"}
-      }
-    },
     ":PLAYERS12":{
       "labels":{
         "1":{"player":0,"name":"P1 Up"},
@@ -60,12 +38,10 @@
     },
     ":SYSTEM":{
       "labels":{
-        "1":{"player":0,"name":"1 Player Start"},
-        "2":{"player":0,"name":"2 Players Start"},
-        "4":{"player":0,"name":"Test"},
-        "8":{"player":0,"name":"Service 1"},
-        "100":{"player":0,"name":"3 Players Start"},
-        "200":{"player":0,"name":"4 Players Start"}
+        "1":{"player":0,"name":"P1 Start"},
+        "2":{"player":0,"name":"P2 Start"}
+        "100":{"player":0,"name":"P3 Start"},
+        "200":{"player":0,"name":"P4 Start"}
       }
     }
   }

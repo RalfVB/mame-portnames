@@ -1,18 +1,17 @@
 {
-  "romname":"parodius",
   "ports":{
     ":P1":{
       "labels":{
-        "20":{"player":0,"name":"P1 Button 1"},
-        "40":{"player":0,"name":"P1 Button 2"},
-        "80":{"player":0,"name":"P1 Button 3"}
+        "20":{"player":0,"name":"P1 Power Up"},
+        "40":{"player":0,"name":"P1 Shot"},
+        "80":{"player":0,"name":"P1 Missile"}
       }
     },
     ":P2":{
       "labels":{
-        "20":{"player":1,"name":"P2 Button 1"},
-        "40":{"player":1,"name":"P2 Button 2"},
-        "80":{"player":1,"name":"P2 Button 3"}
+        "20":{"player":1,"name":"P2 Power Up"},
+        "40":{"player":1,"name":"P2 Shot"},
+        "80":{"player":1,"name":"P2 Missile"}
       }
     }
   }

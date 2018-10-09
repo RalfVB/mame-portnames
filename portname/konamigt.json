@@ -1,9 +1,8 @@
 {
-  "romname":"konamigt",
   "ports":{
     ":IN1":{
       "labels":{
-        "10":{"player":0,"name":"High / Low"}
+        "10":{"player":0,"name":"High/Low"}
       }
     },
     ":IN3":{

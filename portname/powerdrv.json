@@ -1,5 +1,4 @@
 {
-  "romname":"powerdrv",
   "ports":{
     ":MONO.IP1":{
       "labels":{

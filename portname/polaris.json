@@ -1,5 +1,4 @@
 {
-  "romname":"polaris",
   "ports":{
     ":IN0":{
       "labels":{

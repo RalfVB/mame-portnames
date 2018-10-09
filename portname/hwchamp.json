@@ -1,25 +1,8 @@
 {
-  "romname":"hwchamp",
   "ports":{
-    ":DSW1":{
-      "labels":{
-        "f":{"player":0,"name":"Coin A"},
-        "f0":{"player":0,"name":"Coin B"}
-      }
-    },
-    ":DSW2":{
-      "labels":{
-        "1":{"player":0,"name":"Unused"},
-        "2":{"player":0,"name":"Demo Sounds"},
-        "4":{"player":0,"name":"Start Level Select"},
-        "8":{"player":0,"name":"Allow Continue"},
-        "30":{"player":0,"name":"Difficulty"},
-        "c0":{"player":0,"name":"Time Adjust"}
-      }
-    },
     ":LEFT":{
       "labels":{
-        "ff":{"player":0,"name":"P1 Pedal 2"}
+        "ff":{"player":0,"name":"Pedal 2"}
       }
     },
     ":MONITOR":{
@@ -29,17 +12,13 @@
     },
     ":RIGHT":{
       "labels":{
-        "ff":{"player":0,"name":"P1 Pedal 1"}
+        "ff":{"player":0,"name":"Pedal 1"}
       }
     },
     ":SERVICE":{
       "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "2":{"player":0,"name":"Coin 2"},
-        "4":{"player":0,"name":"Service Mode"},
-        "8":{"player":0,"name":"Service 1"},
-        "10":{"player":0,"name":"1 Player Start"},
-        "20":{"player":0,"name":"2 Players Start"}
+        "10":{"player":0,"name":"P1 Start"},
+        "20":{"player":0,"name":"P2 Start"}
       }
     }
   }

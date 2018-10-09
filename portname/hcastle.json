@@ -1,37 +1,13 @@
 {
-  "romname":"hcastle",
   "ports":{
-    ":DSW1":{
-      "labels":{
-        "f":{"player":0,"name":"Coin A"},
-        "f0":{"player":0,"name":"Coin B"}
-      }
-    },
-    ":DSW2":{
-      "labels":{
-        "2":{"player":0,"name":"Unused"},
-        "4":{"player":0,"name":"Cabinet"},
-        "18":{"player":0,"name":"Difficulty 1 (Game)"},
-        "60":{"player":0,"name":"Difficulty 2 (Strength)"},
-        "80":{"player":0,"name":"Demo Sounds"}
-      }
-    },
-    ":DSW3":{
-      "labels":{
-        "1":{"player":0,"name":"Flip Screen"},
-        "2":{"player":0,"name":"Upright Controls"},
-        "4":{"player":0,"name":"Service Mode"},
-        "8":{"player":0,"name":"Allow Continue"}
-      }
-    },
     ":P1":{
       "labels":{
         "1":{"player":0,"name":"P1 Left"},
         "2":{"player":0,"name":"P1 Right"},
         "4":{"player":0,"name":"P1 Up"},
         "8":{"player":0,"name":"P1 Down"},
-        "10":{"player":0,"name":"P1 Button 1"},
-        "20":{"player":0,"name":"P1 Button 2"}
+        "10":{"player":0,"name":"P1 Attack"},
+        "20":{"player":0,"name":"P1 Jump"}
       }
     },
     ":P2":{
@@ -40,17 +16,14 @@
         "2":{"player":1,"name":"P2 Right"},
         "4":{"player":1,"name":"P2 Up"},
         "8":{"player":1,"name":"P2 Down"},
-        "10":{"player":1,"name":"P2 Button 1"},
-        "20":{"player":1,"name":"P2 Button 2"}
+        "10":{"player":1,"name":"P2 Attack"},
+        "20":{"player":1,"name":"P2 Jump"}
       }
     },
     ":SYSTEM":{
       "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "2":{"player":0,"name":"Coin 2"},
-        "4":{"player":0,"name":"Service 1"},
-        "8":{"player":0,"name":"1 Player Start"},
-        "10":{"player":0,"name":"2 Players Start"}
+        "8":{"player":0,"name":"P1 Start"},
+        "10":{"player":0,"name":"P2 Start"}
       }
     }
   }

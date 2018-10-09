@@ -1,34 +1,14 @@
 {
-  "romname":"kbash",
   "ports":{
-    ":DSWA":{
-      "labels":{
-        "1":{"player":0,"name":"Continue Price"},
-        "2":{"player":0,"name":"Flip Screen"},
-        "4":{"player":0,"name":"Service Mode"},
-        "8":{"player":0,"name":"Demo Sounds"},
-        "30":{"player":0,"name":"Coin A"},
-        "c0":{"player":0,"name":"Coin B"}
-      }
-    },
-    ":DSWB":{
-      "labels":{
-        "3":{"player":0,"name":"Difficulty"},
-        "c":{"player":0,"name":"Bonus Life"},
-        "30":{"player":0,"name":"Lives"},
-        "40":{"player":0,"name":"Invulnerability (Cheat)"},
-        "80":{"player":0,"name":"Allow Continue"}
-      }
-    },
     ":IN1":{
       "labels":{
         "1":{"player":0,"name":"P1 Up"},
         "2":{"player":0,"name":"P1 Down"},
         "4":{"player":0,"name":"P1 Left"},
         "8":{"player":0,"name":"P1 Right"},
-        "10":{"player":0,"name":"P1 Button 1"},
-        "20":{"player":0,"name":"P1 Button 2"},
-        "40":{"player":0,"name":"P1 Button 3"}
+        "10":{"player":0,"name":"P1 Attack"},
+        "20":{"player":0,"name":"P1 Jump"},
+        "40":{"player":0,"name":"-"}
       }
     },
     ":IN2":{
@@ -37,25 +17,15 @@
         "2":{"player":1,"name":"P2 Down"},
         "4":{"player":1,"name":"P2 Left"},
         "8":{"player":1,"name":"P2 Right"},
-        "10":{"player":1,"name":"P2 Button 1"},
-        "20":{"player":1,"name":"P2 Button 2"},
-        "40":{"player":1,"name":"P2 Button 3"}
-      }
-    },
-    ":JMPR":{
-      "labels":{
-        "f0":{"player":0,"name":"Region"}
+        "10":{"player":1,"name":"P2 Attack"},
+        "20":{"player":1,"name":"P2 Jump"},
+        "40":{"player":1,"name":"-"}
       }
     },
     ":SYS":{
       "labels":{
-        "1":{"player":0,"name":"Service 1"},
-        "2":{"player":0,"name":"Tilt"},
-        "4":{"player":0,"name":"Test Switch"},
-        "8":{"player":0,"name":"Coin 1"},
-        "10":{"player":0,"name":"Coin 2"},
-        "20":{"player":0,"name":"1 Player Start"},
-        "40":{"player":0,"name":"2 Players Start"}
+        "20":{"player":0,"name":"P1 Start"},
+        "40":{"player":0,"name":"P2 Start"}
       }
     }
   }

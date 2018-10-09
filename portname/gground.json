@@ -1,27 +1,10 @@
 {
-  "romname":"gground",
   "ports":{
-    ":COINAGE":{
-      "labels":{
-        "f":{"player":0,"name":"Coin A"},
-        "f0":{"player":0,"name":"Coin B"}
-      }
-    },
-    ":DSW":{
-      "labels":{
-        "1":{"player":0,"name":"Flip Screen"},
-        "2":{"player":0,"name":"Demo Sounds"},
-        "1c":{"player":0,"name":"Difficulty"},
-        "60":{"player":0,"name":"Time Limit Per Stage"},
-        "80":{"player":0,"name":"Clock Of Time Limit"}
-      }
-    },
     ":P1":{
       "labels":{
         "1":{"player":0,"name":"P1 Button 3"},
         "2":{"player":0,"name":"P1 Button 1"},
-        "4":{"player":0,"name":"P1 Button 2"},
-        "8":{"player":0,"name":"Service 2"},
+        "4":{"player":0,"name":"P1 Button 2"}
         "10":{"player":0,"name":"P1 Down"},
         "20":{"player":0,"name":"P1 Up"},
         "40":{"player":0,"name":"P1 Right"},
@@ -32,8 +15,7 @@
       "labels":{
         "1":{"player":1,"name":"P2 Button 3"},
         "2":{"player":1,"name":"P2 Button 1"},
-        "4":{"player":1,"name":"P2 Button 2"},
-        "8":{"player":0,"name":"Service 3"},
+        "4":{"player":1,"name":"P2 Button 2"}
         "10":{"player":1,"name":"P2 Down"},
         "20":{"player":1,"name":"P2 Up"},
         "40":{"player":1,"name":"P2 Right"},
@@ -42,10 +24,8 @@
     },
     ":P3":{
       "labels":{
-        "1":{"player":0,"name":"Coin 3"},
         "2":{"player":2,"name":"P3 Button 1"},
         "4":{"player":2,"name":"P3 Button 2"},
-        "8":{"player":0,"name":"Service 4"},
         "10":{"player":2,"name":"P3 Down"},
         "20":{"player":2,"name":"P3 Up"},
         "40":{"player":2,"name":"P3 Right"},
@@ -54,14 +34,8 @@
     },
     ":SERVICE":{
       "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "2":{"player":0,"name":"Coin 2"},
-        "4":{"player":0,"name":"Service"},
-        "8":{"player":0,"name":"Service 1"},
-        "10":{"player":0,"name":"1 Player Start"},
-        "20":{"player":0,"name":"2 Players Start"},
-        "40":{"player":0,"name":"Coin 3"},
-        "80":{"player":0,"name":"Coin 4"}
+        "10":{"player":0,"name":"P1 Start"},
+        "20":{"player":0,"name":"P2 Start"}
       }
     }
   }

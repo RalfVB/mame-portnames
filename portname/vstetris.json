@@ -1,5 +1,4 @@
 {
-  "romname":"vstetris",
   "ports":{
     ":IN0":{
       "labels":{

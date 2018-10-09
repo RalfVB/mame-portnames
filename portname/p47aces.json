@@ -1,13 +1,12 @@
 {
-  "romname":"p47aces",
   "ports":{
     ":INPUTS":{
       "labels":{
-        "10":{"player":0,"name":"P1 Fire"},
+        "10":{"player":0,"name":"P1 Shot"},
         "20":{"player":0,"name":"P1 Bomb"},
         "40":{"player":0,"name":"P1 Button 3"},
         "80":{"player":0,"name":"P1 Button 4"},
-        "1000":{"player":1,"name":"P2 Fire"},
+        "1000":{"player":1,"name":"P2 Shot"},
         "2000":{"player":1,"name":"P2 Bomb"},
         "4000":{"player":1,"name":"P2 Button 3"},
         "8000":{"player":1,"name":"P2 Button 4"},

@@ -1,5 +1,4 @@
 {
-  "romname":"kick",
   "ports":{
     ":ssio:IP0":{
       "labels":{

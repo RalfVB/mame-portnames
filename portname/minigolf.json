@@ -1,5 +1,4 @@
 {
-  "romname":"minigolf",
   "ports":{
     ":IN1":{
       "labels":{

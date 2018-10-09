@@ -1,5 +1,4 @@
 {
-  "romname":"mtrap",
   "ports":{
     ":IN0":{
       "labels":{

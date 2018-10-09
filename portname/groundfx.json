@@ -1,5 +1,4 @@
 {
-  "romname":"groundfx",
   "ports":{
     ":AN0":{
       "labels":{

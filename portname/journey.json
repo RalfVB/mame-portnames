@@ -1,5 +1,4 @@
 {
-  "romname":"journey",
   "ports":{
     ":ssio:IP0":{
       "labels":{

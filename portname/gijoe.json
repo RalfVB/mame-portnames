@@ -1,24 +1,23 @@
 {
-  "romname":"gijoe",
   "ports":{
     ":P1_P2":{
       "labels":{
         "10":{"player":0,"name":"P1 Fire"},
         "20":{"player":0,"name":"P1 Rocket"},
-        "40":{"player":0,"name":"P1 ..."},
+        "40":{"player":0,"name":"n/a"},
         "1000":{"player":1,"name":"P2 Fire"},
         "2000":{"player":1,"name":"P2 Rocket"},
-        "4000":{"player":1,"name":"P2 ..."}
+        "4000":{"player":1,"name":"n/a"}
       }
     },
     ":P3_P4":{
       "labels":{
         "10":{"player":2,"name":"P3 Fire"},
         "20":{"player":2,"name":"P3 Rocket"},
-        "40":{"player":2,"name":"P3 ..."},
+        "40":{"player":2,"name":"n/a"},
         "1000":{"player":3,"name":"P4 Fire"},
         "2000":{"player":3,"name":"P4 Rocket"},
-        "4000":{"player":3,"name":"P4 ..."}
+        "4000":{"player":3,"name":"n/a"}
       }
     }
   }

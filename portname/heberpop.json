@@ -1,16 +1,5 @@
 {
-  "romname":"heberpop",
   "ports":{
-    ":DSW":{
-      "labels":{
-        "3":{"player":0,"name":"Difficulty"},
-        "10":{"player":0,"name":"Allow Diagonal Moves"},
-        "20":{"player":0,"name":"Demo Sounds"},
-        "700":{"player":0,"name":"Coin A"},
-        "3800":{"player":0,"name":"Coin B"},
-        "8000":{"player":0,"name":"Unknown"}
-      }
-    },
     ":INPUTS":{
       "labels":{
         "1":{"player":0,"name":"P1 Right"},
@@ -29,12 +18,8 @@
     },
     ":SYSTEM":{
       "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "2":{"player":0,"name":"Coin 2"},
-        "4":{"player":0,"name":"Service 1"},
-        "8":{"player":0,"name":"1 Player Start"},
-        "10":{"player":0,"name":"2 Players Start"},
-        "20":{"player":0,"name":"Service Mode"}
+        "8":{"player":0,"name":"P1 Start"},
+        "10":{"player":0,"name":"P2 Start"}
       }
     }
   }

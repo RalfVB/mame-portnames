@@ -1,5 +1,4 @@
 {
-  "romname":"sprint1",
   "ports":{
     ":DIAL_P1":{
       "labels":{

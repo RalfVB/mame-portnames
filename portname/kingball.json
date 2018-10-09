@@ -1,5 +1,4 @@
 {
-  "romname":"kingball",
   "ports":{
     ":IN0":{
       "labels":{
