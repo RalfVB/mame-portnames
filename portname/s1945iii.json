@@ -1,14 +1,13 @@
 {
-  "romname":"s1945iii",
   "ports":{
     ":INPUTS":{
       "labels":{
         "20000":{"player":1,"name":"P2 Special"},
         "40000":{"player":1,"name":"P2 Loop"},
-        "80000":{"player":1,"name":"P2 Fire"},
+        "80000":{"player":1,"name":"P2 Shot"},
         "2000000":{"player":0,"name":"P1 Special"},
         "4000000":{"player":0,"name":"P1 Loop"},
-        "8000000":{"player":0,"name":"P1 Fire"}
+        "8000000":{"player":0,"name":"P1 Shot"}
       }
     }
   }

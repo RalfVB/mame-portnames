@@ -1,5 +1,4 @@
 {
-  "romname":"reactor",
   "ports":{
     ":IN4":{
       "labels":{

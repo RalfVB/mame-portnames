@@ -1,23 +1,5 @@
 {
-  "romname":"sdgndmps",
   "ports":{
-    ":COIN":{
-      "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "2":{"player":0,"name":"Coin 2"}
-      }
-    },
-    ":DSW":{
-      "labels":{
-        "f":{"player":0,"name":"Coin B"},
-        "f0":{"player":0,"name":"Coin A"},
-        "300":{"player":0,"name":"Lives"},
-        "c00":{"player":0,"name":"Difficulty"},
-        "1000":{"player":0,"name":"Demo Sounds"},
-        "2000":{"player":0,"name":"Allow Continue"},
-        "8000":{"player":0,"name":"Unused"}
-      }
-    },
     ":P1_P2":{
       "labels":{
         "1":{"player":0,"name":"P1 Up"},
@@ -36,10 +18,8 @@
     },
     ":SYSTEM":{
       "labels":{
-        "1":{"player":0,"name":"1 Player Start"},
-        "10":{"player":0,"name":"2 Players Start"},
-        "100":{"player":0,"name":"Service Mode"},
-        "1000":{"player":0,"name":"Service 1"}
+        "1":{"player":0,"name":"P1 Start"},
+        "10":{"player":0,"name":"P2 Start"}
       }
     }
   }

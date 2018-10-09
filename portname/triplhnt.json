@@ -1,5 +1,4 @@
 {
-  "romname":"triplhnt",
   "ports":{
     ":0C48":{
       "labels":{

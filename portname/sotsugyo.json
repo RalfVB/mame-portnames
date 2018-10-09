@@ -1,20 +1,5 @@
 {
-  "romname":"sotsugyo",
   "ports":{
-    ":DSW":{
-      "labels":{
-        "1":{"player":0,"name":"Service Mode"},
-        "2":{"player":0,"name":"Flip Screen"},
-        "1c":{"player":0,"name":"Coin B"},
-        "e0":{"player":0,"name":"Coin A"},
-        "100":{"player":0,"name":"Unused"},
-        "200":{"player":0,"name":"Demo Sounds"},
-        "c00":{"player":0,"name":"Lives"},
-        "3000":{"player":0,"name":"Difficulty"},
-        "4000":{"player":0,"name":"Free Play"},
-        "8000":{"player":0,"name":"Freeze"}
-      }
-    },
     ":INPUTS":{
       "labels":{
         "1":{"player":0,"name":"P1 Up"},
@@ -33,13 +18,6 @@
         "2000":{"player":1,"name":"P2 Button 2"},
         "4000":{"player":1,"name":"P2 Button 3"},
         "8000":{"player":0,"name":"2 Players Start"}
-      }
-    },
-    ":SYSTEM":{
-      "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "2":{"player":0,"name":"Coin 2"},
-        "4":{"player":0,"name":"Service 1"}
       }
     }
   }

@@ -1,12 +1,11 @@
 {
-  "romname":"sokyugrt",
   "ports":{
     ":PORTA":{
       "labels":{
         "1":{"player":0,"name":"P1 Shot"},
         "2":{"player":0,"name":"P1 Bomb"},
         "4":{"player":0,"name":"P1 Change"},
-        "8":{"player":0,"name":"P1 (n/a)"}
+        "8":{"player":0,"name":"-"}
       }
     },
     ":PORTB":{
@@ -14,19 +13,19 @@
         "1":{"player":1,"name":"P2 Shot"},
         "2":{"player":1,"name":"P2 Bomb"},
         "4":{"player":1,"name":"P2 Change"},
-        "8":{"player":1,"name":"P2 (n/a)"}
+        "8":{"player":1,"name":"-"}
       }
     },
     ":PORTE":{
       "labels":{
-        "1":{"player":2,"name":"P3 Button 1 (n/a)"},
-        "2":{"player":2,"name":"P3 Button 2 (n/a)"},
-        "4":{"player":2,"name":"P3 Button 3 (n/a)"},
-        "8":{"player":2,"name":"P3 Start (n/a)"},
-        "10":{"player":2,"name":"P3 Down (n/a)"},
-        "20":{"player":2,"name":"P3 Up (n/a)"},
-        "40":{"player":2,"name":"P3 Right (n/a)"},
-        "80":{"player":2,"name":"P3 Left (n/a)"}
+        "1":{"player":2,"name":"-"},
+        "2":{"player":2,"name":"-"},
+        "4":{"player":2,"name":"-"},
+        "8":{"player":2,"name":"-"},
+        "10":{"player":2,"name":"-"},
+        "20":{"player":2,"name":"-"},
+        "40":{"player":2,"name":"-"},
+        "80":{"player":2,"name":"-"}
       }
     },
     ":PORTC":{
@@ -37,14 +36,14 @@
     },
     ":PORTF":{
       "labels":{
-        "1":{"player":3,"name":"P4 Button 1 (n/a)"},
-        "2":{"player":3,"name":"P4 Button 2 (n/a)"},
-        "4":{"player":3,"name":"P4 Button 3 (n/a)"},
-        "8":{"player":3,"name":"P4 Start (n/a)"},
-        "10":{"player":3,"name":"P4 Down (n/a)"},
-        "20":{"player":3,"name":"P4 Up (n/a)"},
-        "40":{"player":3,"name":"P4 Right (n/a)"},
-        "80":{"player":3,"name":"P4 Left (n/a)"}
+        "1":{"player":3,"name":"-"},
+        "2":{"player":3,"name":"-"},
+        "4":{"player":3,"name":"-"},
+        "8":{"player":3,"name":"-"},
+        "10":{"player":3,"name":"-"},
+        "20":{"player":3,"name":"-"},
+        "40":{"player":3,"name":"-"},
+        "80":{"player":3,"name":"-"}
       }
     }
   }

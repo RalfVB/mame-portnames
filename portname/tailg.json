@@ -1,5 +1,4 @@
 {
-  "romname":"tailg",
   "ports":{
     ":ANALOGX":{
       "labels":{

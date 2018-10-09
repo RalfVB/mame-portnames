@@ -1,5 +1,4 @@
 {
-  "romname":"spacelnc",
   "ports":{
     ":IN0":{
       "labels":{

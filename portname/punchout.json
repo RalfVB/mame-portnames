@@ -1,23 +1,5 @@
 {
-  "romname":"punchout",
   "ports":{
-    ":DSW1":{
-      "labels":{
-        "f":{"player":0,"name":"Coinage"},
-        "40":{"player":0,"name":"Unused"},
-        "80":{"player":0,"name":"Copyright"}
-      }
-    },
-    ":DSW2":{
-      "labels":{
-        "3":{"player":0,"name":"Difficulty"},
-        "c":{"player":0,"name":"Time"},
-        "10":{"player":0,"name":"Demo Sounds"},
-        "20":{"player":0,"name":"Rematch At A Discount"},
-        "40":{"player":0,"name":"Unused"},
-        "80":{"player":0,"name":"Service Mode"}
-      }
-    },
     ":IN0":{
       "labels":{
         "1":{"player":0,"name":"P1 Button 1"},
@@ -30,9 +12,7 @@
         "1":{"player":0,"name":"P1 Right"},
         "2":{"player":0,"name":"P1 Left"},
         "4":{"player":0,"name":"P1 Up"},
-        "8":{"player":0,"name":"P1 Down"},
-        "40":{"player":0,"name":"Coin 2"},
-        "80":{"player":0,"name":"Coin 1"}
+        "8":{"player":0,"name":"P1 Down"}
       }
     }
   }

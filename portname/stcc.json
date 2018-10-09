@@ -1,19 +1,18 @@
 {
-  "romname":"stcc",
   "ports":{
     ":ANA0":{
       "labels":{
-        "ff":{"player":0,"name":"Steering Wheel"}
+        "ff":{"player":0,"name":"Steering"}
       }
     },
     ":ANA1":{
       "labels":{
-        "ff":{"player":0,"name":"Gas Pedal"}
+        "ff":{"player":0,"name":"Accelerate"}
       }
     },
     ":ANA2":{
       "labels":{
-        "ff":{"player":0,"name":"P1 Brake Pedal"}
+        "ff":{"player":0,"name":"Brake"}
       }
     },
     ":IN1":{

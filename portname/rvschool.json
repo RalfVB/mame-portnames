@@ -1,12 +1,5 @@
 {
-  "romname":"rvschool",
   "ports":{
-    ":DSW":{
-      "labels":{
-        "2":{"player":0,"name":"Service Mode"},
-        "8":{"player":0,"name":"Unknown"}
-      }
-    },
     ":P1":{
       "labels":{
         "1":{"player":0,"name":"P1 Up"},
@@ -43,19 +36,10 @@
         "40":{"player":1,"name":"P2 Button 6"}
       }
     },
-    ":SERVICE":{
-      "labels":{
-        "1":{"player":0,"name":"Service Mode"},
-        "2":{"player":0,"name":"Service 1"},
-        "4":{"player":0,"name":"Tilt"}
-      }
-    },
     ":SYSTEM":{
       "labels":{
-        "1":{"player":0,"name":"1 Player Start"},
-        "2":{"player":0,"name":"2 Players Start"},
-        "10":{"player":0,"name":"Coin 1"},
-        "20":{"player":0,"name":"Coin 2"}
+        "1":{"player":0,"name":"P1 Start"},
+        "2":{"player":0,"name":"P2 Start"}
       }
     }
   }

@@ -1,19 +1,9 @@
 {
-  "romname":"sfex2p",
   "ports":{
-    ":SERVICE":{
-      "labels":{
-        "1":{"player":0,"name":"Service Mode"},
-        "2":{"player":0,"name":"Service 1"},
-        "4":{"player":0,"name":"Tilt"}
-      }
-    },
     ":SYSTEM":{
       "labels":{
         "1":{"player":0,"name":"1 Player Start"},
-        "2":{"player":0,"name":"2 Players Start"},
-        "10":{"player":0,"name":"Coin 1"},
-        "20":{"player":0,"name":"Coin 2"}
+        "2":{"player":0,"name":"2 Players Start"}
       }
     },
     ":P1":{
@@ -50,12 +40,6 @@
         "10":{"player":1,"name":"P2 Button 4"},
         "20":{"player":1,"name":"P2 Button 5"},
         "40":{"player":1,"name":"P2 Button 6"}
-      }
-    },
-    ":DSW":{
-      "labels":{
-        "2":{"player":0,"name":"Service Mode"},
-        "8":{"player":0,"name":"Unknown"}
       }
     }
   }

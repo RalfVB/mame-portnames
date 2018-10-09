@@ -1,12 +1,11 @@
 {
-  "romname":"salmndr2",
   "ports":{
     ":INPUTS":{
       "labels":{
-        "100000":{"player":1,"name":"P2 Button 1"},
+        "100000":{"player":1,"name":"P2 Shot"},
         "200000":{"player":1,"name":"P2 Button 2"},
         "400000":{"player":1,"name":"P2 Button 3"},
-        "10000000":{"player":0,"name":"P1 Button 1"},
+        "10000000":{"player":0,"name":"P1 Shot"},
         "20000000":{"player":0,"name":"P1 Button 2"},
         "40000000":{"player":0,"name":"P1 Button 3"}
       }

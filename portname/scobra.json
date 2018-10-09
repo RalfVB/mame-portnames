@@ -1,5 +1,4 @@
 {
-  "romname":"scobra",
   "ports":{
     ":IN0":{
       "labels":{

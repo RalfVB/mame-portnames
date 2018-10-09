@@ -1,5 +1,4 @@
 {
-  "romname":"skullxbo",
   "ports":{
     ":FF5800":{
       "labels":{

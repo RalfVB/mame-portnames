@@ -1,5 +1,4 @@
 {
-  "romname":"scramble",
   "ports":{
     ":IN0":{
       "labels":{

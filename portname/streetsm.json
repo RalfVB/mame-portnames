@@ -1,34 +1,15 @@
 {
-  "romname":"streetsm",
   "ports":{
-    ":DSW1":{
-      "labels":{
-        "300":{"player":0,"name":"Lives"},
-        "c00":{"player":0,"name":"Coin A & B"},
-        "2000":{"player":0,"name":"Bonus Occurrence"},
-        "4000":{"player":0,"name":"Unknown"},
-        "8000":{"player":0,"name":"Flip Screen"}
-      }
-    },
-    ":DSW2":{
-      "labels":{
-        "100":{"player":0,"name":"Service Mode"},
-        "200":{"player":0,"name":"Allow Continue"},
-        "c00":{"player":0,"name":"Bonus Life"},
-        "3000":{"player":0,"name":"Game Mode"},
-        "c000":{"player":0,"name":"Difficulty"}
-      }
-    },
     ":P1":{
       "labels":{
         "1":{"player":0,"name":"P1 Up"},
         "2":{"player":0,"name":"P1 Down"},
         "4":{"player":0,"name":"P1 Left"},
         "8":{"player":0,"name":"P1 Right"},
-        "10":{"player":0,"name":"P1 Button 1"},
-        "20":{"player":0,"name":"P1 Button 3"},
-        "40":{"player":0,"name":"P1 Button 2"},
-        "80":{"player":0,"name":"1 Player Start"}
+        "10":{"player":0,"name":"P1 Attack"},
+        "20":{"player":0,"name":"-"},
+        "40":{"player":0,"name":"P1 Jump"},
+        "80":{"player":0,"name":"P1 Start"}
       }
     },
     ":P2":{
@@ -37,18 +18,10 @@
         "2":{"player":1,"name":"P2 Down"},
         "4":{"player":1,"name":"P2 Left"},
         "8":{"player":1,"name":"P2 Right"},
-        "10":{"player":1,"name":"P2 Button 1"},
-        "20":{"player":1,"name":"P2 Button 3"},
-        "40":{"player":1,"name":"P2 Button 2"},
-        "80":{"player":0,"name":"2 Players Start"}
-      }
-    },
-    ":SYSTEM":{
-      "labels":{
-        "1":{"player":0,"name":"Service 1"},
-        "2":{"player":0,"name":"Service"},
-        "10":{"player":0,"name":"Coin 1"},
-        "20":{"player":0,"name":"Coin 2"}
+        "10":{"player":1,"name":"P2 Attack"},
+        "20":{"player":1,"name":"-"},
+        "40":{"player":1,"name":"P2 Jump"},
+        "80":{"player":0,"name":"P2 Start"}
       }
     }
   }

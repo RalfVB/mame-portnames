@@ -1,31 +1,9 @@
 {
-  "romname":"rotr",
   "ports":{
     ":COMMON":{
       "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "2":{"player":0,"name":"Coin 2"},
         "4":{"player":0,"name":"1 Player Start"},
-        "8":{"player":0,"name":"2 Players Start"},
-        "10":{"player":0,"name":"Service"},
-        "20":{"player":0,"name":"Tilt"}
-      }
-    },
-    ":DSW1":{
-      "labels":{
-        "1":{"player":0,"name":"Setup Disk"},
-        "2":{"player":0,"name":"Service Mode"},
-        "3c":{"player":0,"name":"Load PROG"},
-        "40":{"player":0,"name":"Reserved"},
-        "80":{"player":0,"name":"Enable Cache"}
-      }
-    },
-    ":DSW2":{
-      "labels":{
-        "1":{"player":0,"name":"Debug Screen"},
-        "e":{"player":0,"name":"FPGA File Source"},
-        "70":{"player":0,"name":"Clock speed"},
-        "80":{"player":0,"name":"SCSI bus terminated"}
+        "8":{"player":0,"name":"2 Players Start"}
       }
     },
     ":EXTRA":{

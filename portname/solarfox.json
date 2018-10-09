@@ -1,5 +1,4 @@
 {
-  "romname":"solarfox",
   "ports":{
     ":ssio:IP0":{
       "labels":{

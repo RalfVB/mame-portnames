@@ -1,5 +1,4 @@
 {
-  "romname":"revx",
   "ports":{
     ":IN0":{
       "labels":{

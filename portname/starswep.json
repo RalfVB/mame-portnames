@@ -1,5 +1,4 @@
 {
-  "romname":"starswep",
   "ports":{
     ":ADC0":{
       "labels":{
@@ -75,18 +74,6 @@
         "20":{"player":3,"name":"P4 Button 2"},
         "40":{"player":3,"name":"P4 Button 3"},
         "80":{"player":0,"name":"4 Players Start"}
-      }
-    },
-    ":SWITCH":{
-      "labels":{
-        "1":{"player":0,"name":"DIP2 (Freeze)"},
-        "2":{"player":0,"name":"DIP1 (Test)"},
-        "4":{"player":0,"name":"Coin 4"},
-        "8":{"player":0,"name":"Coin 3"},
-        "10":{"player":0,"name":"Coin 2"},
-        "20":{"player":0,"name":"Coin 1"},
-        "40":{"player":0,"name":"Service Mode"},
-        "80":{"player":0,"name":"Service 1"}
       }
     }
   }

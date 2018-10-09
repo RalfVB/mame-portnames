@@ -1,24 +1,5 @@
 {
-  "romname":"sonson",
   "ports":{
-    ":DSW1":{
-      "labels":{
-        "f":{"player":0,"name":"Coinage"},
-        "10":{"player":0,"name":"Coinage affects"},
-        "20":{"player":0,"name":"Demo Sounds"},
-        "40":{"player":0,"name":"Service Mode"},
-        "80":{"player":0,"name":"Flip Screen"}
-      }
-    },
-    ":DSW2":{
-      "labels":{
-        "3":{"player":0,"name":"Lives"},
-        "4":{"player":0,"name":"2 Players Game"},
-        "18":{"player":0,"name":"Bonus Life"},
-        "60":{"player":0,"name":"Difficulty"},
-        "80":{"player":0,"name":"Freeze"}
-      }
-    },
     ":P1":{
       "labels":{
         "1":{"player":0,"name":"P1 Button 1"},
@@ -40,9 +21,7 @@
     ":SYSTEM":{
       "labels":{
         "1":{"player":0,"name":"1 Player Start"},
-        "2":{"player":0,"name":"2 Players Start"},
-        "10":{"player":0,"name":"Coin 1"},
-        "20":{"player":0,"name":"Coin 2"}
+        "2":{"player":0,"name":"2 Players Start"}
       }
     }
   }

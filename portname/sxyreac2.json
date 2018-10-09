@@ -1,25 +1,5 @@
 {
-  "romname":"sxyreac2",
   "ports":{
-    ":DSW1":{
-      "labels":{
-        "7":{"player":0,"name":"Coin A"},
-        "20":{"player":0,"name":"Unused"},
-        "40":{"player":0,"name":"Credits To Play"},
-        "80":{"player":0,"name":"Buy Balls With Credits"}
-      }
-    },
-    ":DSW2":{
-      "labels":{
-        "1":{"player":0,"name":"Flip Screen"},
-        "2":{"player":0,"name":"Demo Sounds"},
-        "c":{"player":0,"name":"Difficulty"},
-        "10":{"player":0,"name":"Controls"},
-        "20":{"player":0,"name":"Free Play"},
-        "40":{"player":0,"name":"Service Mode"},
-        "80":{"player":0,"name":"Unused"}
-      }
-    },
     ":P1":{
       "labels":{
         "1":{"player":0,"name":"1 Player Start"},
@@ -47,20 +27,6 @@
     ":PADDLE":{
       "labels":{
         "ff":{"player":0,"name":"Paddle"}
-      }
-    },
-    ":SERVICE":{
-      "labels":{
-        "1":{"player":0,"name":"Service 2"}
-      }
-    },
-    ":SYSTEM":{
-      "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "2":{"player":0,"name":"Coin 2"},
-        "4":{"player":0,"name":"Service 1"},
-        "8":{"player":0,"name":"Tilt"},
-        "10":{"player":0,"name":"Test"}
       }
     }
   }

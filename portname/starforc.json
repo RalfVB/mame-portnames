@@ -1,5 +1,4 @@
 {
-  "romname":"starforc",
   "ports":{
     ":P1":{
       "labels":{
@@ -7,7 +6,7 @@
         "2":{"player":0,"name":"P1 Left"},
         "4":{"player":0,"name":"P1 Up"},
         "8":{"player":0,"name":"P1 Down"},
-        "10":{"player":0,"name":"P1 Fire"}
+        "10":{"player":0,"name":"P1 Shot"}
       }
     },
     ":P2":{
@@ -16,7 +15,7 @@
         "2":{"player":1,"name":"P2 Left"},
         "4":{"player":1,"name":"P2 Up"},
         "8":{"player":1,"name":"P2 Down"},
-        "10":{"player":1,"name":"P2 Fire"}
+        "10":{"player":1,"name":"P2 Shot"}
       }
     }
   }

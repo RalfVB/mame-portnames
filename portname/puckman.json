@@ -1,5 +1,4 @@
 {
-  "romname":"puckman",
   "ports":{
     ":IN0":{
       "labels":{

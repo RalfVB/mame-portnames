@@ -1,5 +1,4 @@
 {
-  "romname":"tunhunt",
   "ports":{
     ":IN0":{
       "labels":{

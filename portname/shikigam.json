@@ -1,18 +1,5 @@
 {
-  "romname":"shikigam",
   "ports":{
-    ":DSW":{
-      "labels":{
-        "2":{"player":0,"name":"Service Mode"},
-        "4":{"player":0,"name":"Unknown"},
-        "8":{"player":0,"name":"Test Mode"}
-      }
-    },
-    ":JP1":{
-      "labels":{
-        "1":{"player":0,"name":"Bios Flash"}
-      }
-    },
     ":P1":{
       "labels":{
         "1":{"player":0,"name":"P1 Up"},

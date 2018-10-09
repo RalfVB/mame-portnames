@@ -1,5 +1,4 @@
 {
-  "romname":"tron",
   "ports":{
     ":ssio:IP0":{
       "labels":{
@@ -8,7 +7,7 @@
     },
     ":ssio:IP1":{
       "labels":{
-        "ff":{"player":0,"name":"P1 Aim Left / Aim Right"}
+        "ff":{"player":0,"name":"P1 Aim Horizontal"}
       }
     },
     ":ssio:IP2":{
@@ -30,7 +29,7 @@
     },
     ":ssio:IP4":{
       "labels":{
-        "ff":{"player":1,"name":"P2 Aim Right /  Aim Left"}
+        "ff":{"player":1,"name":"P2 Aim Horizontal"}
       }
     }
   }

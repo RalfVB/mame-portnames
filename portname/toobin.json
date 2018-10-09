@@ -1,5 +1,4 @@
 {
-  "romname":"toobin",
   "ports":{
     ":FF8800":{
       "labels":{

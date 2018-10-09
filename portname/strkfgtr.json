@@ -1,5 +1,4 @@
 {
-  "romname":"strkfgtr",
   "ports":{
     ":ADC.3":{
       "labels":{
@@ -14,21 +13,6 @@
     ":ADC.5":{
       "labels":{
         "ff":{"player":0,"name":"AD Stick X"}
-      }
-    },
-    ":COINAGE":{
-      "labels":{
-        "f":{"player":0,"name":"Coin A"},
-        "f0":{"player":0,"name":"Coin B"}
-      }
-    },
-    ":DSW":{
-      "labels":{
-        "3":{"player":0,"name":"Difficulty"},
-        "4":{"player":0,"name":"Demo Sounds"},
-        "8":{"player":0,"name":"Allow Continue"},
-        "30":{"player":0,"name":"Credits"},
-        "c0":{"player":0,"name":"Cabinet"}
       }
     },
     ":GENERAL":{

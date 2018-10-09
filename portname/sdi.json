@@ -1,26 +1,9 @@
 {
-  "romname":"sdi",
   "ports":{
-    ":ANALOGX1":{
-      "labels":{
-        "ff":{"player":0,"name":"P1 Aim Left / Aim Right"}
-      }
-    },
-    ":ANALOGX2":{
-      "labels":{
-        "ff":{"player":1,"name":"P2 Aim Right /  Aim Left"}
-      }
-    },
-    ":ANALOGY1":{
-      "labels":{
-        "ff":{"player":0,"name":"P1 Aim Up / Aim Down"}
-      }
-    },
-    ":ANALOGY2":{
-      "labels":{
-        "ff":{"player":1,"name":"P2 Aim Down /  Aim Up"}
-      }
-    },
+    ":ANALOGX1":{"labels":{"ff":{"player":0,"name":"P1 Aim Horizontal"}}},
+    ":ANALOGX2":{"labels":{"ff":{"player":1,"name":"P2 Aim Horizontal"}}},
+    ":ANALOGY1":{"labels":{"ff":{"player":0,"name":"P1 Aim Vertical"}}},
+    ":ANALOGY2":{"labels":{"ff":{"player":1,"name":"P2 Aim Vertical"}}},
     ":SERVICE":{
       "labels":{
         "40":{"player":0,"name":"P1 Fire"},

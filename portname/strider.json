@@ -1,14 +1,13 @@
 {
-  "romname":"strider",
   "ports":{
     ":IN1":{
       "labels":{
-        "10":{"player":0,"name":"P1 Button 1"},
-        "20":{"player":0,"name":"P1 Button 2"},
-        "40":{"player":0,"name":"P1 Button 3"},
-        "1000":{"player":1,"name":"P2 Button 1"},
-        "2000":{"player":1,"name":"P2 Button 2"},
-        "4000":{"player":1,"name":"P2 Button 3"}
+        "10":{"player":0,"name":"P1 Attack"},
+        "20":{"player":0,"name":"P1 Jump"},
+        "40":{"player":0,"name":"-"},
+        "1000":{"player":1,"name":"P2 Attack"},
+        "2000":{"player":1,"name":"P2 Jump"},
+        "4000":{"player":1,"name":"-"}
       }
     }
   }

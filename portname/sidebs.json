@@ -1,49 +1,24 @@
 {
-  "romname":"sidebs",
   "ports":{
     ":AN.0":{
       "labels":{
-        "ff":{"player":0,"name":"Steering Wheel"}
+        "ff":{"player":0,"name":"Steering"}
       }
     },
     ":AN.1":{
       "labels":{
-        "ff":{"player":0,"name":"Gas Pedal"}
+        "ff":{"player":0,"name":"Accelerate"}
       }
     },
     ":AN.2":{
       "labels":{
-        "ff":{"player":0,"name":"Brake Pedal"}
+        "ff":{"player":0,"name":"Brake"}
       }
     },
     ":BUTTONS":{
       "labels":{
         "1":{"player":0,"name":"Shift Up"},
         "2":{"player":0,"name":"Shift Down"}
-      }
-    },
-    ":COINS":{
-      "labels":{
-        "2":{"player":0,"name":"Dev Skip RAM Test"},
-        "10":{"player":0,"name":"Coin 1"},
-        "20":{"player":0,"name":"Coin 2"}
-      }
-    },
-    ":SERVICE":{
-      "labels":{
-        "8":{"player":0,"name":"Service Mode"}
-      }
-    },
-    ":START":{
-      "labels":{
-        "1":{"player":0,"name":"Tilt"},
-        "2":{"player":0,"name":"Service 1"}
-      }
-    },
-    ":UNUSED":{
-      "labels":{
-        "1":{"player":0,"name":"View Switch"},
-        "40":{"player":0,"name":"Dev Debug"}
       }
     }
   }

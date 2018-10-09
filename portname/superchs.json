@@ -1,23 +1,8 @@
 {
-  "romname":"superchs",
   "ports":{
     ":ACCEL":{
       "labels":{
-        "ff":{"player":0,"name":"Gas Pedal"}
-      }
-    },
-    ":COINS":{
-      "labels":{
-        "8":{"player":0,"name":"Freeze Screen"},
-        "10":{"player":0,"name":"Service Mode"},
-        "20":{"player":0,"name":"Service 1"},
-        "40":{"player":0,"name":"Coin 2"},
-        "80":{"player":0,"name":"Coin 1"}
-      }
-    },
-    ":SOUND":{
-      "labels":{
-        "ff":{"player":0,"name":"PCB - Sound Volume"}
+        "ff":{"player":0,"name":"Accelerate"}
       }
     },
     ":SWITCHES":{
@@ -26,12 +11,12 @@
         "10":{"player":0,"name":"Nitro"},
         "20":{"player":0,"name":"Shifter"},
         "40":{"player":0,"name":"Brake Switch"},
-        "80":{"player":0,"name":"1 Player Start"}
+        "80":{"player":0,"name":"Start"}
       }
     },
     ":WHEEL":{
       "labels":{
-        "ff":{"player":0,"name":"Steering Wheel"}
+        "ff":{"player":0,"name":"Steering"}
       }
     }
   }

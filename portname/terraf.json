@@ -1,18 +1,17 @@
 {
-  "romname":"terraf",
   "ports":{
     ":P1":{
       "labels":{
-        "10":{"player":0,"name":"P1 Fire"},
+        "10":{"player":0,"name":"P1 Shot"},
         "20":{"player":0,"name":"P1 Bomb"},
-        "40":{"player":0,"name":"P1 Button 3"}
+        "40":{"player":0,"name":"-"}
       }
     },
     ":P2":{
       "labels":{
-        "10":{"player":1,"name":"P2 Fire"},
+        "10":{"player":1,"name":"P2 Shot"},
         "20":{"player":1,"name":"P2 Bomb"},
-        "40":{"player":1,"name":"P2 Button 3"}
+        "40":{"player":1,"name":"-"}
       }
     }
   }

@@ -1,19 +1,5 @@
 {
-  "romname":"rumblef",
   "ports":{
-    ":COINS":{
-      "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "2":{"player":0,"name":"Coin 2"}
-      }
-    },
-    ":MAMEDEBUG":{
-      "labels":{
-        "1":{"player":0,"name":"Bilinear Filtering"},
-        "2":{"player":0,"name":"Disable Render Calls"},
-        "c":{"player":0,"name":"Master CPU Clock Rate (Cheat)"}
-      }
-    },
     ":P1.0":{
       "labels":{
         "1":{"player":0,"name":"P1 Button 3"},
@@ -30,9 +16,7 @@
       "labels":{
         "1":{"player":0,"name":"P1 Button 6"},
         "2":{"player":0,"name":"P1 Button 5"},
-        "4":{"player":0,"name":"P1 Button 4"},
-        "20":{"player":0,"name":"Service 1"},
-        "40":{"player":0,"name":"Service Mode"}
+        "4":{"player":0,"name":"P1 Button 4"}
       }
     },
     ":P2.0":{
@@ -51,8 +35,7 @@
       "labels":{
         "1":{"player":1,"name":"P2 Button 6"},
         "2":{"player":1,"name":"P2 Button 5"},
-        "4":{"player":1,"name":"P2 Button 4"},
-        "20":{"player":0,"name":"Service 2"}
+        "4":{"player":1,"name":"P2 Button 4"}
       }
     }
   }

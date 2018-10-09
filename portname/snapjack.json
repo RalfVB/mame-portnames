@@ -1,5 +1,4 @@
 {
-  "romname":"snapjack",
   "ports":{
     ":IN0":{
       "labels":{

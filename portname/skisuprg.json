@@ -1,5 +1,4 @@
 {
-  "romname":"skisuprg",
   "ports":{
     ":ANA0":{
       "labels":{
@@ -11,17 +10,8 @@
         "ff":{"player":0,"name":"AD Stick X"}
       }
     },
-    ":DSW":{
-      "labels":{
-        "80":{"player":0,"name":"Unknown"}
-      }
-    },
     ":IN0":{
       "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "2":{"player":0,"name":"Coin 2"},
-        "4":{"player":0,"name":"Service Mode"},
-        "8":{"player":0,"name":"Service 1"},
         "10":{"player":0,"name":"Select 3 Button"},
         "20":{"player":0,"name":"Zoom In Button"},
         "40":{"player":0,"name":"Select 1 Button"},

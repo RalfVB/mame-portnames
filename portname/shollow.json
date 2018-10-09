@@ -1,5 +1,4 @@
 {
-  "romname":"shollow",
   "ports":{
     ":ssio:IP1":{
       "labels":{

@@ -1,5 +1,4 @@
 {
-  "romname":"sarge",
   "ports":{
     ":MONO.IP1":{
       "labels":{

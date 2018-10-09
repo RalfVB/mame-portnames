@@ -1,5 +1,4 @@
 {
-  "romname":"stargate",
   "ports":{
     ":IN0":{
       "labels":{

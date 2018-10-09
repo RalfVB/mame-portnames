@@ -1,5 +1,4 @@
 {
-  "romname":"rescue",
   "ports":{
     ":IN0":{
       "labels":{

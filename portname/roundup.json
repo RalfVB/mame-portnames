@@ -1,5 +1,4 @@
 {
-  "romname":"roundup",
   "ports":{
     ":IN0":{
       "labels":{

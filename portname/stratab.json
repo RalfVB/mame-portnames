@@ -1,5 +1,4 @@
 {
-  "romname":"stratab",
   "ports":{
     ":60":{
       "labels":{

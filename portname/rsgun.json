@@ -1,5 +1,4 @@
 {
-  "romname":"rsgun",
   "ports":{
     ":PORTA":{
       "labels":{

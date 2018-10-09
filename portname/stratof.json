@@ -1,39 +1,17 @@
 {
-  "romname":"stratof",
   "ports":{
-    ":DSW":{
-      "labels":{
-        "f":{"player":0,"name":"Coin B"},
-        "f0":{"player":0,"name":"Coin A"},
-        "300":{"player":0,"name":"Bonus Life"},
-        "c00":{"player":0,"name":"Lives"},
-        "3000":{"player":0,"name":"Difficulty"},
-        "4000":{"player":0,"name":"Unused"},
-        "8000":{"player":0,"name":"Demo Sounds"}
-      }
-    },
     ":P1_P2":{
       "labels":{
-        "1":{"player":0,"name":"P1 Left"},
-        "2":{"player":0,"name":"P1 Right"},
-        "4":{"player":0,"name":"P1 Down"},
-        "8":{"player":0,"name":"P1 Up"},
-        "10":{"player":0,"name":"P1 Button 1"},
-        "20":{"player":0,"name":"P1 Button 2"},
-        "100":{"player":1,"name":"P2 Left"},
-        "200":{"player":1,"name":"P2 Right"},
-        "400":{"player":1,"name":"P2 Down"},
-        "800":{"player":1,"name":"P2 Up"},
-        "1000":{"player":1,"name":"P2 Button 1"},
-        "2000":{"player":1,"name":"P2 Button 2"}
+        "10":{"player":0,"name":"P1 Shot"},
+        "20":{"player":0,"name":"P1 Rotate"},
+        "1000":{"player":1,"name":"P2 Shot"},
+        "2000":{"player":1,"name":"P2 Rotate"}
       }
     },
     ":SYSTEM":{
       "labels":{
-        "1":{"player":0,"name":"1 Player Start"},
-        "2":{"player":0,"name":"2 Players Start"},
-        "40":{"player":0,"name":"Coin 1"},
-        "80":{"player":0,"name":"Coin 2"}
+        "1":{"player":0,"name":"P1 Start"},
+        "2":{"player":0,"name":"P2 Start"}
       }
     }
   }

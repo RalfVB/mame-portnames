@@ -1,5 +1,4 @@
 {
-  "romname":"stunrun",
   "ports":{
     ":mainpcb:8BADC.0":{
       "labels":{

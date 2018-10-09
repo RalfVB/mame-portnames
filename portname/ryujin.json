@@ -1,12 +1,11 @@
 {
-  "romname":"ryujin",
   "ports":{
     ":IN0":{
       "labels":{
-        "1":{"player":0,"name":"P1 Fire"},
+        "1":{"player":0,"name":"P1 Shot"},
         "2":{"player":0,"name":"P1 Button 2"},
         "4":{"player":0,"name":"P1 Button 3"},
-        "8":{"player":1,"name":"P2 Fire"},
+        "8":{"player":1,"name":"P2 Shot"},
         "10":{"player":1,"name":"P2 Button 2"},
         "20":{"player":1,"name":"P2 Button 3"}
       }

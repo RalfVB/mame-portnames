@@ -1,5 +1,4 @@
 {
-  "romname":"stocker",
   "ports":{
     ":AN3":{
       "labels":{

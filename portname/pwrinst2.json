@@ -1,5 +1,4 @@
 {
-  "romname":"pwrinst2",
   "ports":{
     ":IN0":{
       "labels":{

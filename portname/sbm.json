@@ -1,5 +1,4 @@
 {
-  "romname":"sbm",
   "ports":{
     ":JOY":{
       "labels":{

@@ -1,5 +1,4 @@
 {
-  "romname":"spacefb",
   "ports":{
     ":P1":{
       "labels":{

@@ -1,5 +1,4 @@
 {
-  "romname":"robotron",
   "ports":{
     ":IN0":{
       "labels":{

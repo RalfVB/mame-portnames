@@ -1,20 +1,19 @@
 {
-  "romname":"shienryu",
   "ports":{
     ":PORTA":{
       "labels":{
-        "1":{"player":0,"name":"P1 Fire"},
+        "1":{"player":0,"name":"P1 Shot"},
         "2":{"player":0,"name":"P1 Bomb"},
-        "4":{"player":0,"name":"P1 ..."},
-        "8":{"player":0,"name":"P1 ..."}
+        "4":{"player":0,"name":"-"},
+        "8":{"player":0,"name":"-"}
       }
     },
     ":PORTB":{
       "labels":{
-        "1":{"player":1,"name":"P2 Fire"},
+        "1":{"player":1,"name":"P2 Shot"},
         "2":{"player":1,"name":"P2 Bomb"},
-        "4":{"player":1,"name":"P2 ..."},
-        "8":{"player":1,"name":"P2 ..."}
+        "4":{"player":1,"name":"-"},
+        "8":{"player":1,"name":"-"}
       }
     }
   }

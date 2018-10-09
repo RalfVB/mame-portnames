@@ -1,5 +1,4 @@
 {
-  "romname":"starwars",
   "ports":{
     ":IN0":{
       "labels":{

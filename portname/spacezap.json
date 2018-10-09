@@ -1,5 +1,4 @@
 {
-  "romname":"spacezap",
   "ports":{
     ":P2HANDLE":{
       "labels":{

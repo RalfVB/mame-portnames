@@ -1,5 +1,4 @@
 {
-  "romname":"sf",
   "ports":{
     ":IN0":{
       "labels":{

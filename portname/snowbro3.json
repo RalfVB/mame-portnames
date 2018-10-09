@@ -1,14 +1,8 @@
 {
-  "romname":"snowbro3",
   "ports":{
     ":DSW1":{
       "labels":{
-        "1":{"player":0,"name":"Unknown"},
-        "2":{"player":0,"name":"Flip Screen"},
-        "4":{"player":0,"name":"Service Mode"},
-        "8":{"player":0,"name":"Demo Sounds"},
-        "30":{"player":0,"name":"Coin A"},
-        "c0":{"player":0,"name":"Coin B"},
+
         "100":{"player":0,"name":"P1 Up"},
         "200":{"player":0,"name":"P1 Down"},
         "400":{"player":0,"name":"P1 Left"},
@@ -20,11 +14,6 @@
     },
     ":DSW2":{
       "labels":{
-        "3":{"player":0,"name":"Difficulty"},
-        "c":{"player":0,"name":"Bonus Life"},
-        "30":{"player":0,"name":"Lives"},
-        "40":{"player":0,"name":"Invulnerability"},
-        "80":{"player":0,"name":"Allow Continue"},
         "100":{"player":1,"name":"P2 Up"},
         "200":{"player":1,"name":"P2 Down"},
         "400":{"player":1,"name":"P2 Left"},
@@ -37,11 +26,7 @@
     ":SYSTEM":{
       "labels":{
         "100":{"player":0,"name":"1 Player Start"},
-        "200":{"player":0,"name":"2 Players Start"},
-        "400":{"player":0,"name":"Coin 1"},
-        "800":{"player":0,"name":"Coin 2"},
-        "2000":{"player":0,"name":"Tilt"},
-        "4000":{"player":0,"name":"Coin 3"}
+        "200":{"player":0,"name":"2 Players Start"}
       }
     }
   }

@@ -1,5 +1,4 @@
 {
-  "romname":"survarts",
   "ports":{
     ":ADD_BUTTONS":{
       "labels":{
@@ -9,12 +8,6 @@
         "10":{"player":1,"name":"P2 Button 4"},
         "20":{"player":1,"name":"P2 Button 5"},
         "40":{"player":1,"name":"P2 Button 6"}
-      }
-    },
-    ":DSW1":{
-      "labels":{
-        "f":{"player":0,"name":"Coin A"},
-        "f0":{"player":0,"name":"Coin B"}
       }
     },
     ":DSW2":{
@@ -49,15 +42,6 @@
         "20":{"player":1,"name":"P2 Left"},
         "40":{"player":1,"name":"P2 Down"},
         "80":{"player":1,"name":"P2 Up"}
-      }
-    },
-    ":SYSTEM":{
-      "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "2":{"player":0,"name":"Coin 2"},
-        "4":{"player":0,"name":"Service 1"},
-        "8":{"player":0,"name":"Tilt"},
-        "10":{"player":0,"name":"Test"}
       }
     }
   }

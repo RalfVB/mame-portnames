@@ -1,5 +1,4 @@
 {
-  "romname":"roadblst",
   "ports":{
     ":F60000":{
       "labels":{

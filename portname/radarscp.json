@@ -1,5 +1,4 @@
 {
-  "romname":"radarscp",
   "ports":{
     ":IN0":{
       "labels":{

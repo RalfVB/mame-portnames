@@ -1,28 +1,27 @@
 {
-  "romname":"sftm",
   "ports":{
     ":P1":{
       "labels":{
-        "40000":{"player":0,"name":"P1 LP (Jab Punch)"},
-        "80000":{"player":0,"name":"P1 MP (Strong Punch)"}
+        "40000":{"player":0,"name":"P1 LP (Jab)"},
+        "80000":{"player":0,"name":"P1 MP (Strong)"}
       }
     },
     ":P2":{
       "labels":{
-        "40000":{"player":1,"name":"P2 LP (Jab Punch)"},
-        "80000":{"player":1,"name":"P2 MP (Strong Punch)"}
+        "40000":{"player":1,"name":"P2 LP (Jab)"},
+        "80000":{"player":1,"name":"P2 MP (Strong)"}
       }
     },
     ":P3":{
       "labels":{
-        "10000":{"player":0,"name":"P1 HP (Fierce Punch)"},
-        "20000":{"player":1,"name":"P2 HP (Fierce Punch)"},
-        "40000":{"player":0,"name":"P1 LK (Short Kick)"},
-        "80000":{"player":1,"name":"P2 LK (Short Kick)"},
-        "100000":{"player":0,"name":"P1 MK (Forward Kick)"},
-        "200000":{"player":1,"name":"P2 MK (Forward Kick)"},
-        "400000":{"player":0,"name":"P1 HK (Roundhouse Kick)"},
-        "800000":{"player":1,"name":"P2 HK (Roundhouse Kick)"}
+        "10000":{"player":0,"name":"P1 HP (Fierce)"},
+        "20000":{"player":1,"name":"P2 HP (Fierce)"},
+        "40000":{"player":0,"name":"P1 LK (Short)"},
+        "80000":{"player":1,"name":"P2 LK (Short)"},
+        "100000":{"player":0,"name":"P1 MK (Forward)"},
+        "200000":{"player":1,"name":"P2 MK (Forward)"},
+        "400000":{"player":0,"name":"P1 HK (Roundhouse)"},
+        "800000":{"player":1,"name":"P2 HK (Roundhouse)"}
       }
     }
   }

@@ -1,5 +1,4 @@
 {
-  "romname":"tapper",
   "ports":{
     ":ssio:IP1":{
       "labels":{

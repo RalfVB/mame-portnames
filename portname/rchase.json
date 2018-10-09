@@ -1,5 +1,4 @@
 {
-  "romname":"rchase",
   "ports":{
     ":ADC.0":{
       "labels":{

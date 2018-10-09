@@ -1,36 +1,17 @@
 {
-  "romname":"swtrilgy",
   "ports":{
-    ":AN0":{
-      "labels":{
-        "ff":{"player":0,"name":"AD Stick Y"}
-      }
-    },
-    ":AN1":{
-      "labels":{
-        "ff":{"player":0,"name":"AD Stick X"}
-      }
-    },
+    ":AN0":{"labels":{"ff":{"player":0,"name":"Stick Vertical"}}},
+    ":AN1":{"labels":{"ff":{"player":0,"name":"Stick Horizontal"}}},
     ":IN0":{
       "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "2":{"player":0,"name":"Coin 2"},
-        "4":{"player":0,"name":"Service Mode"},
-        "8":{"player":0,"name":"Service 1"},
-        "10":{"player":0,"name":"1 Player Start"},
-        "20":{"player":0,"name":"2 Players Start"}
-      }
-    },
-    ":IN1":{
-      "labels":{
-        "40":{"player":0,"name":"Service Button B"},
-        "80":{"player":0,"name":"Test Button B"}
+        "10":{"player":0,"name":"P1 Start"},
+        "20":{"player":0,"name":"P2 Start"}
       }
     },
     ":IN2":{
       "labels":{
-        "1":{"player":0,"name":"P1 Button 1"},
-        "20":{"player":0,"name":"P1 Button 2"}
+        "1":{"player":0,"name":"Button 1"},
+        "20":{"player":0,"name":"Button 2"}
       }
     }
   }

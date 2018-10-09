@@ -1,23 +1,5 @@
 {
-  "romname":"solomon",
   "ports":{
-    ":DSW1":{
-      "labels":{
-        "1":{"player":0,"name":"Demo Sounds"},
-        "2":{"player":0,"name":"Cabinet"},
-        "c":{"player":0,"name":"Lives"},
-        "30":{"player":0,"name":"Coin B"},
-        "c0":{"player":0,"name":"Coin A"}
-      }
-    },
-    ":DSW2":{
-      "labels":{
-        "3":{"player":0,"name":"Difficulty"},
-        "c":{"player":0,"name":"Timer Speed"},
-        "10":{"player":0,"name":"Extra"},
-        "e0":{"player":0,"name":"Bonus Life"}
-      }
-    },
     ":P1":{
       "labels":{
         "1":{"player":0,"name":"P1 Right"},
@@ -41,9 +23,7 @@
     ":SYSTEM":{
       "labels":{
         "1":{"player":0,"name":"1 Player Start"},
-        "2":{"player":0,"name":"2 Players Start"},
-        "4":{"player":0,"name":"Coin 1"},
-        "8":{"player":0,"name":"Coin 2"}
+        "2":{"player":0,"name":"2 Players Start"}
       }
     }
   }

@@ -1,5 +1,4 @@
 {
-  "romname":"redlin2p",
   "ports":{
     ":AN0":{
       "labels":{

@@ -1,5 +1,4 @@
 {
-  "romname":"topgun",
   "ports":{
     ":IN0":{
       "labels":{

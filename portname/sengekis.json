@@ -1,5 +1,4 @@
 {
-  "romname":"sengekis",
   "ports":{
     ":400000":{
       "labels":{
@@ -7,10 +6,10 @@
         "200":{"player":0,"name":"P2 Start"},
         "100000":{"player":1,"name":"P2 Shot"},
         "200000":{"player":1,"name":"P2 Bomb"},
-        "400000":{"player":1,"name":"P2 Button 3"},
+        "400000":{"player":1,"name":"-"},
         "10000000":{"player":0,"name":"P1 Shot"},
         "20000000":{"player":0,"name":"P1 Bomb"},
-        "40000000":{"player":0,"name":"P1 Button 3"}
+        "40000000":{"player":0,"name":"-"}
       }
     }
   }

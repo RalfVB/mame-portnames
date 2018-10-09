@@ -1,12 +1,5 @@
 {
-  "romname":"tektagt",
   "ports":{
-    ":DSW":{
-      "labels":{
-        "40":{"player":0,"name":"Freeze"},
-        "80":{"player":0,"name":"Service Mode"}
-      }
-    },
     ":IN0":{
       "labels":{
         "1":{"player":0,"name":"P1 Right"},
@@ -16,7 +9,7 @@
         "10":{"player":0,"name":"P1 Button 1"},
         "20":{"player":0,"name":"P1 Button 2"},
         "40":{"player":0,"name":"P1 Button 3"},
-        "80":{"player":0,"name":"1 Player Start"},
+        "80":{"player":0,"name":"P1 Start"},
         "100":{"player":1,"name":"P2 Right"},
         "200":{"player":1,"name":"P2 Left"},
         "400":{"player":1,"name":"P2 Down"},
@@ -24,7 +17,7 @@
         "1000":{"player":1,"name":"P2 Button 1"},
         "2000":{"player":1,"name":"P2 Button 2"},
         "4000":{"player":1,"name":"P2 Button 3"},
-        "8000":{"player":0,"name":"2 Players Start"}
+        "8000":{"player":0,"name":"P2 Start"}
       }
     },
     ":IN1":{
@@ -34,11 +27,7 @@
         "8":{"player":0,"name":"P1 Button 6"},
         "20":{"player":1,"name":"P2 Button 4"},
         "40":{"player":1,"name":"P2 Button 5"},
-        "80":{"player":1,"name":"P2 Button 6"},
-        "1000":{"player":0,"name":"Coin 2"},
-        "2000":{"player":0,"name":"Coin 1"},
-        "4000":{"player":0,"name":"Service Mode"},
-        "8000":{"player":0,"name":"Service 1"}
+        "80":{"player":1,"name":"P2 Button 6"}
       }
     }
   }

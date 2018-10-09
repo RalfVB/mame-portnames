@@ -1,16 +1,15 @@
 {
-  "romname":"rtype2",
   "ports":{
     ":IN0":{
       "labels":{
-        "10":{"player":0,"name":"(N/A)"},
-        "20":{"player":0,"name":"(N/A)"},
+        "10":{"player":0,"name":"-"},
+        "20":{"player":0,"name":"-"},
         "40":{"player":0,"name":"P1 Force"},
-        "80":{"player":0,"name":"P1 Fire"},
-        "1000":{"player":1,"name":"(N/A)"},
-        "2000":{"player":1,"name":"(N/A)"},
+        "80":{"player":0,"name":"P1 Shot"},
+        "1000":{"player":1,"name":"-"},
+        "2000":{"player":1,"name":"-"},
         "4000":{"player":1,"name":"P2 Force"},
-        "8000":{"player":1,"name":"P2 Fire"}
+        "8000":{"player":1,"name":"P2 Shot"}
       }
     },
     ":IN1":{

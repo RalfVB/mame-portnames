@@ -1,25 +1,6 @@
 {
-  "romname":"snowbro2",
   "ports":{
     ":DSWA":{
-      "labels":{
-        "1":{"player":0,"name":"Continue Price"},
-        "2":{"player":0,"name":"Flip Screen"},
-        "4":{"player":0,"name":"Service Mode"},
-        "8":{"player":0,"name":"Demo Sounds"},
-        "30":{"player":0,"name":"Coin A"},
-        "c0":{"player":0,"name":"Coin B"}
-      }
-    },
-    ":DSWB":{
-      "labels":{
-        "3":{"player":0,"name":"Difficulty"},
-        "c":{"player":0,"name":"Bonus Life"},
-        "30":{"player":0,"name":"Lives"},
-        "40":{"player":0,"name":"Invulnerability (Cheat)"},
-        "80":{"player":0,"name":"Maximum Players"}
-      }
-    },
     ":IN1":{
       "labels":{
         "1":{"player":0,"name":"P1 Up"},
@@ -62,19 +43,8 @@
         "40":{"player":0,"name":"4 Players Start"}
       }
     },
-    ":JMPR":{
-      "labels":{
-        "1c00":{"player":0,"name":"Region"},
-        "2000":{"player":0,"name":"Show All Rights Reserved"}
-      }
-    },
     ":SYS":{
       "labels":{
-        "1":{"player":0,"name":"Service 1"},
-        "2":{"player":0,"name":"Tilt"},
-        "4":{"player":0,"name":"Test Switch"},
-        "8":{"player":0,"name":"Coin 1"},
-        "10":{"player":0,"name":"Coin 2"},
         "20":{"player":0,"name":"1 Player Start"},
         "40":{"player":0,"name":"2 Players Start"}
       }

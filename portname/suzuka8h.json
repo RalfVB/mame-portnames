@@ -1,45 +1,24 @@
 {
-  "romname":"suzuka8h",
   "ports":{
     ":AN5":{
       "labels":{
-        "ff":{"player":0,"name":"Paddle"}
+        "ff":{"player":0,"name":"Steering"}
       }
     },
     ":AN6":{
       "labels":{
-        "ff":{"player":0,"name":"P1 Pedal 2"}
+        "ff":{"player":0,"name":"Brake"}
       }
     },
     ":AN7":{
       "labels":{
-        "ff":{"player":0,"name":"P1 Pedal 1"}
-      }
-    },
-    ":DSW":{
-      "labels":{
-        "1":{"player":0,"name":"Video Display"},
-        "2":{"player":0,"name":"$2000-1"},
-        "4":{"player":0,"name":"$2000-2"},
-        "8":{"player":0,"name":"$2000-3"},
-        "10":{"player":0,"name":"$2000-4"},
-        "20":{"player":0,"name":"$2000-5"},
-        "40":{"player":0,"name":"System is Status Monitor"},
-        "80":{"player":0,"name":"Service Mode"}
+        "ff":{"player":0,"name":"Accelerate"}
       }
     },
     ":MCUB":{
       "labels":{
-        "40":{"player":0,"name":"2 Players Start"},
-        "80":{"player":0,"name":"1 Player Start"}
-      }
-    },
-    ":MCUC":{
-      "labels":{
-        "10":{"player":0,"name":"Coin 2"},
-        "20":{"player":0,"name":"Coin 1"},
-        "40":{"player":0,"name":"Service Button"},
-        "80":{"player":0,"name":"Service 1"}
+        "40":{"player":0,"name":"P2 Start"},
+        "80":{"player":0,"name":"P1 Start"}
       }
     }
   }

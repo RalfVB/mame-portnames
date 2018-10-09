@@ -1,5 +1,4 @@
 {
-  "romname":"shootbul",
   "ports":{
     ":IN0":{
       "labels":{

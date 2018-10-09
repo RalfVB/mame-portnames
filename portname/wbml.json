@@ -1,5 +1,4 @@
 {
-  "romname":"wbml",
   "ports":{
     ":P1":{
       "labels":{

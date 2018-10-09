@@ -1,42 +1,21 @@
 {
-  "romname":"slrasslt",
   "ports":{
-    ":AN0":{
-      "labels":{
-        "3ff":{"player":0,"name":"AD Stick Y"}
-      }
-    },
-    ":AN1":{
-      "labels":{
-        "3ff":{"player":0,"name":"AD Stick X"}
-      }
-    },
+    ":AN0":{"labels":{"3ff":{"player":0,"name":"Stick Vertical"}}},
+    ":AN1":{"labels":{"3ff":{"player":0,"name":"Stick Horizontal"}}},
     ":IN0":{
       "labels":{
-        "1":{"player":0,"name":"P1 Button 3"},
-        "2":{"player":0,"name":"P1 Button 2"},
-        "4":{"player":0,"name":"P1 Button 1"},
-        "80":{"player":0,"name":"1 Player Start"}
+        "1":{"player":0,"name":"Button 3"},
+        "2":{"player":0,"name":"Button 2"},
+        "4":{"player":0,"name":"Button 1"},
+        "80":{"player":0,"name":"Start"}
       }
     },
     ":IN1":{
       "labels":{
-        "8":{"player":0,"name":"P1 Left"},
-        "10":{"player":0,"name":"P1 Right"},
-        "20":{"player":0,"name":"P1 Down"},
-        "40":{"player":0,"name":"P1 Up"}
-      }
-    },
-    ":IN3":{
-      "labels":{
-        "1":{"player":0,"name":"DIP1"},
-        "2":{"player":0,"name":"DIP2"},
-        "4":{"player":0,"name":"DIP3"},
-        "8":{"player":0,"name":"DIP4"},
-        "10":{"player":0,"name":"Coin 2"},
-        "20":{"player":0,"name":"Coin 1"},
-        "40":{"player":0,"name":"Service Button"},
-        "80":{"player":0,"name":"Service Mode"}
+        "8":{"player":0,"name":"Left"},
+        "10":{"player":0,"name":"Right"},
+        "20":{"player":0,"name":"Down"},
+        "40":{"player":0,"name":"Up"}
       }
     }
   }

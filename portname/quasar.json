@@ -1,5 +1,4 @@
 {
-  "romname":"quasar",
   "ports":{
     ":IN0":{
       "labels":{

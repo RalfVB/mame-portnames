@@ -1,5 +1,4 @@
 {
-  "romname":"rescraid",
   "ports":{
     ":IN0":{
       "labels":{

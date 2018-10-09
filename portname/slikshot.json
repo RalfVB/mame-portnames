@@ -1,5 +1,4 @@
 {
-  "romname":"slikshot",
   "ports":{
     ":60":{
       "labels":{

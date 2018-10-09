@@ -1,5 +1,4 @@
 {
-  "romname":"samsho",
   "ports":{
     ":edge:joy:JOY1":{
       "labels":{

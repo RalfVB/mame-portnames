@@ -1,18 +1,5 @@
 {
-  "romname":"pwrflip",
   "ports":{
-    ":DSW":{
-      "labels":{
-        "3":{"player":0,"name":"Difficulty"},
-        "c":{"player":0,"name":"Bonus Life"},
-        "10":{"player":0,"name":"Flip Screen"},
-        "40":{"player":0,"name":"Demo Sounds"},
-        "80":{"player":0,"name":"Unused"},
-        "700":{"player":0,"name":"Coin A"},
-        "3800":{"player":0,"name":"Coin B"},
-        "c000":{"player":0,"name":"Lives"}
-      }
-    },
     ":IN0":{
       "labels":{
         "8":{"player":0,"name":"Item Right"},
@@ -25,13 +12,6 @@
         "2000":{"player":0,"name":"Flipper 2 Left"},
         "4000":{"player":0,"name":"Tilt Left"},
         "8000":{"player":0,"name":"1 Player Start"}
-      }
-    },
-    ":IN1":{
-      "labels":{
-        "100":{"player":0,"name":"Coin 1"},
-        "200":{"player":0,"name":"Coin 2"},
-        "800":{"player":0,"name":"Service 1"}
       }
     }
   }

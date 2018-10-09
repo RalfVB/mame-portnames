@@ -1,14 +1,13 @@
 {
-  "romname":"samuraia",
   "ports":{
     ":P1_P2":{
       "labels":{
-        "20000":{"player":1,"name":"P2 Button 3"},
+        "20000":{"player":1,"name":"-"},
         "40000":{"player":1,"name":"P2 Bomb"},
-        "80000":{"player":1,"name":"P2 Fire"},
-        "2000000":{"player":0,"name":"P1 Button 3"},
+        "80000":{"player":1,"name":"P2 Shot"},
+        "2000000":{"player":0,"name":"-"},
         "4000000":{"player":0,"name":"P1 Bomb"},
-        "8000000":{"player":0,"name":"P1 Fire"}
+        "8000000":{"player":0,"name":"P1 Shot"}
       }
     }
   }

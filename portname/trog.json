@@ -1,5 +1,4 @@
 {
-  "romname":"trog",
   "ports":{
     ":IN0":{
       "labels":{

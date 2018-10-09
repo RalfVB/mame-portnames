@@ -1,42 +1,23 @@
 {
-  "romname":"shangon",
   "ports":{
     ":ADC.0":{
       "labels":{
-        "ff":{"player":0,"name":"Paddle"}
+        "ff":{"player":0,"name":"Steering"}
       }
     },
     ":ADC.1":{
       "labels":{
-        "ff":{"player":0,"name":"P1 Pedal 1"}
+        "ff":{"player":0,"name":"Accelerate"}
       }
     },
     ":ADC.2":{
       "labels":{
-        "ff":{"player":0,"name":"P1 Pedal 2"}
-      }
-    },
-    ":COINAGE":{
-      "labels":{
-        "f":{"player":0,"name":"Coin A"},
-        "f0":{"player":0,"name":"Coin B"}
-      }
-    },
-    ":DSW":{
-      "labels":{
-        "1":{"player":0,"name":"Demo Sounds"},
-        "6":{"player":0,"name":"Difficulty"},
-        "18":{"player":0,"name":"Time Adj."},
-        "80":{"player":0,"name":"Unused"}
+        "ff":{"player":0,"name":"Brake"}
       }
     },
     ":UNKNOWN":{
       "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "2":{"player":0,"name":"Coin 2"},
-        "4":{"player":0,"name":"Service Mode"},
-        "8":{"player":0,"name":"Service 1"},
-        "10":{"player":0,"name":"1 Player Start"},
+        "10":{"player":0,"name":"Start"},
         "20":{"player":0,"name":"Supercharger"}
       }
     }

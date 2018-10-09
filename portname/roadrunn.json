@@ -1,5 +1,4 @@
 {
-  "romname":"roadrunn",
   "ports":{
     ":F60000":{
       "labels":{

@@ -1,12 +1,11 @@
 {
-  "romname":"s1945ii",
   "ports":{
     ":INPUTS":{
       "labels":{
         "40000":{"player":1,"name":"P2 Bomb"},
-        "80000":{"player":1,"name":"P2 Fire"},
+        "80000":{"player":1,"name":"P2 Shot"},
         "4000000":{"player":0,"name":"P1 Bomb"},
-        "8000000":{"player":0,"name":"P1 Fire"}
+        "8000000":{"player":0,"name":"P1 Shot"}
       }
     }
   }

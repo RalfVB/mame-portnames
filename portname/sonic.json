@@ -1,5 +1,4 @@
 {
-  "romname":"sonic",
   "ports":{
     ":mainpcb:P1_A":{
       "labels":{
@@ -14,20 +13,9 @@
     },
     ":mainpcb:SERVICE12_A":{
       "labels":{
-        "1":{"player":0,"name":"Service 1"},
-        "2":{"player":0,"name":"Service Mode"},
-        "4":{"player":0,"name":"Coin 1"},
-        "8":{"player":0,"name":"Coin 2"},
         "10":{"player":0,"name":"1 Player Start"},
         "20":{"player":0,"name":"2 Players Start"},
-        "40":{"player":0,"name":"Coin 3"},
         "80":{"player":0,"name":"3 Players Start"}
-      }
-    },
-    ":mainpcb:SERVICE34_A":{
-      "labels":{
-        "10":{"player":0,"name":"Push SW1 (Service)"},
-        "20":{"player":0,"name":"Push SW2 (Test)"}
       }
     },
     ":mainpcb:TRACKX1":{

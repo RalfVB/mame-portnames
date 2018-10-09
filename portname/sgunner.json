@@ -1,5 +1,4 @@
 {
-  "romname":"sgunner",
   "ports":{
     ":AN4":{
       "labels":{
@@ -21,30 +20,10 @@
         "ff":{"player":1,"name":"Lightgun Y 2"}
       }
     },
-    ":DSW":{
-      "labels":{
-        "1":{"player":0,"name":"Video Display"},
-        "2":{"player":0,"name":"$2000-1"},
-        "4":{"player":0,"name":"$2000-2"},
-        "8":{"player":0,"name":"$2000-3"},
-        "10":{"player":0,"name":"$2000-4"},
-        "20":{"player":0,"name":"$2000-5"},
-        "40":{"player":0,"name":"$2000-6"},
-        "80":{"player":0,"name":"Service Mode"}
-      }
-    },
     ":MCUB":{
       "labels":{
         "40":{"player":0,"name":"2 Players Start"},
         "80":{"player":0,"name":"1 Player Start"}
-      }
-    },
-    ":MCUC":{
-      "labels":{
-        "10":{"player":0,"name":"Coin 2"},
-        "20":{"player":0,"name":"Coin 1"},
-        "40":{"player":0,"name":"Service Button"},
-        "80":{"player":0,"name":"Service 1"}
       }
     },
     ":MCUH":{

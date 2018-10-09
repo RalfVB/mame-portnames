@@ -1,5 +1,4 @@
 {
-  "romname":"smgolf",
   "ports":{
     ":IN0":{
       "labels":{

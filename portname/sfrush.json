@@ -1,44 +1,23 @@
 {
-  "romname":"sfrush",
   "ports":{
     ":AN4":{
       "labels":{
-        "ff":{"player":0,"name":"P1 Pedal 1"}
+        "ff":{"player":0,"name":"Accelerate"}
       }
     },
     ":AN5":{
       "labels":{
-        "ff":{"player":0,"name":"P1 Pedal 2"}
+        "ff":{"player":0,"name":"Brake"}
       }
     },
     ":AN6":{
       "labels":{
-        "ff":{"player":0,"name":"P1 Pedal 3"}
+        "ff":{"player":0,"name":"Pedal 3"}
       }
     },
     ":AN7":{
       "labels":{
-        "ff":{"player":0,"name":"Paddle"}
-      }
-    },
-    ":DIPS":{
-      "labels":{
-        "1":{"player":0,"name":"Service Mode"},
-        "2":{"player":0,"name":"Boot ROM Test"},
-        "4":{"player":0,"name":"Unknown0004"},
-        "8":{"player":0,"name":"Unknown0008"},
-        "10":{"player":0,"name":"Unknown0010"},
-        "20":{"player":0,"name":"Unknown0020"},
-        "40":{"player":0,"name":"Unknown0040"},
-        "80":{"player":0,"name":"Unknown0080"},
-        "100":{"player":0,"name":"Unknown0100"},
-        "200":{"player":0,"name":"Unknown0200"},
-        "400":{"player":0,"name":"Unknown0400"},
-        "800":{"player":0,"name":"Unknown0800"},
-        "1000":{"player":0,"name":"Unknown1000"},
-        "2000":{"player":0,"name":"Unknown2000"},
-        "4000":{"player":0,"name":"Unknown4000"},
-        "8000":{"player":0,"name":"Unknown8000"}
+        "ff":{"player":0,"name":"Steering"}
       }
     },
     ":GEAR":{

@@ -1,16 +1,5 @@
 {
-  "romname":"svg",
   "ports":{
-    ":DSW":{
-      "labels":{
-        "1":{"player":0,"name":"Service Mode"},
-        "2":{"player":0,"name":"Music"},
-        "4":{"player":0,"name":"Voice"},
-        "8":{"player":0,"name":"Free"},
-        "10":{"player":0,"name":"Stop"},
-        "80":{"player":0,"name":"Unused"}
-      }
-    },
     ":P1P2":{
       "labels":{
         "1":{"player":0,"name":"1 Player Start"},
@@ -51,19 +40,8 @@
         "8000":{"player":3,"name":"P4 Button 3"}
       }
     },
-    ":RegionHack":{
-      "labels":{
-        "ff":{"player":0,"name":"Region"}
-      }
-    },
     ":Service":{
       "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "2":{"player":0,"name":"Coin 2"},
-        "4":{"player":0,"name":"Coin 3"},
-        "8":{"player":0,"name":"Coin 4"},
-        "20":{"player":0,"name":"Service 1"},
-        "80":{"player":0,"name":"Service 2"},
         "100":{"player":0,"name":"P1 Button 4"},
         "200":{"player":1,"name":"P2 Button 4"},
         "400":{"player":2,"name":"P3 Button 4"},

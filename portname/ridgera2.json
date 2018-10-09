@@ -1,41 +1,16 @@
 {
-  "romname":"ridgera2",
   "ports":{
-    ":BRAKE":{
-      "labels":{
-        "ff":{"player":0,"name":"Brake Pedal"}
-      }
-    },
-    ":DSW0":{
-      "labels":{
-        "1":{"player":0,"name":"Service Mode"},
-        "4000":{"player":0,"name":"Unknown"},
-        "8000":{"player":0,"name":"Test Mode"}
-      }
-    },
-    ":GAS":{
-      "labels":{
-        "ff":{"player":0,"name":"Gas Pedal"}
-      }
-    },
+    ":BRAKE":{"labels":{"ff":{"player":0,"name":"Brake"}}},
+    ":GAS":{"labels":{"ff":{"player":0,"name":"Accelerate"}}},
     ":INPUTS":{
       "labels":{
         "1":{"player":0,"name":"Shift Down"},
         "2":{"player":0,"name":"Shift Up"},
         "4":{"player":0,"name":"Shift Left"},
         "8":{"player":0,"name":"Shift Right"},
-        "10":{"player":0,"name":"Clutch Pedal"},
-        "200":{"player":0,"name":"Coin 2"},
-        "400":{"player":0,"name":"Service 3"},
-        "800":{"player":0,"name":"Service 1"},
-        "1000":{"player":0,"name":"Coin 1"},
-        "2100":{"player":0,"name":"Cabinet"}
+        "10":{"player":0,"name":"Clutch Pedal"}
       }
     },
-    ":STEER":{
-      "labels":{
-        "ff":{"player":0,"name":"Steering Wheel"}
-      }
-    }
+    ":STEER":{"labels":{"ff":{"player":0,"name":"Steering"}}}
   }
 }

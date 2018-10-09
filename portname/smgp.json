@@ -1,21 +1,8 @@
 {
-  "romname":"smgp",
   "ports":{
-    ":mainpcb:ADC0":{
-      "labels":{
-        "ff":{"player":0,"name":"Left / Right"}
-      }
-    },
-    ":mainpcb:ADC1":{
-      "labels":{
-        "ff":{"player":0,"name":"Accelerate"}
-      }
-    },
-    ":mainpcb:ADC2":{
-      "labels":{
-        "ff":{"player":0,"name":"Brake"}
-      }
-    },
+    ":mainpcb:ADC0":{"labels":{"ff":{"player":0,"name":"Steering"}}},
+    ":mainpcb:ADC1":{"labels":{"ff":{"player":0,"name":"Accelerate"}}},
+    ":mainpcb:ADC2":{"labels":{"ff":{"player":0,"name":"Brake"}}},
     ":mainpcb:IO1PORTA":{
       "labels":{
         "10":{"player":0,"name":"Shift Down"},

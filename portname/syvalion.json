@@ -1,31 +1,7 @@
 {
-  "romname":"syvalion",
   "ports":{
-    ":DSWA":{
-      "labels":{
-        "1":{"player":0,"name":"Cabinet"},
-        "2":{"player":0,"name":"Flip Screen"},
-        "4":{"player":0,"name":"Service Mode"},
-        "8":{"player":0,"name":"Demo Sounds"},
-        "30":{"player":0,"name":"Coin A"},
-        "c0":{"player":0,"name":"Coin B"}
-      }
-    },
-    ":DSWB":{
-      "labels":{
-        "3":{"player":0,"name":"Difficulty"},
-        "c":{"player":0,"name":"Bonus Life"},
-        "30":{"player":0,"name":"Lives"},
-        "40":{"player":0,"name":"Unknown"},
-        "80":{"player":0,"name":"Unused"}
-      }
-    },
     ":IN0":{
       "labels":{
-        "4":{"player":0,"name":"Coin 1"},
-        "8":{"player":0,"name":"Coin 2"},
-        "10":{"player":0,"name":"Service 1"},
-        "20":{"player":0,"name":"Tilt"},
         "40":{"player":0,"name":"1 Player Start"},
         "80":{"player":0,"name":"2 Players Start"}
       }

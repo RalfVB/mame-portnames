@@ -1,30 +1,11 @@
 {
-  "romname":"stinger",
   "ports":{
-    ":DSW0":{
-      "labels":{
-        "7":{"player":0,"name":"Coin A"},
-        "18":{"player":0,"name":"Lives"},
-        "e0":{"player":0,"name":"Bonus Life"}
-      }
-    },
-    ":DSW1":{
-      "labels":{
-        "1":{"player":0,"name":"Debug Mode"},
-        "e":{"player":0,"name":"Coin B"},
-        "30":{"player":0,"name":"Bongo Time"},
-        "40":{"player":0,"name":"Difficulty"},
-        "80":{"player":0,"name":"Cabinet"}
-      }
-    },
     ":IN0":{
       "labels":{
-        "1":{"player":0,"name":"Coin 1"},
         "2":{"player":1,"name":"P2 Button 2"},
         "4":{"player":0,"name":"P1 Button 2"},
-        "8":{"player":0,"name":"2 Players Start"},
-        "10":{"player":0,"name":"1 Player Start"},
-        "20":{"player":0,"name":"Coin 2"},
+        "8":{"player":0,"name":"P2 Start"},
+        "10":{"player":0,"name":"P1 Start"},
         "40":{"player":0,"name":"P1 Button 1"},
         "80":{"player":1,"name":"P2 Button 1"}
       }

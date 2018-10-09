@@ -1,5 +1,4 @@
 {
-  "romname":"skysoldr",
   "ports":{
     ":IN0":{
       "labels":{
@@ -8,7 +7,7 @@
         "4":{"player":0,"name":"P1 Left"},
         "8":{"player":0,"name":"P1 Right"},
         "10":{"player":0,"name":"P1 Cannon"},
-        "20":{"player":0,"name":"P1 Missle"}
+        "20":{"player":0,"name":"P1 Missile"}
       }
     },
     ":IN1":{
@@ -18,7 +17,7 @@
         "4":{"player":1,"name":"P2 Left"},
         "8":{"player":1,"name":"P2 Right"},
         "10":{"player":1,"name":"P2 Cannon"},
-        "20":{"player":1,"name":"P2 Missle"}
+        "20":{"player":1,"name":"P2 Missile"}
       }
     }
   }
