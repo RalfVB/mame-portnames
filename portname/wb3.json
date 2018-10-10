@@ -1,0 +1,53 @@
+{
+  "romname":"wb3",
+  "ports":{
+    ":DSW1":{
+      "labels":{
+        "f":{"player":0,"name":"Coin A"},
+        "f0":{"player":0,"name":"Coin B"}
+      }
+    },
+    ":DSW2":{
+      "labels":{
+        "2":{"player":0,"name":"Demo Sounds"},
+        "c":{"player":0,"name":"Lives"},
+        "10":{"player":0,"name":"Bonus Life"},
+        "20":{"player":0,"name":"Difficulty"},
+        "40":{"player":0,"name":"Test Mode"},
+        "80":{"player":0,"name":"Unused"}
+      }
+    },
+    ":SERVICE":{
+      "labels":{
+        "1":{"player":0,"name":"Coin 1"},
+        "2":{"player":0,"name":"Coin 2"},
+        "4":{"player":0,"name":"Service Mode"},
+        "8":{"player":0,"name":"Service 1"},
+        "10":{"player":0,"name":"1 Player Start"},
+        "20":{"player":0,"name":"2 Players Start"}
+      }
+    },
+    ":P2":{
+      "labels":{
+        "1":{"player":1,"name":"P2 Button 3"},
+        "2":{"player":1,"name":"P2 Button 1"},
+        "4":{"player":1,"name":"P2 Button 2"},
+        "10":{"player":1,"name":"P2 Down"},
+        "20":{"player":1,"name":"P2 Up"},
+        "40":{"player":1,"name":"P2 Right"},
+        "80":{"player":1,"name":"P2 Left"}
+      }
+    },
+    ":P1":{
+      "labels":{
+        "1":{"player":0,"name":"P1 Button 3"},
+        "2":{"player":0,"name":"P1 Button 1"},
+        "4":{"player":0,"name":"P1 Button 2"},
+        "10":{"player":0,"name":"P1 Down"},
+        "20":{"player":0,"name":"P1 Up"},
+        "40":{"player":0,"name":"P1 Right"},
+        "80":{"player":0,"name":"P1 Left"}
+      }
+    }
+  }
+}

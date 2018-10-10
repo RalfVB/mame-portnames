@@ -2,12 +2,12 @@
   "ports":{
     ":AN1":{
       "labels":{
-        "ff":{"player":0,"name":"AD Stick X"}
+        "ff":{"player":0,"name":"Stick Horizontal"}
       }
     },
     ":AN2":{
       "labels":{
-        "ff":{"player":0,"name":"AD Stick Y"}
+        "ff":{"player":0,"name":"Stick Vertical"}
       }
     },
     ":PORTH":{

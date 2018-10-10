@@ -1,0 +1,23 @@
+{
+  "ports":{
+    ":STICKX":{"labels":{"ff":{"player":0,"name":"Stick Horizontal"}}},
+    ":STICKY":{"labels":{"ff":{"player":0,"name":"Stick Vertical"}}},
+    ":THROTTLE":{"labels":{"ff":{"player":0,"name":"Throttle"}}},
+    ":IN.0":{
+      "labels":{
+        "10":{"player":0,"name":"Start"},
+        "20":{"player":0,"name":"View 1"},
+        "40":{"player":0,"name":"View 2"},
+        "80":{"player":0,"name":"View 3"}
+      }
+    },
+    ":IN.1":{
+      "labels":{
+        "1":{"player":0,"name":"View 4"},
+        "10":{"player":0,"name":"Machine Gun"},
+        "20":{"player":0,"name":"Missile"},
+        "40":{"player":0,"name":"Smoke"}
+      }
+    }
+  }
+}

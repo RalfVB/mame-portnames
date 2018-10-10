@@ -1,15 +1,7 @@
 {
   "ports":{
-    ":LIGHTX":{
-      "labels":{
-        "fff":{"player":0,"name":"Aim Left / Aim Right"}
-      }
-    },
-    ":LIGHTY":{
-      "labels":{
-        "fff":{"player":0,"name":"Aim Up / Aim Down"}
-      }
-    },
+    ":LIGHTX":{"labels":{"fff":{"player":0,"name":"Aim Horizontal"}}},
+    ":LIGHTY":{"labels":{"fff":{"player":0,"name":"Aim Vertical"}}},
     ":MCUP5A":{
       "labels":{
         "10":{"player":0,"name":"Fire"},

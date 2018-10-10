@@ -1,31 +1,15 @@
 {
   "ports":{
-    ":ANA0":{
-      "labels":{
-        "ff":{"player":0,"name":"Steering"}
-      }
-    },
-    ":ANA1":{
-      "labels":{
-        "ff":{"player":0,"name":"Accelerate"}
-      }
-    },
-    ":ANA2":{
-      "labels":{
-        "ff":{"player":0,"name":"Brake"}
-      }
-    },
-    ":IN0":{
-      "labels":{
-        "40":{"player":0,"name":"Start"}
-      }
-    },
+    ":ANA0":{"labels":{"ff":{"player":0,"name":"Steer"}}},
+    ":ANA1":{"labels":{"ff":{"player":0,"name":"Accelerate"}}},
+    ":ANA2":{"labels":{"ff":{"player":0,"name":"Brake"}}},
+    ":IN0":{"labels":{"40":{"player":0,"name":"Start"}}},
     ":IN2":{
       "labels":{
         "1":{"player":0,"name":"View 1"},
         "2":{"player":0,"name":"View 2"},
-        "10":{"player":0,"name":"Shift Up"},
-        "20":{"player":0,"name":"Shift Down"}
+        "10":{"player":0,"name":"Gear Up"},
+        "20":{"player":0,"name":"Gear Down"}
       }
     }
   }

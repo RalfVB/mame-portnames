@@ -8,12 +8,12 @@
     },
     ":P1X":{
       "labels":{
-        "ff":{"player":0,"name":"Aim Left / Aim Right"}
+        "ff":{"player":0,"name":"Aim Horizontal"}
       }
     },
     ":P1Y":{
       "labels":{
-        "ff":{"player":0,"name":"Aim Up / Aim Down"}
+        "ff":{"player":0,"name":"Aim Vertical"}
       }
     }
   }

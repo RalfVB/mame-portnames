@@ -1,0 +1,17 @@
+{
+  "ports":{
+    ":LIGHTX":{"labels":{"fff":{"player":0,"name":"Aim Horrizontal"}}},
+    ":LIGHTY":{"labels":{"fff":{"player":0,"name":"Aim Vertical"}}},
+    ":IN01":{
+      "labels":{
+        "1":{"player":0,"name":"Fire"},
+        "2":{"player":0,"name":"Button 2"},
+        "100":{"player":0,"name":"Coin 1"},
+        "1000":{"player":0,"name":"Service 1"},
+        "2000":{"player":0,"name":"Down"},
+        "4000":{"player":0,"name":"Up"},
+        "8000":{"player":0,"name":"Button 3"}
+      }
+    }
+  }
+}

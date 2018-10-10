@@ -1,0 +1,58 @@
+{
+  "romname":"warriorb",
+  "ports":{
+    ":DSWB":{
+      "labels":{
+        "3":{"player":0,"name":"Difficulty"},
+        "4":{"player":0,"name":"Gold Sheep at"},
+        "8":{"player":0,"name":"Magic Energy Loss"},
+        "10":{"player":0,"name":"Player Starting Strength"},
+        "20":{"player":0,"name":"Magician appears"},
+        "40":{"player":0,"name":"Allow Continue"},
+        "80":{"player":0,"name":"Rounds"}
+      }
+    },
+    ":IN1":{
+      "labels":{
+        "1":{"player":0,"name":"P1 Up"},
+        "2":{"player":0,"name":"P1 Down"},
+        "4":{"player":0,"name":"P1 Left"},
+        "8":{"player":0,"name":"P1 Right"},
+        "10":{"player":1,"name":"P2 Up"},
+        "20":{"player":1,"name":"P2 Down"},
+        "40":{"player":1,"name":"P2 Left"},
+        "80":{"player":1,"name":"P2 Right"}
+      }
+    },
+    ":IN0":{
+      "labels":{
+        "1":{"player":0,"name":"Service 1"},
+        "2":{"player":0,"name":"Tilt"},
+        "4":{"player":0,"name":"Coin 1"},
+        "8":{"player":0,"name":"Coin 2"},
+        "10":{"player":0,"name":"1 Player Start"},
+        "20":{"player":0,"name":"2 Players Start"},
+        "40":{"player":0,"name":"P1 Button 3 (Cheat)"},
+        "80":{"player":1,"name":"P2 Button 3 (Cheat)"}
+      }
+    },
+    ":DSWA":{
+      "labels":{
+        "3":{"player":0,"name":"Vitality Recovery"},
+        "4":{"player":0,"name":"Service Mode"},
+        "8":{"player":0,"name":"Demo Sounds"},
+        "30":{"player":0,"name":"Coin A"},
+        "c0":{"player":0,"name":"Coin B"}
+      }
+    },
+    ":IN2":{
+      "labels":{
+        "8":{"player":0,"name":"Freeze"},
+        "10":{"player":0,"name":"P1 Button 1"},
+        "20":{"player":0,"name":"P1 Button 2"},
+        "40":{"player":1,"name":"P2 Button 1"},
+        "80":{"player":1,"name":"P2 Button 2"}
+      }
+    }
+  }
+}

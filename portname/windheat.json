@@ -1,0 +1,14 @@
+{
+  "ports":{
+    ":ANALOG1":{"labels":{"ff":{"player":0,"name":"Steer"}}},
+    ":ANALOG2":{"labels":{"ff":{"player":0,"name":"Accelerate"}}},
+    ":ANALOG3":{"labels":{"ff":{"player":0,"name":"Brake"}}},
+    ":IN0":{
+      "labels":{
+        "20":{"player":0,"name":"Gear Down"},
+        "40":{"player":0,"name":"Gear Up"},
+        "80":{"player":0,"name":"Change View"}
+      }
+    }
+  }
+}

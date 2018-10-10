@@ -1,37 +1,21 @@
 {
   "ports":{
-    ":AN4":{
-      "labels":{
-        "ff":{"player":0,"name":"Lightgun X"}
-      }
-    },
-    ":AN5":{
-      "labels":{
-        "ff":{"player":1,"name":"Lightgun X 2"}
-      }
-    },
-    ":AN6":{
-      "labels":{
-        "ff":{"player":0,"name":"Lightgun Y"}
-      }
-    },
-    ":AN7":{
-      "labels":{
-        "ff":{"player":1,"name":"Lightgun Y 2"}
-      }
-    },
+    ":AN4":{"labels":{"ff":{"player":0,"name":"P1 Aim Horizontal"}}},
+    ":AN5":{"labels":{"ff":{"player":1,"name":"P2 Aim Horizontal"}}},
+    ":AN6":{"labels":{"ff":{"player":0,"name":"P1 Aim Vertical"}}},
+    ":AN7":{"labels":{"ff":{"player":1,"name":"P2 Aim Vertical"}}},
     ":MCUB":{
       "labels":{
-        "40":{"player":0,"name":"2 Players Start"},
-        "80":{"player":0,"name":"1 Player Start"}
+        "40":{"player":0,"name":"P2 Start"},
+        "80":{"player":0,"name":"P1 Start"}
       }
     },
     ":MCUH":{
       "labels":{
-        "4":{"player":1,"name":"P2 Button 2"},
-        "8":{"player":0,"name":"P1 Button 2"},
-        "10":{"player":1,"name":"P2 Button 1"},
-        "20":{"player":0,"name":"P1 Button 1"}
+        "4":{"player":1,"name":"P2 Bomb"},
+        "8":{"player":0,"name":"P1 Bomb"},
+        "10":{"player":1,"name":"P2 Fire"},
+        "20":{"player":0,"name":"P1 Fire"}
       }
     }
   }

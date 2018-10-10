@@ -1,0 +1,44 @@
+{
+  "ports":{
+    ":P1_P3":{
+      "labels":{
+        "1":{"player":0,"name":"P1 Left"},
+        "2":{"player":0,"name":"P1 Right"},
+        "4":{"player":0,"name":"P1 Up"},
+        "8":{"player":0,"name":"P1 Down"},
+        "10":{"player":0,"name":"P1 Attack"},
+        "20":{"player":0,"name":"P1 Jump"},
+        "40":{"player":0,"name":"P1 Button 3"},
+        "80":{"player":0,"name":"P1 Start"},
+        "100":{"player":2,"name":"P3 Left"},
+        "200":{"player":2,"name":"P3 Right"},
+        "400":{"player":2,"name":"P3 Up"},
+        "800":{"player":2,"name":"P3 Down"},
+        "1000":{"player":2,"name":"P3 Attack"},
+        "2000":{"player":2,"name":"P3 Jump"},
+        "4000":{"player":2,"name":"P3 Button 3"},
+        "8000":{"player":0,"name":"P3 Start"}
+      }
+    },
+    ":P2_P4":{
+      "labels":{
+        "1":{"player":1,"name":"P2 Left"},
+        "2":{"player":1,"name":"P2 Right"},
+        "4":{"player":1,"name":"P2 Up"},
+        "8":{"player":1,"name":"P2 Down"},
+        "10":{"player":1,"name":"P2 Attack"},
+        "20":{"player":1,"name":"P2 Jump"},
+        "40":{"player":1,"name":"P2 Button 3"},
+        "80":{"player":0,"name":"P2 Start"},
+        "100":{"player":3,"name":"P4 Left"},
+        "200":{"player":3,"name":"P4 Right"},
+        "400":{"player":3,"name":"P4 Up"},
+        "800":{"player":3,"name":"P4 Down"},
+        "1000":{"player":3,"name":"P4 Attack"},
+        "2000":{"player":3,"name":"P4 Jump"},
+        "4000":{"player":3,"name":"P4 Button 3"},
+        "8000":{"player":0,"name":"P4 Start"}
+      }
+    }
+  }
+}

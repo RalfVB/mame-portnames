@@ -1,0 +1,30 @@
+{
+  "ports":{
+    ":P1_P2":{
+      "labels":{
+        "1":{"player":1,"name":"P2 Button 4"},
+        "2":{"player":1,"name":"P2 Button 5"},
+        "4":{"player":1,"name":"P2 Button 6"},
+        "100":{"player":0,"name":"P2 Start"},
+        "200":{"player":1,"name":"P2 Button 1"},
+        "400":{"player":1,"name":"P2 Button 2"},
+        "800":{"player":1,"name":"P2 Button 3"},
+        "1000":{"player":1,"name":"P2 Right"},
+        "2000":{"player":1,"name":"P2 Left"},
+        "4000":{"player":1,"name":"P2 Down"},
+        "8000":{"player":1,"name":"P2 Up"},
+        "10000":{"player":0,"name":"P1 Button 4"},
+        "20000":{"player":0,"name":"P1 Button 5"},
+        "40000":{"player":0,"name":"P1 Button 6"},
+        "1000000":{"player":0,"name":"P1 Start"},
+        "2000000":{"player":0,"name":"P1 Button 1"},
+        "4000000":{"player":0,"name":"P1 Button 2"},
+        "8000000":{"player":0,"name":"P1 Button 3"},
+        "10000000":{"player":0,"name":"P1 Right"},
+        "20000000":{"player":0,"name":"P1 Left"},
+        "40000000":{"player":0,"name":"P1 Down"},
+        "80000000":{"player":0,"name":"P1 Up"}
+      }
+    }
+  }
+}

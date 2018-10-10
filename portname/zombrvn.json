@@ -1,0 +1,24 @@
+{
+  "ports":{
+    ":A0":{"labels":{"ff00":{"player":0,"name":"P1 Stick Vertical"}}},
+    ":A1":{"labels":{"ff00":{"player":0,"name":"P1 Stick Horizontal"}}},
+    ":A4":{"labels":{"ff00":{"player":1,"name":"P2 Stick Vertical"}}},
+    ":A5":{"labels":{"ff00":{"player":1,"name":"P2 Stick Horizontal"}}},
+    ":P1":{
+      "labels":{
+        "80":{"player":0,"name":"P1 Button 3"},
+        "100":{"player":0,"name":"P1 Button 2"},
+        "200":{"player":0,"name":"P1 Button 1"},
+        "8000":{"player":0,"name":"P1 Start"}
+      }
+    },
+    ":P2":{
+      "labels":{
+        "80":{"player":1,"name":"P2 Button 3"},
+        "100":{"player":1,"name":"P2 Button 2"},
+        "200":{"player":1,"name":"P2 Button 1"},
+        "8000":{"player":0,"name":"P2 Start"}
+      }
+    }
+  }
+}

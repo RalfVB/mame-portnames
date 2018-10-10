@@ -1,0 +1,48 @@
+{
+  "ports":{
+    ":LIGHT0_X":{"labels":{"ff":{"player":0,"name":"P1 Aim Horizontal"}}},
+    ":LIGHT0_Y":{"labels":{"ff":{"player":0,"name":"P1 Aim Vertical"}}},
+    ":LIGHT1_X":{"labels":{"ff":{"player":1,"name":"P2 Aim Horizontal"}}},
+    ":LIGHT1_Y":{"labels":{"ff":{"player":1,"name":"P2 Aim Vertical"}}},
+    ":INPUTS":{
+      "labels":{
+        "1":{"player":3,"name":"-"},
+        "2":{"player":3,"name":"-"},
+        "4":{"player":3,"name":"-"},
+        "8":{"player":3,"name":"-"},
+        "10":{"player":3,"name":"-"},
+        "20":{"player":3,"name":"-"},
+        "40":{"player":3,"name":"-"},
+        "80":{"player":0,"name":"-"},
+        "100":{"player":2,"name":"-"},
+        "200":{"player":2,"name":"-"},
+        "400":{"player":2,"name":"-"},
+        "800":{"player":2,"name":"-"},
+        "1000":{"player":2,"name":"-"},
+        "2000":{"player":2,"name":"-"},
+        "4000":{"player":2,"name":"-"},
+        "8000":{"player":0,"name":"-"},
+        "10000":{"player":1,"name":"-"},
+        "20000":{"player":1,"name":"-"},
+        "40000":{"player":1,"name":"-"},
+        "80000":{"player":1,"name":"-"},
+        "200000":{"player":1,"name":"-"},
+        "400000":{"player":1,"name":"-"},
+        "800000":{"player":0,"name":"P2 Start"},
+        "1000000":{"player":0,"name":"-"},
+        "2000000":{"player":0,"name":"-"},
+        "4000000":{"player":0,"name":"-"},
+        "8000000":{"player":0,"name":"-"},
+        "20000000":{"player":0,"name":"-"},
+        "40000000":{"player":0,"name":"-"},
+        "80000000":{"player":0,"name":"P1 Start"}
+      }
+    },
+    ":SERVICE":{
+      "labels":{
+        "400":{"player":1,"name":"P2 Fire"},
+        "4000000":{"player":0,"name":"P1 Fire"}
+      }
+    }
+  }
+}

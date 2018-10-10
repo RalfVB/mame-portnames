@@ -1,41 +1,17 @@
 {
   "ports":{
-    ":mainpcb:ANALOG1":{
-      "labels":{
-        "ff":{"player":0,"name":"AD Stick X"}
-      }
-    },
-    ":mainpcb:ANALOG2":{
-      "labels":{
-        "ff":{"player":0,"name":"AD Stick Y"}
-      }
-    },
-    ":mainpcb:ANALOG3":{
-      "labels":{
-        "ff":{"player":0,"name":"AD Stick Z"}
-      }
-    },
+    ":mainpcb:ANALOG1":{"labels":{"ff":{"player":0,"name":"AD Stick X"}}},
+    ":mainpcb:ANALOG2":{"labels":{"ff":{"player":0,"name":"AD Stick Y"}}},
+    ":mainpcb:ANALOG3":{"labels":{"ff":{"player":0,"name":"AD Stick Z"}}},
     ":mainpcb:P1_A":{
       "labels":{
         "1":{"player":0,"name":"P1 Button 1"},
         "2":{"player":0,"name":"P1 Button 2"}
       }
     },
-    ":slavepcb:ANALOG1":{
-      "labels":{
-        "ff":{"player":1,"name":"AD Stick X 2"}
-      }
-    },
-    ":slavepcb:ANALOG2":{
-      "labels":{
-        "ff":{"player":1,"name":"AD Stick Y 2"}
-      }
-    },
-    ":slavepcb:ANALOG3":{
-      "labels":{
-        "ff":{"player":1,"name":"AD Stick Z 2"}
-      }
-    },
+    ":slavepcb:ANALOG1":{"labels":{"ff":{"player":1,"name":"AD Stick X 2"}}},
+    ":slavepcb:ANALOG2":{"labels":{"ff":{"player":1,"name":"AD Stick Y 2"}}},
+    ":slavepcb:ANALOG3":{"labels":{"ff":{"player":1,"name":"AD Stick Z 2"}}},
     ":slavepcb:P1_A":{
       "labels":{
         "1":{"player":1,"name":"P2 Button 1"},

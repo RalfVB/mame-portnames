@@ -1,0 +1,19 @@
+{
+  "ports":{
+    ":AN1":{"labels":{"ff":{"player":0,"name":"Accelerate"}}},
+    ":AN2":{"labels":{"ff":{"player":0,"name":"Steer"}}},
+    ":AN3":{"labels":{"ff":{"player":0,"name":"Brake"}}},
+    ":MCUB":{
+      "labels":{
+        "10":{"player":0,"name":"P2 Start"},
+        "20":{"player":0,"name":"P1 Start"}
+      }
+    },
+    ":MCUH":{
+      "labels":{
+        "8":{"player":0,"name":"Gear Down"},
+        "20":{"player":0,"name":"Gear Up"}
+      }
+    }
+  }
+}

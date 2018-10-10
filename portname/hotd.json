@@ -1,29 +1,13 @@
 {
   "ports":{
+    ":P1_X":{"labels":{"3ff":{"player":0,"name":"P1 Aim Horizontal"}}},
+    ":P1_Y":{"labels":{"3ff":{"player":0,"name":"P1 Aim Vertical"}}},
+    ":P2_X":{"labels":{"3ff":{"player":1,"name":"P2 Aim Horizontal"}}},
+    ":P2_Y":{"labels":{"3ff":{"player":1,"name":"P2 Aim Vertical"}}},
     ":IN1":{
       "labels":{
         "1":{"player":0,"name":"P1 Fire"},
         "2":{"player":1,"name":"P2 Fire"}
-      }
-    },
-    ":P1_X":{
-      "labels":{
-        "3ff":{"player":0,"name":"P1 Aim Horizontal"}
-      }
-    },
-    ":P1_Y":{
-      "labels":{
-        "3ff":{"player":0,"name":"P1 Aim Vertical"}
-      }
-    },
-    ":P2_X":{
-      "labels":{
-        "3ff":{"player":1,"name":"P2 Aim Horizontal"}
-      }
-    },
-    ":P2_Y":{
-      "labels":{
-        "3ff":{"player":1,"name":"P2 Aim Vertical"}
       }
     }
   }

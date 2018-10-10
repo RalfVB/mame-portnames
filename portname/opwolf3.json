@@ -1,31 +1,15 @@
 {
   "ports":{
+    ":GUN1X":{"labels":{"ff":{"player":0,"name":"P1 Aim Horizontal"}}},
+    ":GUN1Y":{"labels":{"ff":{"player":0,"name":"P1 Aim Vertical"}}},
+    ":GUN2X":{"labels":{"ff":{"player":1,"name":"P2 Aim Horizontal"}}},
+    ":GUN2Y":{"labels":{"ff":{"player":1,"name":"P2 Aim Vertical"}}},
     ":BUTTONS":{
       "labels":{
         "1":{"player":0,"name":"P1 Fire"},
         "2":{"player":0,"name":"P1 Bomb"},
         "10":{"player":1,"name":"P2 Fire"},
         "20":{"player":1,"name":"P2 Bomb"}
-      }
-    },
-    ":GUN1X":{
-      "labels":{
-        "ff":{"player":0,"name":"P1 Aim Left / Aim Right"}
-      }
-    },
-    ":GUN1Y":{
-      "labels":{
-        "ff":{"player":0,"name":"P1 Aim Up / Aim Down"}
-      }
-    },
-    ":GUN2X":{
-      "labels":{
-        "ff":{"player":1,"name":"P2 Aim Right /  Aim Left"}
-      }
-    },
-    ":GUN2Y":{
-      "labels":{
-        "ff":{"player":1,"name":"P2 Aim Down /  Aim Up"}
       }
     }
   }

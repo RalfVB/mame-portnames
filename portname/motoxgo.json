@@ -1,0 +1,24 @@
+{
+  "ports":{
+    ":IN01":{
+      "labels":{
+        "1":{"player":0,"name":"P1 Button 1"},
+        "2":{"player":0,"name":"P1 Button 2"},
+        "100":{"player":0,"name":"Coin 1"},
+        "1000":{"player":0,"name":"Service 1"},
+        "2000":{"player":0,"name":"P1 Down"},
+        "4000":{"player":0,"name":"P1 Up"},
+        "8000":{"player":0,"name":"P1 Button 3"}
+      }
+    },
+    ":P1":{
+      "labels":{
+        "8":{"player":1,"name":"Dev Service P1-A"},
+        "40":{"player":1,"name":"Dev Service Down"},
+        "80":{"player":1,"name":"Dev Service Up"},
+        "100":{"player":0,"name":"Dev Service Start"},
+        "200":{"player":1,"name":"Dev Service P1-Sel"}
+      }
+    }
+  }
+}

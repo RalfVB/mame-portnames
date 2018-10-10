@@ -1,0 +1,14 @@
+{
+  "ports":{
+    ":P1_P2":{
+      "labels":{
+        "1000000":{"player":0,"name":"Start"},
+        "2000000":{"player":0,"name":"AUX3"},
+        "4000000":{"player":0,"name":"AUX2"},
+        "8000000":{"player":0,"name":"AUX1"}
+      }
+    },
+    ":A2D2":{"labels":{"ff":{"player":0,"name":"Accelerate"}}},
+    ":A2D1":{"labels":{"ff":{"player":0,"name":"AD Stick X"}}}
+  }
+}

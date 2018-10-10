@@ -1,25 +1,9 @@
 {
   "ports":{
-    ":GUNX1":{
-      "labels":{
-        "ff":{"player":0,"name":"P1 Aim Left / Aim Right"}
-      }
-    },
-    ":GUNX2":{
-      "labels":{
-        "ff":{"player":1,"name":"P2 Aim Right /  Aim Left"}
-      }
-    },
-    ":GUNY1":{
-      "labels":{
-        "ff":{"player":0,"name":"P1 Aim Up / Aim Down"}
-      }
-    },
-    ":GUNY2":{
-      "labels":{
-        "ff":{"player":1,"name":"P2 Aim Down /  Aim Up"}
-      }
-    },
+    ":GUNX1":{"labels":{"ff":{"player":0,"name":"P1 Aim Horizontal"}}},
+    ":GUNY1":{"labels":{"ff":{"player":0,"name":"P1 Aim Vertical"}}},
+    ":GUNX2":{"labels":{"ff":{"player":1,"name":"P2 Aim Horizontal"}}},
+    ":GUNY2":{"labels":{"ff":{"player":1,"name":"P2 Aim Vertical"}}},
     ":INPUTS1":{
       "labels":{
         "10":{"player":0,"name":"P1 Fire"},

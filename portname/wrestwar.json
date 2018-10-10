@@ -1,0 +1,32 @@
+{
+  "ports":{
+    ":P2":{
+      "labels":{
+        "1":{"player":1,"name":"P2 Button 3"},
+        "2":{"player":1,"name":"P2 Button 1"},
+        "4":{"player":1,"name":"P2 Button 2"},
+        "10":{"player":1,"name":"P2 Down"},
+        "20":{"player":1,"name":"P2 Up"},
+        "40":{"player":1,"name":"P2 Right"},
+        "80":{"player":1,"name":"P2 Left"}
+      }
+    },
+    ":SERVICE":{
+      "labels":{
+        "10":{"player":0,"name":"P1 Start"},
+        "20":{"player":0,"name":"P2 Start"}
+      }
+    },
+    ":P1":{
+      "labels":{
+        "1":{"player":0,"name":"P1 Button 3"},
+        "2":{"player":0,"name":"P1 Button 1"},
+        "4":{"player":0,"name":"P1 Button 2"},
+        "10":{"player":0,"name":"P1 Down"},
+        "20":{"player":0,"name":"P1 Up"},
+        "40":{"player":0,"name":"P1 Right"},
+        "80":{"player":0,"name":"P1 Left"}
+      }
+    }
+  }
+}

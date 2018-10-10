@@ -1,17 +1,30 @@
 {
   "ports":{
+    ":AN0":{"labels":{"ff":{"player":0,"name":"P1 Aim Horizontal"}}},
+    ":AN1":{"labels":{"ff":{"player":0,"name":"P1 Aim Vertical"}},
+    ":AN2":{"labels":{"ff":{"player":1,"name":"P2 Aim Horizontal"}}},
+    ":AN3":{"labels":{"ff":{"player":1,"name":"P2 Aim Vertical"}}},
+    ":AN4":{"labels":{"ff":{"player":2,"name":"P3 Aim Horizontal"}}},
+    ":AN5":{"labels":{"ff":{"player":2,"name":"P3 Aim Vertical"}}},
     ":IN0":{
       "labels":{
         "10":{"player":0,"name":"P1 Fire"},
-        "20":{"player":0,"name":"P1 Bomb"},
+        "20":{"player":0,"name":"P1 Disc"},
         "1000":{"player":1,"name":"P2 Fire"},
-        "2000":{"player":1,"name":"P2 Bomb"}
+        "2000":{"player":1,"name":"P2 Disc"}
       }
     },
     ":IN1":{
       "labels":{
         "10":{"player":2,"name":"P3 Fire"},
-        "20":{"player":2,"name":"P3 Bomb"}
+        "20":{"player":2,"name":"P3 Disc"}
+      }
+    },
+    ":IN2":{
+      "labels":{
+        "4":{"player":0,"name":"P1 Start"},
+        "20":{"player":0,"name":"P2 Start"},
+        "200":{"player":0,"name":"P3 Start"}
       }
     }
   }

@@ -2,35 +2,19 @@
   "ports":{
     ":IN0":{
       "labels":{
-        "10":{"player":0,"name":"1 Player Start"},
-        "20":{"player":0,"name":"2 Players Start"}
+        "10":{"player":0,"name":"P1 Start"},
+        "20":{"player":0,"name":"P2 Start"}
       }
     },
     ":IN1":{
       "labels":{
-        "1":{"player":0,"name":"P1 Trigger"},
-        "2":{"player":1,"name":"P2 Trigger"}
+        "1":{"player":0,"name":"P1 Fire"},
+        "2":{"player":1,"name":"P2 Fire"}
       }
     },
-    ":P1_X":{
-      "labels":{
-        "3ff":{"player":0,"name":"Lightgun X"}
-      }
-    },
-    ":P1_Y":{
-      "labels":{
-        "3ff":{"player":0,"name":"Lightgun Y"}
-      }
-    },
-    ":P2_X":{
-      "labels":{
-        "3ff":{"player":1,"name":"Lightgun X 2"}
-      }
-    },
-    ":P2_Y":{
-      "labels":{
-        "3ff":{"player":1,"name":"Lightgun Y 2"}
-      }
-    }
+    ":P1_X":{"labels":{"3ff":{"player":0,"name":"P1 Aim Horizontal"}}},
+    ":P1_Y":{"labels":{"3ff":{"player":0,"name":"P1 Aim Vertical"}}},
+    ":P2_X":{"labels":{"3ff":{"player":1,"name":"P2 Aim Horizontal"}}},
+    ":P2_Y":{"labels":{"3ff":{"player":1,"name":"P2 Aim Vertical"}}}
   }
 }

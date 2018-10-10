@@ -1,0 +1,23 @@
+{
+  "ports":{
+    ":IN1":{
+      "labels":{
+        "10":{"player":0,"name":"P1 Button 4"},
+        "20":{"player":0,"name":"P1 Button 2"},
+        "40":{"player":0,"name":"P1 Button 5"},
+        "200":{"player":0,"name":"P1 Button 3"},
+        "800":{"player":0,"name":"P1 Button 6"}
+      }
+    },
+
+    ":AN1":{"labels":{"ff":{"player":0,"name":"Stick Vertical"}}},
+    ":AN2":{"labels":{"ff":{"player":0,"name":"Stick Horizontal"}}},
+    ":SYSTEM":{
+      "labels":{
+        "4":{"player":0,"name":"P1 Button 1"},
+        "200":{"player":0,"name":"P2 Start"},
+        "400":{"player":0,"name":"P3 Start"}
+      }
+    }
+  }
+}

@@ -1,11 +1,19 @@
 {
   "ports":{
+    ":STICK0_X":{"labels":{"ff":{"player":0,"name":"P1 Aim Horizontal"}}},
+    ":STICK0_Y":{"labels":{"ff":{"player":0,"name":"P1 Aim Vertical"}}},
+    ":STICK1_X":{"labels":{"ff":{"player":1,"name":"P2 Aim Horizontal"}}},
+    ":STICK1_Y":{"labels":{"ff":{"player":1,"name":"P2 Aim Vertical"}}},
+    ":IN1":{
+      "labels":{
+        "4":{"player":0,"name":"P1 Start"},
+        "20":{"player":0,"name":"P2 Start"}
+      }
+    },
     ":IN0":{
       "labels":{
         "10":{"player":0,"name":"P1 Fire"},
-        "20":{"player":0,"name":"P1 Missile"},
-        "1000":{"player":1,"name":"P2 Fire"},
-        "2000":{"player":1,"name":"P2 Missile"}
+        "1000":{"player":1,"name":"P2 Fire"}
       }
     }
   }
