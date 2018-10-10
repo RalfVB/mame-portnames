@@ -18,8 +18,8 @@
     },
     ":PEDALS":{
       "labels":{
-        "1":{"player":0,"name":"P1 Gas"},
-        "2":{"player":1,"name":"P2 Gas"}
+        "1":{"player":0,"name":"P1 Accelerate"},
+        "2":{"player":1,"name":"P2 Accelerate"}
       }
     }
   }

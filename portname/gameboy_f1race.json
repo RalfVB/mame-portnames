@@ -4,12 +4,12 @@
       "labels":{
         "1":{"player":0,"name":"Right"},
         "2":{"player":0,"name":"Left"},
-        "4":{"player":0,"name":"Up"},
-        "8":{"player":0,"name":"Down"},
-        "10":{"player":0,"name":"A"},
-        "20":{"player":0,"name":"B"},
-        "40":{"player":0,"name":"Select"},
-        "80":{"player":0,"name":"Start"}
+        "4":{"player":0,"name":"Up (Boost)"},
+        "8":{"player":0,"name":"Down (n/a)"},
+        "10":{"player":0,"name":"A (Accelerate)"},
+        "20":{"player":0,"name":"B (Brake)"},
+        "40":{"player":0,"name":"Select (n/a)"},
+        "80":{"player":0,"name":"Start (Pause)"}
       }
     }
   }

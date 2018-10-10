@@ -1,46 +1,14 @@
 {
   "ports":{
-    ":AN0":{
-      "labels":{
-        "ff":{"player":0,"name":"Paddle"}
-      }
-    },
-    ":AN1":{
-      "labels":{
-        "ff":{"player":0,"name":"P1 Pedal 1"}
-      }
-    },
-    ":AN2":{
-      "labels":{
-        "ff":{"player":0,"name":"P1 Pedal 2"}
-      }
-    },
-    ":AN3":{
-      "labels":{
-      }
-    },
-    ":AN4":{
-      "labels":{
-      }
-    },
-    ":AN5":{
-      "labels":{
-      }
-    },
-    ":AN6":{
-      "labels":{
-      }
-    },
-    ":AN7":{
-      "labels":{
-      }
-    },
+    ":AN0":{"labels":{"ff":{"player":0,"name":"Steering"}}},
+    ":AN1":{"labels":{"ff":{"player":0,"name":"Accelerate"}}},
+    ":AN2":{"labels":{"ff":{"player":0,"name":"Brake"}}},
     ":GEAR":{
       "labels":{
-        "1":{"player":0,"name":"1st Gear"},
-        "2":{"player":0,"name":"2nd Gear"},
-        "4":{"player":0,"name":"3rd Gear"},
-        "8":{"player":0,"name":"4th Gear"}
+        "1":{"player":0,"name":"Gear 1"},
+        "2":{"player":0,"name":"Gear 2"},
+        "4":{"player":0,"name":"Gear 3"},
+        "8":{"player":0,"name":"Gear 4"}
       }
     },
     ":IN1":{
@@ -51,24 +19,11 @@
         "40":{"player":0,"name":"View 3"}
       }
     },
-    ":IN2":{
-      "labels":{
-      }
-    },
     ":SYSTEM":{
       "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "2":{"player":0,"name":"Coin 2"},
         "4":{"player":0,"name":"1 Player Start"},
-        "8":{"player":0,"name":"Tilt"},
-        "10":{"player":0,"name":"Service 2"},
-        "40":{"player":0,"name":"Service 1"},
-        "80":{"player":0,"name":"Coin 3"},
-        "100":{"player":0,"name":"Coin 4"},
         "200":{"player":0,"name":"2 Players Start"},
-        "400":{"player":0,"name":"3 Players Start"},
-        "800":{"player":0,"name":"Volume Down"},
-        "1000":{"player":0,"name":"Volume Up"}
+        "400":{"player":0,"name":"3 Players Start"}
       }
     }
   }

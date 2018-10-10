@@ -1,0 +1,36 @@
+{
+  "ports":{
+    ":WHEEL":{"labels":{"ff":{"player":0,"name":"Steering"}}},
+    ":ACCEL":{"labels":{"ff":{"player":0,"name":"Accelerate"}}},
+    ":DSW":{
+      "labels":{
+        "2":{"player":0,"name":"Gear Shifter Switch"},
+        "4":{"player":0,"name":"Added Attractions"},
+        "8":{"player":0,"name":"Graphic Effects"},
+        "20":{"player":0,"name":"Link"},
+        "c0":{"player":0,"name":"Link Machine"},
+        "400":{"player":0,"name":"Unused"},
+        "f800":{"player":0,"name":"Coinage"}
+      }
+    },
+    ":BRAKE":{"labels":{"ff":{"player":0,"name":"Brake"}}},
+    ":IN1":{
+      "labels":{
+        "2":{"player":0,"name":"Radio"},
+        "10":{"player":0,"name":"View 1"},
+        "20":{"player":0,"name":"View 2"},
+        "40":{"player":0,"name":"View 3"}
+      }
+    },
+    ":IN0":{
+      "labels":{
+        "4":{"player":0,"name":"Start"},
+        "400":{"player":0,"name":"Gear 4"},
+        "800":{"player":0,"name":"Gear 3"},
+        "1000":{"player":0,"name":"Gear 2"},
+        "2000":{"player":0,"name":"Gear 1"},
+        "4000":{"player":0,"name":"Coin 4"}
+      }
+    }
+  }
+}

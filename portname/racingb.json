@@ -1,0 +1,17 @@
+{
+  "ports":{
+    ":STEER":{"labels":{"ff":{"player":0,"name":"Steer"}}},
+    ":IN0":{
+      "labels":{
+        "2":{"player":0,"name":"Gear Shift"},
+        "20":{"player":0,"name":"Brake"}
+      }
+    },
+    ":IN1":{
+      "labels":{
+        "8":{"player":0,"name":"Start"},
+        "20":{"player":0,"name":"Accelerate"}
+      }
+    }
+  }
+}

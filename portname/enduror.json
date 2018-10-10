@@ -1,8 +1,8 @@
 {
   "ports":{
-    ":ADC0":{"labels":{"ff":{"player":0,"name":"Gas"}}},
-    ":ADC1":{"labels":{"ff":{"player":0,"name":"Pedal"}}},
-    ":ADC2":{"labels":{"ff":{"player":0,"name":"AD Stick Y"}}},
-    ":ADC3":{"labels":{"ff":{"player":0,"name":"AD Stick X"}}}
+    ":ADC0":{"labels":{"ff":{"player":0,"name":"Accelerate"}}},
+    ":ADC1":{"labels":{"ff":{"player":0,"name":"Brake"}}},
+    ":ADC2":{"labels":{"ff":{"player":0,"name":"Steer Horizontal"}}},
+    ":ADC3":{"labels":{"ff":{"player":0,"name":"Steer Vertical"}}}
   }
 }

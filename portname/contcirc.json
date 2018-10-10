@@ -1,38 +1,14 @@
 {
   "ports":{
-    ":BRAKE":{
-      "labels":{
-        "7":{"player":0,"name":"Brake Pedal"}
-      }
-    },
-    ":GAS":{
-      "labels":{
-        "7":{"player":0,"name":"Gas Pedal"}
-      }
-    },
-    ":IN0":{
-      "labels":{
-        "4":{"player":0,"name":"Coin 2"},
-        "8":{"player":0,"name":"Coin 1"},
-        "10":{"player":0,"name":"Service 1"},
-        "e0":{"player":0,"name":"Gas Switch"}
-      }
-    },
+    ":STEER":{"labels":{"ff":{"player":0,"name":"Steering"}}},
+    ":GAS":{"labels":{"7":{"player":0,"name":"Accelerate"}}},
+    ":BRAKE":{"labels":{"7":{"player":0,"name":"Brake"}}},
+    ":IN0":{"labels":{"e0":{"player":0,"name":"Gas Button"}}},
     ":IN1":{
       "labels":{
-        "4":{"player":0,"name":"Tilt"},
-        "8":{"player":0,"name":"1 Player Start"},
-        "10":{"player":0,"name":"Shifter"},
-        "e0":{"player":0,"name":"Brake Switch"}
-      }
-    },
-    ":IN2":{
-      "labels":{
-      }
-    },
-    ":STEER":{
-      "labels":{
-        "ff":{"player":0,"name":"Steering Wheel"}
+        "8":{"player":0,"name":"Start"},
+        "10":{"player":0,"name":"Gear Shift"},
+        "e0":{"player":0,"name":"Brake Button"}
       }
     }
   }

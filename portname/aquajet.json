@@ -1,19 +1,7 @@
 {
   "ports":{
-    ":ADC.0":{
-      "labels":{
-        "ff":{"player":0,"name":"Steer"}
-      }
-    },
-    ":ADC.1":{
-      "labels":{
-        "ff":{"player":0,"name":"Gas"}
-      }
-    },
-    ":ADC.2":{
-      "labels":{
-        "ff":{"player":0,"name":"AD Stick Y"}
-      }
-    }
+    ":ADC.0":{"labels":{"ff":{"player":0,"name":"Steering"}}},
+    ":ADC.1":{"labels":{"ff":{"player":0,"name":"Accelerate"}}},
+    ":ADC.2":{"labels":{"ff":{"player":0,"name":"Stick Y"}}}
   }
 }

@@ -1,18 +1,13 @@
 {
   "ports":{
-    ":NMI":{
-      "labels":{
-        "1":{"player":0,"name":"PAUSE"}
-      }
-    },
     ":PA7":{
       "labels":{
         "1":{"player":0,"name":"P1 Up"},
         "2":{"player":0,"name":"P1 Down"},
         "4":{"player":0,"name":"P1 Left"},
         "8":{"player":0,"name":"P1 Right"},
-        "10":{"player":0,"name":"P1 Button 1"},
-        "20":{"player":0,"name":"P1 Button 2"},
+        "10":{"player":0,"name":"P1 1 (Fire)"},
+        "20":{"player":0,"name":"P1 2 (Turn)"},
         "40":{"player":1,"name":"P2 Up"},
         "80":{"player":1,"name":"P2 Down"}
       }
@@ -21,8 +16,8 @@
       "labels":{
         "1":{"player":1,"name":"P2 Left"},
         "2":{"player":1,"name":"P2 Right"},
-        "4":{"player":1,"name":"P2 Button 1"},
-        "8":{"player":1,"name":"P2 Button 2"}
+        "4":{"player":1,"name":"P2 1 (Fire)"},
+        "8":{"player":1,"name":"P2 2 (Turn)"}
       }
     }
   }

@@ -13,15 +13,7 @@
         "80":{"player":0,"name":"Horn"}
       }
     },
-    ":IN6":{
-      "labels":{
-        "ff":{"player":0,"name":"Paddle"}
-      }
-    },
-    ":PEDAL":{
-      "labels":{
-        "ff":{"player":0,"name":"Gas"}
-      }
-    }
+    ":IN6":{"labels":{"ff":{"player":0,"name":"Steering"}}},
+    ":PEDAL":{"labels":{"ff":{"player":0,"name":"Accelerate"}}}
   }
 }

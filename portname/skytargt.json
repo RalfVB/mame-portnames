@@ -1,11 +1,11 @@
 {
   "ports":{
-    ":ANA0":{"labels":{"ff":{"player":0,"name":"Stick Vertical"}}},
-    ":ANA2":{"labels":{"ff":{"player":0,"name":"Stick Horizontal"}}},
-    ":IN0":{"labels":{"20":{"player":0,"name":"View Change"}}},
+    ":STICKX":{"labels":{"ff":{"player":0,"name":"Stick Horizontal"}}},
+    ":STICKY":{"labels":{"ff":{"player":0,"name":"Stick Vertical"}}},
+    ":IN0":{"labels":{"40":{"player":0,"name":"Start"}}},
     ":IN1":{
       "labels":{
-        "10":{"player":0,"name":"Machine Gun"},
+        "10":{"player":0,"name":"Vulcan"},
         "20":{"player":0,"name":"Missile"}
       }
     }

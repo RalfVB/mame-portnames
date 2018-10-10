@@ -2,26 +2,26 @@
   "ports":{
     ":PORTA":{
       "labels":{
-        "1":{"player":0,"name":"P1 Button 1"},
-        "2":{"player":0,"name":"P1 Button 2"},
-        "4":{"player":0,"name":"P1 Button 3"}
+        "1":{"player":0,"name":"P1 LP"},
+        "2":{"player":0,"name":"P1 HP"},
+        "4":{"player":0,"name":"P1 Sidestep"}
       }
     },
     ":PORTB":{
       "labels":{
-        "1":{"player":1,"name":"P2 Button 1"},
-        "2":{"player":1,"name":"P2 Button 2"},
-        "4":{"player":1,"name":"P2 Button 3"}
+        "1":{"player":1,"name":"P2 LP"},
+        "2":{"player":1,"name":"P2 HP"},
+        "4":{"player":1,"name":"P2 Sidestep"}
       }
     },
     ":PORTF":{
       "labels":{
-        "1":{"player":0,"name":"P1 Button 4"},
-        "2":{"player":0,"name":"P1 Button 5"},
-        "4":{"player":0,"name":"P1 Button 6"},
-        "10":{"player":1,"name":"P2 Button 4"},
-        "20":{"player":1,"name":"P2 Button 5"},
-        "40":{"player":1,"name":"P2 Button 6"}
+        "1":{"player":0,"name":"P1 LK"},
+        "2":{"player":0,"name":"P1 HK"},
+        "4":{"player":0,"name":"P1 (n/a)"},
+        "10":{"player":1,"name":"P2 LK"},
+        "20":{"player":1,"name":"P2 HK"},
+        "40":{"player":1,"name":"P2 (n/a)"}
       }
     }
   }
