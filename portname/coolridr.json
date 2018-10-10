@@ -1,49 +1,25 @@
 {
   "ports":{
-    ":AN0":{
-      "labels":{
-        "ff":{"player":0,"name":"P1 Handle Bar"}
-      }
-    },
-    ":AN1":{
-      "labels":{
-        "ff":{"player":0,"name":"P1 Throttle"}
-      }
-    },
-    ":AN2":{
-      "labels":{
-        "ff":{"player":0,"name":"P1 Brake"}
-      }
-    },
-    ":AN4":{
-      "labels":{
-        "ff":{"player":1,"name":"P2 Handle Bar"}
-      }
-    },
-    ":AN5":{
-      "labels":{
-        "ff":{"player":1,"name":"P2 Throttle"}
-      }
-    },
-    ":AN6":{
-      "labels":{
-        "ff":{"player":1,"name":"P2 Brake"}
-      }
-    },
+    ":AN0":{"labels":{"ff":{"player":0,"name":"P1 Steering"}}},
+    ":AN1":{"labels":{"ff":{"player":0,"name":"P1 Accelerate"}}},
+    ":AN2":{"labels":{"ff":{"player":0,"name":"P1 Brake"}}},
+    ":AN4":{"labels":{"ff":{"player":1,"name":"P2 Steering"}}},
+    ":AN5":{"labels":{"ff":{"player":1,"name":"P2 Accelerate"}}},
+    ":AN6":{"labels":{"ff":{"player":1,"name":"P2 Brake"}}},
     ":IN1":{
       "labels":{
         "4":{"player":0,"name":"P1 Music <<"},
         "8":{"player":0,"name":"P1 Music >>"},
-        "10":{"player":0,"name":"P1 Shift Up"},
-        "20":{"player":0,"name":"P1 Shift Down"}
+        "10":{"player":0,"name":"P1 Gear Up"},
+        "20":{"player":0,"name":"P1 Gear Down"}
       }
     },
     ":IN5":{
       "labels":{
         "40000":{"player":1,"name":"P2 Music <<"},
         "80000":{"player":1,"name":"P2 Music >>"},
-        "100000":{"player":1,"name":"P2 Shift Up"},
-        "200000":{"player":1,"name":"P2 Shift Down"}
+        "100000":{"player":1,"name":"P2 Gear Up"},
+        "200000":{"player":1,"name":"P2 Gear Down"}
       }
     }
   }

@@ -1,13 +1,8 @@
 {
   "ports":{
-    ":ACCEL":{"labels":{"ff":{"player":0,"name":"Gas Pedal"}}},
-    ":BRAKE":{"labels":{"ff":{"player":0,"name":"Brake Pedal"}}},
-    ":IN1":{
-      "labels":{
-        "10":{"player":0,"name":"Gear Change"},
-        "20":{"player":0,"name":"Freeze Screen"}
-      }
-    },
-    ":WHEEL":{"labels":{"ff":{"player":0,"name":"Steering Wheel"}}}
+    ":ACCEL":{"labels":{"ff":{"player":0,"name":"Accelerate"}}},
+    ":BRAKE":{"labels":{"ff":{"player":0,"name":"Brake"}}},
+    ":WHEEL":{"labels":{"ff":{"player":0,"name":"Steering"}}},
+    ":IN1":{"labels":{"10":{"player":0,"name":"Gear Shift"}}}
   }
 }

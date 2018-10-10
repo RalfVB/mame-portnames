@@ -8,7 +8,7 @@
         "80":{"player":0,"name":"P2 Start"}
       }
     },
-    ":IN5":{"labels":{"ff":{"player":0,"name":"Steering Wheel"}}},
-    ":PEDAL":{"labels":{"ff":{"player":0,"name":"Gas Pedal"}}}
+    ":IN5":{"labels":{"ff":{"player":0,"name":"Steering"}}},
+    ":PEDAL":{"labels":{"ff":{"player":0,"name":"Accelerate"}}}
   }
 }

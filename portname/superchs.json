@@ -1,22 +1,13 @@
 {
   "ports":{
-    ":ACCEL":{
-      "labels":{
-        "ff":{"player":0,"name":"Accelerate"}
-      }
-    },
+    ":WHEEL":{"labels":{"ff":{"player":0,"name":"Steering"}}},
+    ":ACCEL":{"labels":{"ff":{"player":0,"name":"Accelerate"}}},
     ":SWITCHES":{
       "labels":{
-        "1":{"player":0,"name":"Seat Center"},
         "10":{"player":0,"name":"Nitro"},
-        "20":{"player":0,"name":"Shifter"},
-        "40":{"player":0,"name":"Brake Switch"},
+        "20":{"player":0,"name":"Gear Shift"},
+        "40":{"player":0,"name":"Brake"},
         "80":{"player":0,"name":"Start"}
-      }
-    },
-    ":WHEEL":{
-      "labels":{
-        "ff":{"player":0,"name":"Steering"}
       }
     }
   }

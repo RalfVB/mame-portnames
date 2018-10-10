@@ -1,32 +1,7 @@
 {
   "ports":{
-    ":ACCEL":{
-      "labels":{
-        "ff":{"player":0,"name":"Gas Pedal"}
-      }
-    },
-    ":BRAKE":{
-      "labels":{
-        "ff":{"player":0,"name":"Brake Pedal"}
-      }
-    },
-    ":IN1":{
-      "labels":{
-        "2":{"player":0,"name":"Radio"},
-        "10":{"player":0,"name":"View 1"},
-        "20":{"player":0,"name":"View 2"},
-        "40":{"player":0,"name":"View 3"},
-        "80":{"player":0,"name":"Motion Stop"},
-        "100":{"player":0,"name":"Motion Status - Device 1"},
-        "200":{"player":0,"name":"Motion Status - Device 2"},
-        "400":{"player":0,"name":"Motion Status - Device 3"},
-        "800":{"player":0,"name":"Motion Status - Device 4"}
-      }
-    },
-    ":WHEEL":{
-      "labels":{
-        "ff":{"player":0,"name":"Steering Wheel"}
-      }
-    }
+    ":ACCEL":{"labels":{"ff":{"player":0,"name":"Accelerate"}}},
+    ":BRAKE":{"labels":{"ff":{"player":0,"name":"Brake"}}},
+    ":WHEEL":{"labels":{"ff":{"player":0,"name":"Steering"}}}
   }
 }

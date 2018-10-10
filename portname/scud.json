@@ -1,5 +1,11 @@
 {
   "ports":{
+    ":IN0":{
+      "labels":{
+        "10":{"player":0,"name":"P1 Start"},
+        "20":{"player":0,"name":"P2 Start"}
+      }
+    },
     ":AN0":{"labels":{"ff":{"player":0,"name":"Steering"}}},
     ":AN1":{"labels":{"ff":{"player":0,"name":"Accelerate"}}},
     ":AN2":{"labels":{"ff":{"player":0,"name":"Brake"}}},

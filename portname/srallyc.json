@@ -1,0 +1,9 @@
+{
+  "ports":{
+    ":BRAKE":{"labels":{"ff":{"player":0,"name":"Brake"}}},
+    ":IN0":{"labels":{"40":{"player":0,"name":"Start"}}},
+    ":ACCEL":{"labels":{"ff":{"player":0,"name":"Accelerate"}}},
+    ":IN2":{"labels":{"ff":{"player":0,"name":"Hand Brake"}}},
+    ":STEER":{"labels":{"ff":{"player":0,"name":"Steering"}}}
+  }
+}

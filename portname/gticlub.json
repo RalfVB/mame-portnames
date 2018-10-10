@@ -1,32 +1,16 @@
 {
   "ports":{
-    ":AN0":{
-      "labels":{
-        "3ff":{"player":0,"name":"Steering Wheel"}
-      }
-    },
-    ":AN1":{
-      "labels":{
-        "3ff":{"player":0,"name":"Accelerator"}
-      }
-    },
-    ":AN2":{
-      "labels":{
-        "3ff":{"player":0,"name":"Brake"}
-      }
-    },
-    ":AN3":{
-      "labels":{
-        "3ff":{"player":0,"name":"Handbrake"}
-      }
-    },
+    ":AN0":{"labels":{"3ff":{"player":0,"name":"Steering"}}},
+    ":AN1":{"labels":{"3ff":{"player":0,"name":"Accelerate"}}},
+    ":AN2":{"labels":{"3ff":{"player":0,"name":"Brake"}}},
+    ":AN3":{"labels":{"3ff":{"player":0,"name":"Handbrake"}}},
     ":IN0":{
       "labels":{
-        "4":{"player":0,"name":"Service Button"},
-        "10":{"player":0,"name":"AT/MT switch"},
-        "20":{"player":0,"name":"Shift Up"},
-        "40":{"player":0,"name":"Shift Down"},
-        "80":{"player":0,"name":"View switch"}
+        "4":{"player":0,"name":"Service"},
+        "10":{"player":0,"name":"AT/MT Switch"},
+        "20":{"player":0,"name":"Gear Up"},
+        "40":{"player":0,"name":"Gear Down"},
+        "80":{"player":0,"name":"View Change"}
       }
     }
   }

@@ -1,7 +1,8 @@
 {
   "ports":{
-    ":AN5":{"labels":{"ff":{"player":0,"name":"Steering Wheel"}}},
-    ":AN6":{"labels":{"ff":{"player":0,"name":"Brake Pedal"}}},
-    ":AN7":{"labels":{"ff":{"player":0,"name":"Gas Pedal"}}}
+    ":AN5":{"labels":{"ff":{"player":0,"name":"Steering"}}},
+    ":AN6":{"labels":{"ff":{"player":0,"name":"Brake"}}},
+    ":AN7":{"labels":{"ff":{"player":0,"name":"Accelerate"}}},
+    ":MCUH":{"labels":{"20":{"player":0,"name":"Gear Shift"}}}
   }
 }

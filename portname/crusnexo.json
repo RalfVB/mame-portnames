@@ -1,47 +1,14 @@
 {
   "ports":{
-    ":ANALOG1":{
-      "labels":{
-        "ff":{"player":0,"name":"Brake Pedal"}
-      }
-    },
-    ":ANALOG2":{
-      "labels":{
-        "ff":{"player":0,"name":"Gas Pedal"}
-      }
-    },
-    ":ANALOG3":{
-      "labels":{
-        "ff":{"player":0,"name":"Steering Wheel"}
-      }
-    },
+    ":ANALOG1":{"labels":{"ff":{"player":0,"name":"Brake"}}},
+    ":ANALOG2":{"labels":{"ff":{"player":0,"name":"Accelerate"}}},
+    ":ANALOG3":{"labels":{"ff":{"player":0,"name":"Steering"}}},
     ":IN1":{
       "labels":{
-        "2":{"player":0,"name":"Radio"},
-        "10":{"player":0,"name":"View 1"},
-        "20":{"player":0,"name":"View 2"},
-        "40":{"player":0,"name":"View 3"},
-        "80":{"player":0,"name":"View 4"},
-        "100":{"player":0,"name":"1st Gear"},
-        "200":{"player":0,"name":"2nd Gear"},
-        "400":{"player":0,"name":"3rd Gear"},
-        "800":{"player":0,"name":"4th Gear"}
-      }
-    },
-    ":KEYPAD":{
-      "labels":{
-        "1":{"player":0,"name":"Keypad 3"},
-        "2":{"player":0,"name":"Keypad 1"},
-        "4":{"player":0,"name":"Keypad 2"},
-        "10":{"player":0,"name":"Keypad 6"},
-        "20":{"player":0,"name":"Keypad 4"},
-        "40":{"player":0,"name":"Keypad 5"},
-        "100":{"player":0,"name":"Keypad 9"},
-        "200":{"player":0,"name":"Keypad 7"},
-        "400":{"player":0,"name":"Keypad 8"},
-        "1000":{"player":0,"name":"Keypad #"},
-        "2000":{"player":0,"name":"Keypad *"},
-        "4000":{"player":0,"name":"Keypad 0"}
+        "100":{"player":0,"name":"Gear 1"},
+        "200":{"player":0,"name":"Gear 2"},
+        "400":{"player":0,"name":"Gear 3"},
+        "800":{"player":0,"name":"Gear 4"}
       }
     }
   }

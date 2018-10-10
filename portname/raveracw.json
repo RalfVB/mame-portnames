@@ -1,8 +1,7 @@
 {
   "ports":{
+    ":BRAKE":{"labels":{"ff":{"player":0,"name":"Brake"}}},
     ":STEER":{"labels":{"ff":{"player":0,"name":"Steering"}}},
     ":GAS":{"labels":{"ff":{"player":0,"name":"Accelerate"}}},
-    ":80000":{"labels":{"ff0000":{"player":0,"name":"Pedal 3"}}},
-    ":82000":{"labels":{"ff0000":{"player":0,"name":"Pedal 2"}}}
   }
 }

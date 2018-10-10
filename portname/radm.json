@@ -1,0 +1,14 @@
+{
+  "ports":{
+    ":mainpcb:ANALOG1":{"labels":{"ff":{"player":0,"name":"Steering"}}},
+    ":mainpcb:ANALOG2":{"labels":{"ff":{"player":0,"name":"Accelerate"}}},
+    ":mainpcb:ANALOG3":{"labels":{"ff":{"player":0,"name":"Brake"}}},
+    ":mainpcb:SERVICE12_A":{"labels":{"10":{"player":0,"name":"Start"}}},
+    ":mainpcb:P1_A":{
+      "labels":{
+        "2":{"player":0,"name":"Light"},
+        "4":{"player":0,"name":"Wiper"}
+      }
+    }
+  }
+}

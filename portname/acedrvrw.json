@@ -1,25 +1,12 @@
 {
   "ports":{
-    ":BRAKE":{
-      "labels":{
-        "ff":{"player":0,"name":"Brake Pedal"}
-      }
-    },
-    ":GAS":{
-      "labels":{
-        "ff":{"player":0,"name":"Gas Pedal"}
-      }
-    },
+    ":STEER":{"labels":{"ff":{"player":0,"name":"Steering"}}},
+    ":GAS":{"labels":{"ff":{"player":0,"name":"Accelerate"}}},
+    ":BRAKE":{"labels":{"ff":{"player":0,"name":"Brake"}}},
     ":INPUTS":{
       "labels":{
-        "1":{"player":0,"name":"Shift Down"},
-        "2":{"player":0,"name":"Shift Up"},
-        "40":{"player":0,"name":"View Change"}
-      }
-    },
-    ":STEER":{
-      "labels":{
-        "ff":{"player":0,"name":"Steering Wheel"}
+        "1":{"player":0,"name":"Gear Down"},
+        "2":{"player":0,"name":"Gear Up"}
       }
     }
   }

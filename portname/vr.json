@@ -1,22 +1,8 @@
 {
   "ports":{
-    ":AN.0":{"labels":{"ff":{"player":0,"name":"Steering"}}},
-    ":AN.1":{"labels":{"ff":{"player":0,"name":"Accelerate"}}},
-    ":AN.2":{"labels":{"ff":{"player":0,"name":"Brake"}}},
-    ":IN.0":{
-      "labels":{
-        "10":{"player":0,"name":"Start"},
-        "20":{"player":0,"name":"VR1 (Red)"},
-        "40":{"player":0,"name":"VR2 (Blue)"},
-        "80":{"player":0,"name":"VR3 (Yellow)"}
-      }
-    },
-    ":IN.1":{
-      "labels":{
-        "1":{"player":0,"name":"VR4 (Green)"},
-        "10":{"player":0,"name":"Shift Down"},
-        "20":{"player":0,"name":"Shift Up"}
-      }
-    }
+    ":WHEEL":{"labels":{"ff":{"player":0,"name":"Steering"}}},
+    ":BRAKE":{"labels":{"ff":{"player":0,"name":"Brake"}}},
+    ":ACCEL":{"labels":{"ff":{"player":0,"name":"Accelerate"}}},
+    ":IN.0":{"labels":{"10":{"player":0,"name":"Start"}}},
   }
 }

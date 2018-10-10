@@ -1,65 +1,16 @@
 {
   "ports":{
-    ":991030":{
-      "labels":{
-      }
-    },
-    ":992000":{
-      "labels":{
-      }
-    },
-    ":ACCEL":{
-      "labels":{
-        "ff":{"player":0,"name":"P1 Pedal 1"}
-      }
-    },
-    ":BRAKE":{
-      "labels":{
-        "ff":{"player":0,"name":"P1 Pedal 2"}
-      }
-    },
-    ":DSW":{
-      "labels":{
-        "3":{"player":0,"name":"Link Number"},
-        "4":{"player":0,"name":"Linking"},
-        "18":{"player":0,"name":"Games Linked"},
-        "20":{"player":0,"name":"Cabinet"},
-        "40":{"player":0,"name":"Unused"},
-        "80":{"player":0,"name":"Service Mode"},
-        "100":{"player":0,"name":"Coin Counters"},
-        "fe00":{"player":0,"name":"Coinage"}
-      }
-    },
+    ":ACCEL":{"labels":{"ff":{"player":0,"name":"Accelerate"}}},
+    ":BRAKE":{"labels":{"ff":{"player":0,"name":"Brake"}}},
     ":IN0":{
       "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "2":{"player":0,"name":"Coin 2"},
-        "4":{"player":0,"name":"1 Player Start"},
-        "8":{"player":0,"name":"Tilt"},
-        "10":{"player":0,"name":"Enter"},
-        "40":{"player":0,"name":"Service 1"},
-        "80":{"player":0,"name":"Coin 3"},
-        "100":{"player":0,"name":"Volume Down"},
-        "200":{"player":0,"name":"Volume Up"},
-        "400":{"player":0,"name":"4th Gear"},
-        "800":{"player":0,"name":"3rd Gear"},
-        "1000":{"player":0,"name":"2nd Gear"},
-        "2000":{"player":0,"name":"1st Gear"},
-        "4000":{"player":0,"name":"Coin 4"}
+        "4":{"player":0,"name":"Start"},
+        "400":{"player":0,"name":"Gear 4"},
+        "800":{"player":0,"name":"Gear 3"},
+        "1000":{"player":0,"name":"Gear 2"},
+        "2000":{"player":0,"name":"Gear 1"}
       }
     },
-    ":IN1":{
-      "labels":{
-        "2":{"player":0,"name":"Radio"},
-        "10":{"player":0,"name":"View 1"},
-        "20":{"player":0,"name":"View 2"},
-        "40":{"player":0,"name":"View 3"}
-      }
-    },
-    ":WHEEL":{
-      "labels":{
-        "ff":{"player":0,"name":"Paddle"}
-      }
-    }
+    ":WHEEL":{"labels":{"ff":{"player":0,"name":"Steering"}}}
   }
 }

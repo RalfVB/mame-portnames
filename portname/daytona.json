@@ -1,40 +1,16 @@
 {
   "ports":{
-    ":ACCEL":{
-      "labels":{
-        "ff":{"player":0,"name":"Gas Pedal"}
-      }
-    },
-    ":BRAKE":{
-      "labels":{
-        "ff":{"player":0,"name":"Brake Pedal"}
-      }
-    },
+    ":ACCEL":{"labels":{"ff":{"player":0,"name":"Accelerate"}}},
+    ":BRAKE":{"labels":{"ff":{"player":0,"name":"Brake"}}},
     ":GEARS":{
       "labels":{
-        "1":{"player":0,"name":"GEAR N"},
-        "2":{"player":0,"name":"GEAR 1"},
-        "4":{"player":0,"name":"GEAR 2"},
-        "8":{"player":0,"name":"GEAR 3"},
-        "10":{"player":0,"name":"GEAR 4"}
+        "1":{"player":0,"name":"Gear N"},
+        "2":{"player":0,"name":"Gear 1"},
+        "4":{"player":0,"name":"Gear 2"},
+        "8":{"player":0,"name":"Gear 3"},
+        "10":{"player":0,"name":"Gear 4"}
       }
     },
-    ":IN0":{
-      "labels":{
-        "20":{"player":0,"name":"VR 1 (Red)"},
-        "40":{"player":0,"name":"VR 2 (Blue)"},
-        "80":{"player":0,"name":"VR 3 (Yellow)"}
-      }
-    },
-    ":IN1":{
-      "labels":{
-        "1":{"player":0,"name":"VR 4 (Green)"}
-      }
-    },
-    ":STEER":{
-      "labels":{
-        "ff":{"player":0,"name":"Steering Wheel"}
-      }
-    }
+    ":STEER":{"labels":{"ff":{"player":0,"name":"Steering"}}}
   }
 }

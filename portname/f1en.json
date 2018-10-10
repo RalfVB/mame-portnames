@@ -1,65 +1,23 @@
 {
   "ports":{
-    ":mainpcb:ANALOG1":{
+    ":mainpcb:SERVICE12_A":{"labels":{"10":{"player":0,"name":"P1 Start"}}},
+    ":slavepcb:SERVICE12_A":{"labels":{"10":{"player":0,"name":"P2 Start"}}},
+    ":mainpcb:ANALOG1":{"labels":{"ff":{"player":0,"name":"P1 Steering"}}},
+    ":mainpcb:ANALOG2":{"labels":{"ff":{"player":0,"name":"P1 Accelerate"}}},
+    ":mainpcb:ANALOG3":{"labels":{"ff":{"player":0,"name":"P1 Brake"}}},
+        ":mainpcb:P1_A":{
       "labels":{
-        "ff":{"player":0,"name":"mainpcb:Steering Wheel"}
+        "1":{"player":0,"name":"P1 Shift Up"},
+        "2":{"player":0,"name":"P1 Shift Down"}
       }
     },
-    ":mainpcb:ANALOG2":{
+    ":slavepcb:ANALOG1":{"labels":{"ff":{"player":1,"name":"P2 Steering"}}},
+    ":slavepcb:ANALOG2":{"labels":{"ff":{"player":1,"name":"P2 Accelerate"}}},
+    ":slavepcb:ANALOG3":{"labels":{"ff":{"player":1,"name":"P2 Brake"}}},
+        ":slavepcb:P1_A":{
       "labels":{
-        "ff":{"player":0,"name":"mainpcb:Gas Pedal"}
-      }
-    },
-    ":mainpcb:ANALOG3":{
-      "labels":{
-        "ff":{"player":0,"name":"mainpcb:Brake Pedal"}
-      }
-    },
-    ":mainpcb:P1_A":{
-      "labels":{
-        "1":{"player":0,"name":"mainpcb:Gear Up"},
-        "2":{"player":0,"name":"mainpcb:Gear Down"}
-      }
-    },
-    ":mainpcb:SERVICE12_A":{
-      "labels":{
-        "10":{"player":0,"name":"1 Player Start"}
-      }
-    },
-    ":slavepcb:ANALOG1":{
-      "labels":{
-        "ff":{"player":1,"name":"slavepcb:Steering Wheel"}
-      }
-    },
-    ":slavepcb:ANALOG2":{
-      "labels":{
-        "ff":{"player":1,"name":"slavepcb:Gas Pedal"}
-      }
-    },
-    ":slavepcb:ANALOG3":{
-      "labels":{
-        "ff":{"player":1,"name":"slavepcb:Brake Pedal"}
-      }
-    },
-    ":slavepcb:P1_A":{
-      "labels":{
-        "1":{"player":1,"name":"slavepcb:Gear Up"},
-        "2":{"player":1,"name":"slavepcb:Gear Down"}
-      }
-    },
-    ":slavepcb:SERVICE12_A":{
-      "labels":{
-        "1":{"player":0,"name":"Service 2"},
-        "2":{"player":0,"name":"slavepcb:Service Mode"},
-        "4":{"player":0,"name":"Coin 3"},
-        "10":{"player":0,"name":"3 Players Start"}
-      }
-    },
-    ":slavepcb:SERVICE34_A":{
-      "labels":{
-        "8":{"player":0,"name":"Unknown"},
-        "10":{"player":0,"name":"slavepcb:Push SW1 (Service)"},
-        "20":{"player":0,"name":"slavepcb:Push SW2 (Test)"}
+        "1":{"player":1,"name":"P2 Shift Up"},
+        "2":{"player":1,"name":"P2 Shift Down"}
       }
     }
   }

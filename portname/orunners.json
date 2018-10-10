@@ -1,0 +1,49 @@
+{
+  "ports":{
+    ":mainpcb:ANALOG1":{"labels":{"ff":{"player":0,"name":"P1 Steering"}}},
+    ":mainpcb:ANALOG2":{"labels":{"ff":{"player":0,"name":"P1 Accelerate"}}},
+    ":mainpcb:ANALOG3":{"labels":{"ff":{"player":0,"name":"P1 Brake"}}},
+    ":mainpcb:ANALOG4":{"labels":{"ff":{"player":1,"name":"P2 Steering"}}},
+    ":mainpcb:ANALOG7":{"labels":{"ff":{"player":1,"name":"P2 Accelerate"}}},
+    ":mainpcb:ANALOG8":{"labels":{"ff":{"player":1,"name":"P2 Brake"}}},
+    ":mainpcb:SERVICE12_A":{
+      "labels":{
+        "10":{"player":0,"name":"P1 Start"},
+        "20":{"player":0,"name":"P2 Start"}
+      }
+    },
+    ":mainpcb:P2_B":{
+      "labels":{
+        "1":{"player":1,"name":"P2 Button 3"},
+        "2":{"player":1,"name":"P2 Button 4"},
+        "4":{"player":1,"name":"P2 Button 5"}
+      }
+    },
+    ":mainpcb:SERVICE12_B":{
+      "labels":{
+        "10":{"player":0,"name":"2 Players Start"}
+      }
+    },
+
+    ":mainpcb:P2_A":{
+      "labels":{
+        "1":{"player":0,"name":"P1 Button 3"},
+        "2":{"player":0,"name":"P1 Button 4"},
+        "4":{"player":0,"name":"P1 Button 5"}
+      }
+    },
+
+    ":mainpcb:P1_B":{
+      "labels":{
+        "1":{"player":1,"name":"P2 Button 1"},
+        "2":{"player":1,"name":"P2 Button 2"}
+      }
+    },
+    ":mainpcb:P1_A":{
+      "labels":{
+        "1":{"player":0,"name":"P1 Button 1"},
+        "2":{"player":0,"name":"P1 Button 2"}
+      }
+    }
+  }
+}

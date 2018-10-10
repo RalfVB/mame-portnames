@@ -1,0 +1,13 @@
+{
+  "ports":{
+    ":MCUB":{
+      "labels":{
+        "40":{"player":0,"name":"P2 Start"},
+        "80":{"player":0,"name":"P1 Start"}
+      }
+    },
+    ":AN5":{"labels":{"ff":{"player":0,"name":"Steering"}}},
+    ":AN6":{"labels":{"ff":{"player":0,"name":"Brake"}}},
+    ":AN7":{"labels":{"ff":{"player":0,"name":"Accelerate"}}}
+  }
+}

@@ -1,28 +1,7 @@
 {
   "ports":{
-    ":ADC.0":{
-      "labels":{
-        "ff":{"player":0,"name":"Steering Wheel"}
-      }
-    },
-    ":ADC.1":{
-      "labels":{
-        "ff":{"player":0,"name":"Gas Pedal"}
-      }
-    },
-    ":ADC.2":{
-      "labels":{
-        "ff":{"player":0,"name":"Brake Pedal"}
-      }
-    },
-    ":MCUP5A":{
-      "labels":{
-        "4":{"player":0,"name":"Service 1"},
-        "10":{"player":0,"name":"View Change"},
-        "20":{"player":0,"name":"Shift Up"},
-        "40":{"player":0,"name":"Shift Down"},
-        "80":{"player":0,"name":"Motion-Stop"}
-      }
-    }
+    ":ADC.0":{"labels":{"ff":{"player":0,"name":"Steering"}}},
+    ":ADC.1":{"labels":{"ff":{"player":0,"name":"Accelerate"}}},
+    ":ADC.2":{"labels":{"ff":{"player":0,"name":"Brake"}}}
   }
 }
