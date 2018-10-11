@@ -3,7 +3,7 @@
     ":ctrl1:joypad:JOYPAD":{
       "labels":{
         "1":{"player":0,"name":"B (Accelerate)"},
-        "2":{"player":0,"name":"Y (Decelerate)"},
+        "2":{"player":0,"name":"Y (Brake)"},
         "4":{"player":0,"name":"Select (n/a)"},
         "8":{"player":0,"name":"Start (Pause)"},
         "10":{"player":0,"name":"Up"},
@@ -11,7 +11,7 @@
         "40":{"player":0,"name":"Left"},
         "80":{"player":0,"name":"Right"},
         "100":{"player":0,"name":"A (Boost)"},
-        "200":{"player":0,"name":"X"},
+        "200":{"player":0,"name":"X (n/a)"},
         "400":{"player":0,"name":"L (Bank Left)"},
         "800":{"player":0,"name":"R (Bank Right)"}
       }

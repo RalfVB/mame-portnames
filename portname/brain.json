@@ -2,14 +2,14 @@
   "ports":{
     ":P1":{
       "labels":{
-        "2":{"player":0,"name":"P1 Button 2"},
-        "4":{"player":0,"name":"P1 Button 1"}
+        "2":{"player":0,"name":"P1 Missile"},
+        "4":{"player":0,"name":"P1 Shot"}
       }
     },
     ":P2":{
       "labels":{
-        "2":{"player":1,"name":"P2 Button 2"},
-        "4":{"player":1,"name":"P2 Button 1"}
+        "2":{"player":1,"name":"P2 Missile"},
+        "4":{"player":1,"name":"P2 Shot"}
       }
     }
   }

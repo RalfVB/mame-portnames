@@ -1,0 +1,30 @@
+{
+  "romname":"alpinr2b",
+  "ports":{
+    ":ADC.0":{
+      "labels":{
+        "ff":{"player":0,"name":"Steps Swing"}
+      }
+    },
+    ":DSW0":{
+      "labels":{
+        "80":{"player":0,"name":"Unknown"}
+      }
+    },
+    ":ADC.1":{
+      "labels":{
+        "ff":{"player":1,"name":"Steps Edge"}
+      }
+    },
+    ":MCUP5A":{
+      "labels":{
+        "1":{"player":0,"name":"Coin 1"},
+        "4":{"player":0,"name":"Service 1"},
+        "8":{"player":0,"name":"Service Mode"},
+        "10":{"player":0,"name":"1 Player Start"},
+        "20":{"player":0,"name":"P1 Left"},
+        "40":{"player":0,"name":"P1 Right"}
+      }
+    }
+  }
+}

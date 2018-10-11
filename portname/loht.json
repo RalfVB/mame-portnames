@@ -1,31 +1,9 @@
 {
-  "romname":"loht",
   "ports":{
     ":IN1":{
       "labels":{
         "1":{"player":0,"name":"1 Player Start"},
-        "2":{"player":0,"name":"2 Players Start"},
-        "4":{"player":0,"name":"Coin 1"},
-        "8":{"player":0,"name":"Coin 2"},
-        "10":{"player":0,"name":"Service 1"},
-        "20":{"player":0,"name":"Service"}
-      }
-    },
-    ":DSW":{
-      "labels":{
-        "3":{"player":0,"name":"Lives"},
-        "4":{"player":0,"name":"Demo Sounds"},
-        "8":{"player":0,"name":"Unused"},
-        "30":{"player":0,"name":"Coin A"},
-        "c0":{"player":0,"name":"Coin B"},
-        "f0":{"player":0,"name":"Coinage"},
-        "100":{"player":0,"name":"Flip Screen"},
-        "200":{"player":0,"name":"Cabinet"},
-        "400":{"player":0,"name":"Coin Mode"},
-        "1800":{"player":0,"name":"Difficulty"},
-        "2000":{"player":0,"name":"Stop Mode"},
-        "4000":{"player":0,"name":"Invulnerability"},
-        "8000":{"player":0,"name":"Service Mode"}
+        "2":{"player":0,"name":"2 Players Start"}
       }
     },
     ":IN0":{

@@ -1,50 +1,15 @@
 {
-  "romname":"vmetal",
   "ports":{
     ":P1_P2":{
       "labels":{
-        "1":{"player":1,"name":"P2 Up"},
-        "2":{"player":1,"name":"P2 Down"},
-        "4":{"player":1,"name":"P2 Left"},
-        "8":{"player":1,"name":"P2 Right"},
-        "10":{"player":1,"name":"P2 Button 1"},
+        "10":{"player":1,"name":"P2 Shot"},
         "20":{"player":1,"name":"P2 Button 2"},
         "40":{"player":1,"name":"P2 Button 3"},
-        "80":{"player":0,"name":"2 Players Start"},
-        "100":{"player":0,"name":"P1 Up"},
-        "200":{"player":0,"name":"P1 Down"},
-        "400":{"player":0,"name":"P1 Left"},
-        "800":{"player":0,"name":"P1 Right"},
-        "1000":{"player":0,"name":"P1 Button 1"},
+        "80":{"player":0,"name":"P2 Start"},
+        "1000":{"player":0,"name":"P1 Shot"},
         "2000":{"player":0,"name":"P1 Button 2"},
         "4000":{"player":0,"name":"P1 Button 3"},
-        "8000":{"player":0,"name":"1 Player Start"}
-      }
-    },
-    ":DSW0":{
-      "labels":{
-        "7":{"player":0,"name":"Coinage"},
-        "10":{"player":0,"name":"Flip Screen"},
-        "20":{"player":0,"name":"Demo Sounds"},
-        "80":{"player":0,"name":"Unused"}
-      }
-    },
-    ":IN2":{
-      "labels":{
-        "3":{"player":0,"name":"Difficulty"},
-        "c":{"player":0,"name":"Lives"},
-        "10":{"player":0,"name":"Bonus Life"},
-        "40":{"player":0,"name":"Unused"},
-        "80":{"player":0,"name":"Service Mode"}
-      }
-    },
-    ":SYSTEM":{
-      "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "2":{"player":0,"name":"Coin 2"},
-        "4":{"player":0,"name":"Tilt"},
-        "8":{"player":0,"name":"Service 1"},
-        "10":{"player":0,"name":"Service 2"}
+        "8000":{"player":0,"name":"P1 Start"}
       }
     }
   }

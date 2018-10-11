@@ -1,0 +1,30 @@
+{
+  "ports":{
+    ":IN1":{
+      "labels":{
+        "4":{"player":0,"name":"-"},
+        "8":{"player":0,"name":"P1 Shot"},
+        "10":{"player":0,"name":"P1 Right"},
+        "20":{"player":0,"name":"P1 Left"},
+        "40":{"player":0,"name":"P1 Down"},
+        "80":{"player":0,"name":"P1 Up"}
+      }
+    },
+    ":IN2":{
+      "labels":{
+        "4":{"player":1,"name":"-"},
+        "8":{"player":1,"name":"P2 Shot"},
+        "10":{"player":1,"name":"P2 Right"},
+        "20":{"player":1,"name":"P2 Left"},
+        "40":{"player":1,"name":"P2 Down"},
+        "80":{"player":1,"name":"P2 Up"}
+      }
+    },
+    ":IN0":{
+      "labels":{
+        "2":{"player":0,"name":"P2 Start"},
+        "8":{"player":0,"name":"P1 Start"}
+      }
+    }
+  }
+}

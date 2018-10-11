@@ -1,0 +1,34 @@
+{
+  "romname":"pang3",
+  "ports":{
+    ":IN1":{
+      "labels":{
+        "1":{"player":0,"name":"P1 Right"},
+        "2":{"player":0,"name":"P1 Left"},
+        "4":{"player":0,"name":"P1 Down"},
+        "8":{"player":0,"name":"P1 Up"},
+        "10":{"player":0,"name":"P1 Shot"},
+        "100":{"player":1,"name":"P2 Right"},
+        "200":{"player":1,"name":"P2 Left"},
+        "400":{"player":1,"name":"P2 Down"},
+        "800":{"player":1,"name":"P2 Up"},
+        "1000":{"player":1,"name":"P2 Shot"}
+      }
+    },
+    ":IN0":{
+      "labels":{
+        "1":{"player":0,"name":"Coin 1"},
+        "2":{"player":0,"name":"Coin 2"},
+        "4":{"player":0,"name":"Service 1"},
+        "10":{"player":0,"name":"1 Player Start"},
+        "20":{"player":0,"name":"2 Players Start"},
+        "40":{"player":0,"name":"Service Mode"}
+      }
+    },
+    ":DSWC":{
+      "labels":{
+        "80":{"player":0,"name":"Unused"}
+      }
+    }
+  }
+}

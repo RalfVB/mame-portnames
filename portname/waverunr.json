@@ -1,38 +1,10 @@
 {
-  "romname":"waverunr",
   "ports":{
-    ":PITCH":{
-      "labels":{
-        "ff":{"player":0,"name":"Pitch"}
-      }
-    },
-    ":ROLL":{
-      "labels":{
-        "ff":{"player":0,"name":"Roll"}
-      }
-    },
-    ":IN0":{
-      "labels":{
-        "1":{"player":0,"name":"Coin 1"},
-        "4":{"player":0,"name":"Service Mode"},
-        "8":{"player":0,"name":"Service 1"},
-        "40":{"player":0,"name":"1 Player Start"}
-      }
-    },
-    ":IN1":{
-      "labels":{
-        "1":{"player":0,"name":"View"}
-      }
-    },
-    ":THROTTLE":{
-      "labels":{
-        "ff":{"player":0,"name":"Throttle Lever"}
-      }
-    },
-    ":HANDLE":{
-      "labels":{
-        "ff":{"player":0,"name":"Handle Bar"}
-      }
-    }
+    ":PITCH":{"labels":{"ff":{"player":0,"name":"Pitch"}}},
+    ":ROLL":{"labels":{"ff":{"player":0,"name":"Roll"}}},
+    ":IN0":{"labels":{"40":{"player":0,"name":"Start"}}},
+    ":IN1":{"labels":{"1":{"player":0,"name":"View"}}},
+    ":THROTTLE":{"labels":{"ff":{"player":0,"name":"Accelerate"}}},
+    ":HANDLE":{"labels":{"ff":{"player":0,"name":"Steer"}}}
   }
 }

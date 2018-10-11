@@ -1,0 +1,24 @@
+{
+  "ports":{
+    ":P1":{
+      "labels":{
+        "1":{"player":0,"name":"-"},
+        "2":{"player":0,"name":"P1 Shot"},
+        "4":{"player":0,"name":"P1 Formation"}
+      }
+    },
+    ":P2":{
+      "labels":{
+        "1":{"player":1,"name":"-"},
+        "2":{"player":1,"name":"P2 Shot"},
+        "4":{"player":1,"name":"P2 Formation"}
+      }
+    },
+    ":SERVICE":{
+      "labels":{
+        "10":{"player":0,"name":"P1 Start"},
+        "20":{"player":0,"name":"P2 Start"}
+      }
+    }
+  }
+}

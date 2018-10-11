@@ -2,16 +2,16 @@
   "ports":{
     ":INPUTS":{
       "labels":{
-        "1":{"player":0,"name":"A"},
-        "2":{"player":0,"name":"B"},
-        "4":{"player":0,"name":"Select"},
-        "8":{"player":0,"name":"Start"},
+        "1":{"player":0,"name":"A (Accelerate)"},
+        "2":{"player":0,"name":"B (Boost)"},
+        "4":{"player":0,"name":"Select (n/a)"},
+        "8":{"player":0,"name":"Start (Pause)"},
         "10":{"player":0,"name":"Right"},
         "20":{"player":0,"name":"Left"},
         "40":{"player":0,"name":"Up"},
         "80":{"player":0,"name":"Down"},
-        "100":{"player":0,"name":"R"},
-        "200":{"player":0,"name":"L"}
+        "100":{"player":0,"name":"R (?)"},
+        "200":{"player":0,"name":"L (?)"}
       }
     }
   }

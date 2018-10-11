@@ -1,0 +1,58 @@
+{
+  "ports":{
+    ":IN.0":{
+      "labels":{
+        "1":{"player":0,"name":"P1 Button 1"},
+        "2":{"player":0,"name":"P1 Button 2"},
+        "4":{"player":0,"name":"P1 Button 3"},
+        "8":{"player":0,"name":"P1 Button 4"},
+        "10":{"player":1,"name":"P2 Button 1"},
+        "20":{"player":1,"name":"P2 Button 2"},
+        "40":{"player":1,"name":"P2 Button 3"},
+        "80":{"player":1,"name":"P2 Button 4"},
+        "1000":{"player":0,"name":"1 Player Start"},
+        "2000":{"player":0,"name":"2 Players Start"},
+        "4000":{"player":0,"name":"3 Players Start"},
+        "8000":{"player":0,"name":"4 Players Start"}
+      }
+    },
+    ":IN.5":{
+      "labels":{
+        "1":{"player":2,"name":"P3 Up"},
+        "2":{"player":2,"name":"P3 Down"},
+        "4":{"player":2,"name":"P3 Left"},
+        "8":{"player":2,"name":"P3 Right"},
+        "10":{"player":3,"name":"P4 Up"},
+        "20":{"player":3,"name":"P4 Down"},
+        "40":{"player":3,"name":"P4 Left"},
+        "80":{"player":3,"name":"P4 Right"}
+      }
+    },
+    ":IN.1":{
+      "labels":{
+        "1":{"player":0,"name":"P1 Up"},
+        "2":{"player":0,"name":"P1 Down"},
+        "4":{"player":0,"name":"P1 Left"},
+        "8":{"player":0,"name":"P1 Right"},
+        "10":{"player":1,"name":"P2 Up"},
+        "20":{"player":1,"name":"P2 Down"},
+        "40":{"player":1,"name":"P2 Left"},
+        "80":{"player":1,"name":"P2 Right"}
+      }
+    },
+    ":DIAL.0":{"labels":{"fff":{"player":0,"name":"Dial"}}},
+    ":DIAL.1":{"labels":{"fff":{"player":1,"name":"Dial 2"}}},
+    ":IN.4":{
+      "labels":{
+        "100":{"player":2,"name":"P3 Button 1"},
+        "200":{"player":2,"name":"P3 Button 2"},
+        "400":{"player":2,"name":"P3 Button 3"},
+        "800":{"player":2,"name":"P3 Button 4"},
+        "1000":{"player":3,"name":"P4 Button 1"},
+        "2000":{"player":3,"name":"P4 Button 2"},
+        "4000":{"player":3,"name":"P4 Button 3"},
+        "8000":{"player":3,"name":"P4 Button 4"}
+      }
+    }
+  }
+}

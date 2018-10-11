@@ -5,7 +5,7 @@
     ":mainpcb:ADC2":{"labels":{"ff":{"player":0,"name":"Stick Vertical"}}},
     ":mainpcb:IO1PORTA":{
       "labels":{
-        "10":{"player":0,"name":"Vulcan"},
+        "10":{"player":0,"name":"Cannon"},
         "20":{"player":0,"name":"Missile"}
       }
     }

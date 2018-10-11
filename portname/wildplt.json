@@ -1,56 +1,19 @@
 {
-  "romname":"wildplt",
   "ports":{
+    ":P1X":{"labels":{"ff":{"player":0,"name":"P1 Stick Horizontal"}}},
+    ":P1Y":{"labels":{"ff":{"player":0,"name":"P1 Stick Vertical"}}},
+    ":P2X":{"labels":{"ff":{"player":1,"name":"P2 Stick Horizontal"}}},
+    ":P2Y":{"labels":{"ff":{"player":1,"name":"P2 Stick Vertical"}}},
     ":IN1_2":{
       "labels":{
         "2":{"player":0,"name":"P1 Bomb"},
-        "4":{"player":0,"name":"1 Player Start"},
-        "8":{"player":0,"name":"2 Players Start"},
+        "4":{"player":0,"name":"P1 Start"},
+        "8":{"player":0,"name":"P2 Start"},
         "10":{"player":1,"name":"P2 Shot"},
         "20":{"player":1,"name":"P2 Missile"},
         "40":{"player":0,"name":"P1 Shot"},
         "80":{"player":0,"name":"P1 Missile"},
         "100":{"player":1,"name":"P2 Bomb"}
-      }
-    },
-    ":IN0":{
-      "labels":{
-        "7":{"player":0,"name":"Coinage"},
-        "800":{"player":0,"name":"Unknown"},
-        "1000":{"player":0,"name":"Demo Sounds"},
-        "2000":{"player":0,"name":"Lives"},
-        "c000":{"player":0,"name":"Region"}
-      }
-    },
-    ":P2Y":{
-      "labels":{
-        "ff":{"player":1,"name":"AD Stick Y 2"}
-      }
-    },
-    ":IN1_COMMON":{
-      "labels":{
-        "1":{"player":0,"name":"Coin 1"}
-      }
-    },
-    ":IN1_1":{
-      "labels":{
-        "4":{"player":0,"name":"Service 1"},
-        "8":{"player":0,"name":"Service Mode"}
-      }
-    },
-    ":P1Y":{
-      "labels":{
-        "ff":{"player":0,"name":"AD Stick Y"}
-      }
-    },
-    ":P2X":{
-      "labels":{
-        "ff":{"player":1,"name":"AD Stick X 2"}
-      }
-    },
-    ":P1X":{
-      "labels":{
-        "ff":{"player":0,"name":"AD Stick X"}
       }
     }
   }
