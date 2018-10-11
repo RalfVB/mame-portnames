@@ -1,19 +1,25 @@
 {
   "ports":{
+    ":edge:joy:START":{
+      "labels":{
+        "1":{"player":0,"name":"P1 Start"},
+        "4":{"player":0,"name":"P2 Start"}
+      }
+    },
     ":edge:joy:JOY1":{
       "labels":{
         "10":{"player":0,"name":"P1 Shot"},
         "20":{"player":0,"name":"P1 Jump"},
-        "40":{"player":0,"name":"P1 C"},
-        "80":{"player":0,"name":"P1 D"}
+        "40":{"player":0,"name":"P1 Change Weapon"},
+        "80":{"player":0,"name":"-"}
       }
     },
     ":edge:joy:JOY2":{
       "labels":{
         "10":{"player":1,"name":"P2 Shot"},
         "20":{"player":1,"name":"P2 Jump"},
-        "40":{"player":1,"name":"P2 C"},
-        "80":{"player":1,"name":"P2 D"}
+        "40":{"player":1,"name":"P2 Change Weapon"},
+        "80":{"player":1,"name":"-"}
       }
     }
   }

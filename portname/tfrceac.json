@@ -1,0 +1,24 @@
+{
+  "ports":{
+    ":SERVICE":{
+      "labels":{
+        "10":{"player":0,"name":"P1 Start"},
+        "20":{"player":0,"name":"P2 Start"}
+      }
+    },
+    ":P1":{
+      "labels":{
+        "1":{"player":0,"name":"P1 Speed"},
+        "2":{"player":0,"name":"P1 Shot"},
+        "4":{"player":0,"name":"P1 Change"}
+      }
+    },
+    ":P2":{
+      "labels":{
+        "1":{"player":1,"name":"P2 Speed"},
+        "2":{"player":1,"name":"P2 Shot"},
+        "4":{"player":1,"name":"P2 Change"}
+      }
+    }
+  }
+}

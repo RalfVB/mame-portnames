@@ -4,16 +4,16 @@
       "labels":{
         "10":{"player":0,"name":"P1 Shot"},
         "20":{"player":0,"name":"P1 Select"},
-        "40":{"player":0,"name":"P1 ..."},
-        "80":{"player":0,"name":"P1 ..."}
+        "40":{"player":0,"name":"-"},
+        "80":{"player":0,"name":"-"}
       }
     },
     ":edge:joy:JOY2":{
       "labels":{
         "10":{"player":1,"name":"P2 Shot"},
         "20":{"player":1,"name":"P2 Select"},
-        "40":{"player":1,"name":"P2 ..."},
-        "80":{"player":1,"name":"P2 ..."}
+        "40":{"player":1,"name":"-"},
+        "80":{"player":1,"name":"-"}
       }
     }
   }

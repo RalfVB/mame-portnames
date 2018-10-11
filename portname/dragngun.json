@@ -1,5 +1,9 @@
 {
   "ports":{
+    ":LIGHT0_X":{"labels":{"ff":{"player":0,"name":"P1 Aim Horizontal"}}},
+    ":LIGHT0_Y":{"labels":{"ff":{"player":0,"name":"P1 Aim Vertical"}}},
+    ":LIGHT1_X":{"labels":{"ff":{"player":1,"name":"P2 Aim Horizontal"}}},
+    ":LIGHT1_Y":{"labels":{"ff":{"player":1,"name":"P2 Aim Vertical"}}},
     ":INPUTS":{
       "labels":{
         "10":{"player":0,"name":"P1 Fire"},
@@ -7,10 +11,6 @@
         "1000":{"player":1,"name":"P2 Fire"},
         "2000":{"player":1,"name":"P2 Dragon Bomb"}
       }
-    },
-    ":LIGHT0_X":{"labels":{"ff":{"player":0,"name":"P1 Left/Right"}}},
-    ":LIGHT0_Y":{"labels":{"ff":{"player":0,"name":"P1 Up/Down"}}},
-    ":LIGHT1_X":{"labels":{"ff":{"player":1,"name":"P2 Left/Right"}}},
-    ":LIGHT1_Y":{"labels":{"ff":{"player":1,"name":"P2 Up/Down"}}}
+    }
   }
 }

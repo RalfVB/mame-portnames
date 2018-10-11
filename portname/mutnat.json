@@ -1,5 +1,11 @@
 {
   "ports":{
+    ":edge:joy:START":{
+      "labels":{
+        "1":{"player":0,"name":"P1 Start"},
+        "4":{"player":0,"name":"P2 Start"}
+      }
+    },
     ":edge:joy:JOY1":{
       "labels":{
         "10":{"player":0,"name":"P1 Attack"},

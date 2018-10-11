@@ -12,8 +12,8 @@
         "2":{"player":0,"name":"Down"},
         "4":{"player":0,"name":"Left"},
         "8":{"player":0,"name":"Right"},
-        "10":{"player":0,"name":"Button 1"},
-        "20":{"player":0,"name":"Button 2"}
+        "10":{"player":0,"name":"Shot"},
+        "20":{"player":0,"name":"Transform"}
       }
     }
   }

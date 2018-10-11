@@ -12,10 +12,10 @@
         "2":{"player":0,"name":"P1 Down"},
         "4":{"player":0,"name":"P1 Left"},
         "8":{"player":0,"name":"P1 Right"},
-        "10":{"player":0,"name":"P1 A"},
-        "20":{"player":0,"name":"P1 B"},
-        "40":{"player":0,"name":"P1 C"},
-        "80":{"player":0,"name":"P1 D"}
+        "10":{"player":0,"name":"P1 Attack"},
+        "20":{"player":0,"name":"P1 Jump"},
+        "40":{"player":0,"name":"P1 Change"},
+        "80":{"player":0,"name":"-"}
       }
     },
     ":edge:joy:JOY2":{
@@ -24,10 +24,10 @@
         "2":{"player":1,"name":"P2 Down"},
         "4":{"player":1,"name":"P2 Left"},
         "8":{"player":1,"name":"P2 Right"},
-        "10":{"player":1,"name":"P2 A"},
-        "20":{"player":1,"name":"P2 B"},
-        "40":{"player":1,"name":"P2 C"},
-        "80":{"player":1,"name":"P2 D"}
+        "10":{"player":1,"name":"P2 Attack"},
+        "20":{"player":1,"name":"P2 Jump"},
+        "40":{"player":1,"name":"P2 Change"},
+        "80":{"player":1,"name":"-"}
       }
     }
   }

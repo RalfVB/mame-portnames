@@ -1,10 +1,16 @@
 {
   "ports":{
+    ":edge:joy:START":{
+      "labels":{
+        "1":{"player":0,"name":"P1 Start"},
+        "4":{"player":0,"name":"P2 Start"}
+      }
+    },
     ":edge:joy:JOY1":{
       "labels":{
         "10":{"player":0,"name":"P1 Attack"},
         "20":{"player":0,"name":"P1 Jump"},
-        "40":{"player":0,"name":"-"},
+        "40":{"player":0,"name":"P1 Special Attack"},
         "80":{"player":0,"name":"-"}
       }
     },
@@ -12,7 +18,7 @@
       "labels":{
         "10":{"player":1,"name":"P2 Attack"},
         "20":{"player":1,"name":"P2 Jump"},
-        "40":{"player":1,"name":"-"},
+        "40":{"player":1,"name":"P2 Special Attack"},
         "80":{"player":1,"name":"-"}
       }
     }
